@@ -1,0 +1,624 @@
+<?xml version="1.0" encoding="utf-8"?><graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="weight" attr.type="double" for="edge" id="d1" />
+  <key attr.name="weight" attr.type="int" for="node" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="soft-question">
+      <data key="d0">937</data>
+    </node>
+    <node id="group-theory">
+      <data key="d0">2041</data>
+    </node>
+    <node id="probability">
+      <data key="d0">3119</data>
+    </node>
+    <node id="discrete-mathematics">
+      <data key="d0">542</data>
+    </node>
+    <node id="metric-spaces">
+      <data key="d0">466</data>
+    </node>
+    <node id="integral">
+      <data key="d0">1334</data>
+    </node>
+    <node id="functional-analysis">
+      <data key="d0">1360</data>
+    </node>
+    <node id="convergence">
+      <data key="d0">431</data>
+    </node>
+    <node id="inequality">
+      <data key="d0">780</data>
+    </node>
+    <node id="special-functions">
+      <data key="d0">418</data>
+    </node>
+    <node id="analysis">
+      <data key="d0">1699</data>
+    </node>
+    <node id="measure-theory">
+      <data key="d0">1297</data>
+    </node>
+    <node id="linear-algebra">
+      <data key="d0">3742</data>
+    </node>
+    <node id="elementary-number-theory">
+      <data key="d0">1380</data>
+    </node>
+    <node id="probability-distributions">
+      <data key="d0">714</data>
+    </node>
+    <node id="finite-groups">
+      <data key="d0">429</data>
+    </node>
+    <node id="logic">
+      <data key="d0">962</data>
+    </node>
+    <node id="functions">
+      <data key="d0">975</data>
+    </node>
+    <node id="statistics">
+      <data key="d0">1307</data>
+    </node>
+    <node id="abstract-algebra">
+      <data key="d0">2891</data>
+    </node>
+    <node id="combinatorics">
+      <data key="d0">2381</data>
+    </node>
+    <node id="number-theory">
+      <data key="d0">2065</data>
+    </node>
+    <node id="algebraic-number-theory">
+      <data key="d0">419</data>
+    </node>
+    <node id="integration">
+      <data key="d0">650</data>
+    </node>
+    <node id="commutative-algebra">
+      <data key="d0">1063</data>
+    </node>
+    <node id="sequences-and-series">
+      <data key="d0">2032</data>
+    </node>
+    <node id="optimization">
+      <data key="d0">602</data>
+    </node>
+    <node id="numerical-methods">
+      <data key="d0">575</data>
+    </node>
+    <node id="algorithms">
+      <data key="d0">996</data>
+    </node>
+    <node id="reference-request">
+      <data key="d0">1472</data>
+    </node>
+    <node id="differential-equations">
+      <data key="d0">1182</data>
+    </node>
+    <node id="prime-numbers">
+      <data key="d0">596</data>
+    </node>
+    <node id="field-theory">
+      <data key="d0">540</data>
+    </node>
+    <node id="fourier-analysis">
+      <data key="d0">538</data>
+    </node>
+    <node id="calculus">
+      <data key="d0">4204</data>
+    </node>
+    <node id="computer-science">
+      <data key="d0">543</data>
+    </node>
+    <node id="notation">
+      <data key="d0">679</data>
+    </node>
+    <node id="stochastic-processes">
+      <data key="d0">686</data>
+    </node>
+    <node id="set-theory">
+      <data key="d0">674</data>
+    </node>
+    <node id="polynomials">
+      <data key="d0">892</data>
+    </node>
+    <node id="algebraic-geometry">
+      <data key="d0">1409</data>
+    </node>
+    <node id="algebraic-topology">
+      <data key="d0">1091</data>
+    </node>
+    <node id="general-topology">
+      <data key="d0">2045</data>
+    </node>
+    <node id="matrices">
+      <data key="d0">1654</data>
+    </node>
+    <node id="real-analysis">
+      <data key="d0">3518</data>
+    </node>
+    <node id="vector-spaces">
+      <data key="d0">464</data>
+    </node>
+    <node id="multivariable-calculus">
+      <data key="d0">802</data>
+    </node>
+    <node id="category-theory">
+      <data key="d0">514</data>
+    </node>
+    <node id="geometry">
+      <data key="d0">2330</data>
+    </node>
+    <node id="representation-theory">
+      <data key="d0">460</data>
+    </node>
+    <node id="trigonometry">
+      <data key="d0">1068</data>
+    </node>
+    <node id="elementary-set-theory">
+      <data key="d0">897</data>
+    </node>
+    <node id="ring-theory">
+      <data key="d0">824</data>
+    </node>
+    <node id="limit">
+      <data key="d0">863</data>
+    </node>
+    <node id="arithmetic">
+      <data key="d0">425</data>
+    </node>
+    <node id="graph-theory">
+      <data key="d0">986</data>
+    </node>
+    <node id="complex-analysis">
+      <data key="d0">1721</data>
+    </node>
+    <node id="pde">
+      <data key="d0">430</data>
+    </node>
+    <node id="algebra-precalculus">
+      <data key="d0">2085</data>
+    </node>
+    <node id="probability-theory">
+      <data key="d0">1164</data>
+    </node>
+    <node id="differential-geometry">
+      <data key="d0">1049</data>
+    </node>
+    <node id="complex-numbers">
+      <data key="d0">461</data>
+    </node>
+    <node id="terminology">
+      <data key="d0">584</data>
+    </node>
+    <edge source="soft-question" target="category-theory">
+      <data key="d1">2.15775157905</data>
+    </edge>
+    <edge source="soft-question" target="reference-request">
+      <data key="d1">4.26957275764</data>
+    </edge>
+    <edge source="soft-question" target="notation">
+      <data key="d1">2.54085752951</data>
+    </edge>
+    <edge source="soft-question" target="terminology">
+      <data key="d1">3.37620795018</data>
+    </edge>
+    <edge source="group-theory" target="abstract-algebra">
+      <data key="d1">5.27386874164</data>
+    </edge>
+    <edge source="group-theory" target="representation-theory">
+      <data key="d1">4.4890420297</data>
+    </edge>
+    <edge source="group-theory" target="finite-groups">
+      <data key="d1">20.5065093326</data>
+    </edge>
+    <edge source="probability" target="stochastic-processes">
+      <data key="d1">4.66807968092</data>
+    </edge>
+    <edge source="probability" target="statistics">
+      <data key="d1">5.97658549557</data>
+    </edge>
+    <edge source="probability" target="probability-distributions">
+      <data key="d1">8.45153630545</data>
+    </edge>
+    <edge source="probability" target="probability-theory">
+      <data key="d1">5.62945763082</data>
+    </edge>
+    <edge source="discrete-mathematics" target="combinatorics">
+      <data key="d1">5.99484231718</data>
+    </edge>
+    <edge source="discrete-mathematics" target="elementary-set-theory">
+      <data key="d1">2.73128962059</data>
+    </edge>
+    <edge source="discrete-mathematics" target="computer-science">
+      <data key="d1">2.74637961849</data>
+    </edge>
+    <edge source="discrete-mathematics" target="algorithms">
+      <data key="d1">3.74318306436</data>
+    </edge>
+    <edge source="discrete-mathematics" target="graph-theory">
+      <data key="d1">4.42934290398</data>
+    </edge>
+    <edge source="metric-spaces" target="convergence">
+      <data key="d1">2.58708662358</data>
+    </edge>
+    <edge source="metric-spaces" target="general-topology">
+      <data key="d1">9.45098376654</data>
+    </edge>
+    <edge source="metric-spaces" target="real-analysis">
+      <data key="d1">3.06386163617</data>
+    </edge>
+    <edge source="metric-spaces" target="analysis">
+      <data key="d1">2.62515440792</data>
+    </edge>
+    <edge source="metric-spaces" target="functional-analysis">
+      <data key="d1">2.55073213835</data>
+    </edge>
+    <edge source="integral" target="calculus">
+      <data key="d1">6.45476821532</data>
+    </edge>
+    <edge source="integral" target="special-functions">
+      <data key="d1">7.97242168389</data>
+    </edge>
+    <edge source="integral" target="integration">
+      <data key="d1">9.45476646292</data>
+    </edge>
+    <edge source="integral" target="multivariable-calculus">
+      <data key="d1">3.50763832548</data>
+    </edge>
+    <edge source="integral" target="trigonometry">
+      <data key="d1">2.26930355047</data>
+    </edge>
+    <edge source="functional-analysis" target="measure-theory">
+      <data key="d1">3.37124245998</data>
+    </edge>
+    <edge source="functional-analysis" target="pde">
+      <data key="d1">3.45535225718</data>
+    </edge>
+    <edge source="functional-analysis" target="analysis">
+      <data key="d1">2.47362895129</data>
+    </edge>
+    <edge source="functional-analysis" target="fourier-analysis">
+      <data key="d1">3.23514924557</data>
+    </edge>
+    <edge source="convergence" target="analysis">
+      <data key="d1">2.28643572239</data>
+    </edge>
+    <edge source="convergence" target="sequences-and-series">
+      <data key="d1">13.1844090834</data>
+    </edge>
+    <edge source="convergence" target="limit">
+      <data key="d1">7.29527117673</data>
+    </edge>
+    <edge source="convergence" target="measure-theory">
+      <data key="d1">2.68526869968</data>
+    </edge>
+    <edge source="convergence" target="real-analysis">
+      <data key="d1">4.68342590773</data>
+    </edge>
+    <edge source="convergence" target="probability-theory">
+      <data key="d1">3.33733186627</data>
+    </edge>
+    <edge source="inequality" target="analysis">
+      <data key="d1">2.43967341272</data>
+    </edge>
+    <edge source="inequality" target="algebra-precalculus">
+      <data key="d1">3.83402324294</data>
+    </edge>
+    <edge source="inequality" target="special-functions">
+      <data key="d1">3.54152864679</data>
+    </edge>
+    <edge source="inequality" target="optimization">
+      <data key="d1">2.70497487009</data>
+    </edge>
+    <edge source="inequality" target="complex-numbers">
+      <data key="d1">3.05063129206</data>
+    </edge>
+    <edge source="special-functions" target="functions">
+      <data key="d1">2.54990062569</data>
+    </edge>
+    <edge source="special-functions" target="integration">
+      <data key="d1">5.524784689</data>
+    </edge>
+    <edge source="special-functions" target="polynomials">
+      <data key="d1">2.01295406269</data>
+    </edge>
+    <edge source="special-functions" target="sequences-and-series">
+      <data key="d1">2.85483460799</data>
+    </edge>
+    <edge source="special-functions" target="numerical-methods">
+      <data key="d1">3.36291241939</data>
+    </edge>
+    <edge source="special-functions" target="complex-analysis">
+      <data key="d1">2.64842961558</data>
+    </edge>
+    <edge source="special-functions" target="differential-equations">
+      <data key="d1">2.33704936083</data>
+    </edge>
+    <edge source="special-functions" target="fourier-analysis">
+      <data key="d1">2.31055121752</data>
+    </edge>
+    <edge source="analysis" target="multivariable-calculus">
+      <data key="d1">2.28800864231</data>
+    </edge>
+    <edge source="analysis" target="sequences-and-series">
+      <data key="d1">2.19071489482</data>
+    </edge>
+    <edge source="analysis" target="measure-theory">
+      <data key="d1">2.20078480561</data>
+    </edge>
+    <edge source="analysis" target="real-analysis">
+      <data key="d1">4.22108279592</data>
+    </edge>
+    <edge source="analysis" target="pde">
+      <data key="d1">2.13370108272</data>
+    </edge>
+    <edge source="analysis" target="fourier-analysis">
+      <data key="d1">2.5896427157</data>
+    </edge>
+    <edge source="measure-theory" target="integration">
+      <data key="d1">2.73929185695</data>
+    </edge>
+    <edge source="measure-theory" target="real-analysis">
+      <data key="d1">4.31469613482</data>
+    </edge>
+    <edge source="measure-theory" target="probability-theory">
+      <data key="d1">7.11298078834</data>
+    </edge>
+    <edge source="linear-algebra" target="matrices">
+      <data key="d1">8.46057045841</data>
+    </edge>
+    <edge source="linear-algebra" target="vector-spaces">
+      <data key="d1">7.94708366354</data>
+    </edge>
+    <edge source="elementary-number-theory" target="number-theory">
+      <data key="d1">2.91739340983</data>
+    </edge>
+    <edge source="elementary-number-theory" target="prime-numbers">
+      <data key="d1">9.75710777162</data>
+    </edge>
+    <edge source="probability-distributions" target="stochastic-processes">
+      <data key="d1">4.47912226115</data>
+    </edge>
+    <edge source="probability-distributions" target="statistics">
+      <data key="d1">9.34189100277</data>
+    </edge>
+    <edge source="probability-distributions" target="probability-theory">
+      <data key="d1">9.10021706277</data>
+    </edge>
+    <edge source="finite-groups" target="abstract-algebra">
+      <data key="d1">4.4223169889</data>
+    </edge>
+    <edge source="finite-groups" target="representation-theory">
+      <data key="d1">14.0429309821</data>
+    </edge>
+    <edge source="logic" target="elementary-set-theory">
+      <data key="d1">2.20789325472</data>
+    </edge>
+    <edge source="logic" target="computer-science">
+      <data key="d1">3.31572116103</data>
+    </edge>
+    <edge source="logic" target="set-theory">
+      <data key="d1">9.61657526049</data>
+    </edge>
+    <edge source="logic" target="notation">
+      <data key="d1">2.12128022437</data>
+    </edge>
+    <edge source="functions" target="elementary-set-theory">
+      <data key="d1">3.23467512792</data>
+    </edge>
+    <edge source="functions" target="algebra-precalculus">
+      <data key="d1">2.01641222407</data>
+    </edge>
+    <edge source="functions" target="notation">
+      <data key="d1">2.61624561006</data>
+    </edge>
+    <edge source="functions" target="terminology">
+      <data key="d1">3.24462240955</data>
+    </edge>
+    <edge source="statistics" target="probability-theory">
+      <data key="d1">3.14978689951</data>
+    </edge>
+    <edge source="abstract-algebra" target="commutative-algebra">
+      <data key="d1">4.0391385599</data>
+    </edge>
+    <edge source="abstract-algebra" target="category-theory">
+      <data key="d1">2.02033682958</data>
+    </edge>
+    <edge source="abstract-algebra" target="ring-theory">
+      <data key="d1">8.67639611382</data>
+    </edge>
+    <edge source="abstract-algebra" target="polynomials">
+      <data key="d1">3.15673273946</data>
+    </edge>
+    <edge source="abstract-algebra" target="field-theory">
+      <data key="d1">9.98512625389</data>
+    </edge>
+    <edge source="combinatorics" target="graph-theory">
+      <data key="d1">3.76258888615</data>
+    </edge>
+    <edge source="number-theory" target="algebraic-number-theory">
+      <data key="d1">8.34079758678</data>
+    </edge>
+    <edge source="number-theory" target="algorithms">
+      <data key="d1">2.32986279257</data>
+    </edge>
+    <edge source="number-theory" target="prime-numbers">
+      <data key="d1">12.8533370168</data>
+    </edge>
+    <edge source="algebraic-number-theory" target="commutative-algebra">
+      <data key="d1">4.40720525733</data>
+    </edge>
+    <edge source="algebraic-number-theory" target="algebraic-geometry">
+      <data key="d1">3.91170975539</data>
+    </edge>
+    <edge source="algebraic-number-theory" target="ring-theory">
+      <data key="d1">2.50831267234</data>
+    </edge>
+    <edge source="algebraic-number-theory" target="reference-request">
+      <data key="d1">2.15296837709</data>
+    </edge>
+    <edge source="algebraic-number-theory" target="field-theory">
+      <data key="d1">6.88949880668</data>
+    </edge>
+    <edge source="integration" target="calculus">
+      <data key="d1">4.71151357681</data>
+    </edge>
+    <edge source="integration" target="multivariable-calculus">
+      <data key="d1">3.43325148667</data>
+    </edge>
+    <edge source="integration" target="numerical-methods">
+      <data key="d1">3.70733377926</data>
+    </edge>
+    <edge source="integration" target="real-analysis">
+      <data key="d1">2.01981895308</data>
+    </edge>
+    <edge source="integration" target="trigonometry">
+      <data key="d1">2.16232209738</data>
+    </edge>
+    <edge source="commutative-algebra" target="ring-theory">
+      <data key="d1">11.5347774662</data>
+    </edge>
+    <edge source="commutative-algebra" target="algebraic-geometry">
+      <data key="d1">6.74567539544</data>
+    </edge>
+    <edge source="sequences-and-series" target="real-analysis">
+      <data key="d1">2.9155420604</data>
+    </edge>
+    <edge source="sequences-and-series" target="limit">
+      <data key="d1">4.87257871735</data>
+    </edge>
+    <edge source="optimization" target="computer-science">
+      <data key="d1">2.11941777868</data>
+    </edge>
+    <edge source="optimization" target="algorithms">
+      <data key="d1">3.75526357923</data>
+    </edge>
+    <edge source="optimization" target="multivariable-calculus">
+      <data key="d1">4.06574096321</data>
+    </edge>
+    <edge source="optimization" target="numerical-methods">
+      <data key="d1">4.67009100101</data>
+    </edge>
+    <edge source="numerical-methods" target="polynomials">
+      <data key="d1">2.25127705206</data>
+    </edge>
+    <edge source="numerical-methods" target="algorithms">
+      <data key="d1">3.72997730051</data>
+    </edge>
+    <edge source="numerical-methods" target="pde">
+      <data key="d1">5.60410920121</data>
+    </edge>
+    <edge source="numerical-methods" target="differential-equations">
+      <data key="d1">5.77637313323</data>
+    </edge>
+    <edge source="numerical-methods" target="matrices">
+      <data key="d1">2.2461048315</data>
+    </edge>
+    <edge source="algorithms" target="graph-theory">
+      <data key="d1">5.23221282697</data>
+    </edge>
+    <edge source="algorithms" target="computer-science">
+      <data key="d1">9.82110393693</data>
+    </edge>
+    <edge source="algorithms" target="prime-numbers">
+      <data key="d1">3.20951928519</data>
+    </edge>
+    <edge source="reference-request" target="pde">
+      <data key="d1">2.37153058645</data>
+    </edge>
+    <edge source="reference-request" target="representation-theory">
+      <data key="d1">2.55792178639</data>
+    </edge>
+    <edge source="differential-equations" target="pde">
+      <data key="d1">5.90675638453</data>
+    </edge>
+    <edge source="field-theory" target="polynomials">
+      <data key="d1">4.19508802524</data>
+    </edge>
+    <edge source="field-theory" target="ring-theory">
+      <data key="d1">4.02228065444</data>
+    </edge>
+    <edge source="fourier-analysis" target="pde">
+      <data key="d1">3.74345119737</data>
+    </edge>
+    <edge source="calculus" target="limit">
+      <data key="d1">5.87197923293</data>
+    </edge>
+    <edge source="calculus" target="multivariable-calculus">
+      <data key="d1">2.5856606106</data>
+    </edge>
+    <edge source="computer-science" target="graph-theory">
+      <data key="d1">2.6958449602</data>
+    </edge>
+    <edge source="notation" target="elementary-set-theory">
+      <data key="d1">4.07603482727</data>
+    </edge>
+    <edge source="notation" target="terminology">
+      <data key="d1">4.51347166462</data>
+    </edge>
+    <edge source="notation" target="arithmetic">
+      <data key="d1">2.00065840769</data>
+    </edge>
+    <edge source="stochastic-processes" target="probability-theory">
+      <data key="d1">11.3515248515</data>
+    </edge>
+    <edge source="set-theory" target="category-theory">
+      <data key="d1">3.66632797977</data>
+    </edge>
+    <edge source="polynomials" target="ring-theory">
+      <data key="d1">2.43501295224</data>
+    </edge>
+    <edge source="polynomials" target="algebra-precalculus">
+      <data key="d1">3.97347700315</data>
+    </edge>
+    <edge source="polynomials" target="complex-numbers">
+      <data key="d1">2.9483915839</data>
+    </edge>
+    <edge source="algebraic-topology" target="general-topology">
+      <data key="d1">4.19207070967</data>
+    </edge>
+    <edge source="algebraic-topology" target="differential-geometry">
+      <data key="d1">2.01786171457</data>
+    </edge>
+    <edge source="matrices" target="vector-spaces">
+      <data key="d1">4.21275486803</data>
+    </edge>
+    <edge source="real-analysis" target="limit">
+      <data key="d1">3.36587732548</data>
+    </edge>
+    <edge source="multivariable-calculus" target="pde">
+      <data key="d1">2.34378008467</data>
+    </edge>
+    <edge source="multivariable-calculus" target="differential-geometry">
+      <data key="d1">2.81362133275</data>
+    </edge>
+    <edge source="category-theory" target="terminology">
+      <data key="d1">3.26967512393</data>
+    </edge>
+    <edge source="geometry" target="trigonometry">
+      <data key="d1">3.4569312501</data>
+    </edge>
+    <edge source="trigonometry" target="algebra-precalculus">
+      <data key="d1">2.69642084086</data>
+    </edge>
+    <edge source="trigonometry" target="complex-numbers">
+      <data key="d1">4.92502863828</data>
+    </edge>
+    <edge source="elementary-set-theory" target="terminology">
+      <data key="d1">2.31443853942</data>
+    </edge>
+    <edge source="arithmetic" target="algebra-precalculus">
+      <data key="d1">3.77889349697</data>
+    </edge>
+    <edge source="arithmetic" target="terminology">
+      <data key="d1">2.55871877518</data>
+    </edge>
+    <edge source="complex-analysis" target="complex-numbers">
+      <data key="d1">4.00232675096</data>
+    </edge>
+    <edge source="algebra-precalculus" target="complex-numbers">
+      <data key="d1">2.88314112268</data>
+    </edge>
+  </graph>
+</graphml>

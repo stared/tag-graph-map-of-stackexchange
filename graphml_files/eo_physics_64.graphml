@@ -1,0 +1,903 @@
+<?xml version="1.0" encoding="utf-8"?><graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="weight" attr.type="double" for="edge" id="d1" />
+  <key attr.name="weight" attr.type="int" for="node" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="mechanics">
+      <data key="d0">189</data>
+    </node>
+    <node id="quantum-electrodynamics">
+      <data key="d0">85</data>
+    </node>
+    <node id="soft-question">
+      <data key="d0">275</data>
+    </node>
+    <node id="special-relativity">
+      <data key="d0">309</data>
+    </node>
+    <node id="experimental-physics">
+      <data key="d0">190</data>
+    </node>
+    <node id="black-holes">
+      <data key="d0">201</data>
+    </node>
+    <node id="energy-conservation">
+      <data key="d0">110</data>
+    </node>
+    <node id="energy">
+      <data key="d0">285</data>
+    </node>
+    <node id="string-theory">
+      <data key="d0">315</data>
+    </node>
+    <node id="friction">
+      <data key="d0">79</data>
+    </node>
+    <node id="books">
+      <data key="d0">104</data>
+    </node>
+    <node id="entropy">
+      <data key="d0">90</data>
+    </node>
+    <node id="spacetime">
+      <data key="d0">117</data>
+    </node>
+    <node id="quantum-field-theory">
+      <data key="d0">611</data>
+    </node>
+    <node id="newtonian-mechanics">
+      <data key="d0">345</data>
+    </node>
+    <node id="education">
+      <data key="d0">120</data>
+    </node>
+    <node id="mass">
+      <data key="d0">106</data>
+    </node>
+    <node id="acceleration">
+      <data key="d0">82</data>
+    </node>
+    <node id="mathematics">
+      <data key="d0">102</data>
+    </node>
+    <node id="light">
+      <data key="d0">173</data>
+    </node>
+    <node id="temperature">
+      <data key="d0">99</data>
+    </node>
+    <node id="general-relativity">
+      <data key="d0">464</data>
+    </node>
+    <node id="space">
+      <data key="d0">85</data>
+    </node>
+    <node id="electricity">
+      <data key="d0">208</data>
+    </node>
+    <node id="photons">
+      <data key="d0">112</data>
+    </node>
+    <node id="gravity">
+      <data key="d0">417</data>
+    </node>
+    <node id="thermodynamics">
+      <data key="d0">373</data>
+    </node>
+    <node id="kinematics">
+      <data key="d0">124</data>
+    </node>
+    <node id="forces">
+      <data key="d0">270</data>
+    </node>
+    <node id="nuclear-physics">
+      <data key="d0">130</data>
+    </node>
+    <node id="astrophysics">
+      <data key="d0">237</data>
+    </node>
+    <node id="fluid-dynamics">
+      <data key="d0">253</data>
+    </node>
+    <node id="reference-request">
+      <data key="d0">191</data>
+    </node>
+    <node id="momentum">
+      <data key="d0">84</data>
+    </node>
+    <node id="supersymmetry">
+      <data key="d0">112</data>
+    </node>
+    <node id="quantum-gravity">
+      <data key="d0">130</data>
+    </node>
+    <node id="angular-momentum">
+      <data key="d0">98</data>
+    </node>
+    <node id="planets">
+      <data key="d0">89</data>
+    </node>
+    <node id="condensed-matter">
+      <data key="d0">138</data>
+    </node>
+    <node id="theory">
+      <data key="d0">81</data>
+    </node>
+    <node id="time">
+      <data key="d0">86</data>
+    </node>
+    <node id="water">
+      <data key="d0">118</data>
+    </node>
+    <node id="pressure">
+      <data key="d0">92</data>
+    </node>
+    <node id="heat">
+      <data key="d0">144</data>
+    </node>
+    <node id="particle-physics">
+      <data key="d0">369</data>
+    </node>
+    <node id="waves">
+      <data key="d0">147</data>
+    </node>
+    <node id="standard-model">
+      <data key="d0">88</data>
+    </node>
+    <node id="classical-mechanics">
+      <data key="d0">374</data>
+    </node>
+    <node id="astronomy">
+      <data key="d0">288</data>
+    </node>
+    <node id="electromagnetism">
+      <data key="d0">595</data>
+    </node>
+    <node id="sound">
+      <data key="d0">82</data>
+    </node>
+    <node id="mathematical-physics">
+      <data key="d0">262</data>
+    </node>
+    <node id="quantum-mechanics">
+      <data key="d0">1086</data>
+    </node>
+    <node id="quantum-information">
+      <data key="d0">108</data>
+    </node>
+    <node id="statistical-mechanics">
+      <data key="d0">182</data>
+    </node>
+    <node id="electrostatics">
+      <data key="d0">135</data>
+    </node>
+    <node id="cosmology">
+      <data key="d0">268</data>
+    </node>
+    <node id="speed-of-light">
+      <data key="d0">119</data>
+    </node>
+    <node id="homework">
+      <data key="d0">590</data>
+    </node>
+    <node id="universe">
+      <data key="d0">91</data>
+    </node>
+    <node id="electromagnetic-radiation">
+      <data key="d0">181</data>
+    </node>
+    <node id="optics">
+      <data key="d0">289</data>
+    </node>
+    <node id="solid-state-physics">
+      <data key="d0">81</data>
+    </node>
+    <node id="rotational-dynamics">
+      <data key="d0">92</data>
+    </node>
+    <edge source="mechanics" target="acceleration">
+      <data key="d1">4.33604336043</data>
+    </edge>
+    <edge source="mechanics" target="angular-momentum">
+      <data key="d1">4.66472303207</data>
+    </edge>
+    <edge source="mechanics" target="friction">
+      <data key="d1">2.57183041993</data>
+    </edge>
+    <edge source="mechanics" target="forces">
+      <data key="d1">2.4456202234</data>
+    </edge>
+    <edge source="mechanics" target="classical-mechanics">
+      <data key="d1">6.24734742382</data>
+    </edge>
+    <edge source="mechanics" target="newtonian-mechanics">
+      <data key="d1">2.79733149298</data>
+    </edge>
+    <edge source="mechanics" target="rotational-dynamics">
+      <data key="d1">3.31262939959</data>
+    </edge>
+    <edge source="quantum-electrodynamics" target="photons">
+      <data key="d1">8.06722689076</data>
+    </edge>
+    <edge source="quantum-electrodynamics" target="mass">
+      <data key="d1">2.13096559378</data>
+    </edge>
+    <edge source="quantum-electrodynamics" target="quantum-gravity">
+      <data key="d1">3.47511312217</data>
+    </edge>
+    <edge source="quantum-electrodynamics" target="quantum-field-theory">
+      <data key="d1">5.54539328006</data>
+    </edge>
+    <edge source="quantum-electrodynamics" target="electromagnetic-radiation">
+      <data key="d1">3.11992200195</data>
+    </edge>
+    <edge source="quantum-electrodynamics" target="reference-request">
+      <data key="d1">2.95657530028</data>
+    </edge>
+    <edge source="quantum-electrodynamics" target="electromagnetism">
+      <data key="d1">2.08798813643</data>
+    </edge>
+    <edge source="soft-question" target="mathematics">
+      <data key="d1">3.08021390374</data>
+    </edge>
+    <edge source="soft-question" target="reference-request">
+      <data key="d1">4.20371251785</data>
+    </edge>
+    <edge source="soft-question" target="education">
+      <data key="d1">13.0909090909</data>
+    </edge>
+    <edge source="soft-question" target="books">
+      <data key="d1">10.7412587413</data>
+    </edge>
+    <edge source="soft-question" target="theory">
+      <data key="d1">3.01683501684</data>
+    </edge>
+    <edge source="special-relativity" target="acceleration">
+      <data key="d1">2.65214302628</data>
+    </edge>
+    <edge source="special-relativity" target="general-relativity">
+      <data key="d1">2.81218613994</data>
+    </edge>
+    <edge source="special-relativity" target="photons">
+      <data key="d1">2.77392510402</data>
+    </edge>
+    <edge source="special-relativity" target="mass">
+      <data key="d1">4.10331562557</data>
+    </edge>
+    <edge source="special-relativity" target="time">
+      <data key="d1">4.696319711</data>
+    </edge>
+    <edge source="special-relativity" target="speed-of-light">
+      <data key="d1">9.65978624459</data>
+    </edge>
+    <edge source="special-relativity" target="spacetime">
+      <data key="d1">3.45199568501</data>
+    </edge>
+    <edge source="experimental-physics" target="nuclear-physics">
+      <data key="d1">2.33198380567</data>
+    </edge>
+    <edge source="experimental-physics" target="optics">
+      <data key="d1">2.27281005281</data>
+    </edge>
+    <edge source="experimental-physics" target="speed-of-light">
+      <data key="d1">3.3967271119</data>
+    </edge>
+    <edge source="experimental-physics" target="particle-physics">
+      <data key="d1">4.79246897732</data>
+    </edge>
+    <edge source="experimental-physics" target="standard-model">
+      <data key="d1">2.2966507177</data>
+    </edge>
+    <edge source="black-holes" target="general-relativity">
+      <data key="d1">7.41121976325</data>
+    </edge>
+    <edge source="black-holes" target="gravity">
+      <data key="d1">2.63431046208</data>
+    </edge>
+    <edge source="black-holes" target="speed-of-light">
+      <data key="d1">2.0067728584</data>
+    </edge>
+    <edge source="black-holes" target="quantum-gravity">
+      <data key="d1">6.2456946039</data>
+    </edge>
+    <edge source="black-holes" target="astrophysics">
+      <data key="d1">2.82133635619</data>
+    </edge>
+    <edge source="black-holes" target="entropy">
+      <data key="d1">2.65339966833</data>
+    </edge>
+    <edge source="energy-conservation" target="classical-mechanics">
+      <data key="d1">2.33349538162</data>
+    </edge>
+    <edge source="energy-conservation" target="space">
+      <data key="d1">2.05347593583</data>
+    </edge>
+    <edge source="energy-conservation" target="nuclear-physics">
+      <data key="d1">2.01398601399</data>
+    </edge>
+    <edge source="energy-conservation" target="energy">
+      <data key="d1">11.023923445</data>
+    </edge>
+    <edge source="energy-conservation" target="friction">
+      <data key="d1">3.31415420023</data>
+    </edge>
+    <edge source="energy-conservation" target="kinematics">
+      <data key="d1">2.11143695015</data>
+    </edge>
+    <edge source="energy-conservation" target="homework">
+      <data key="d1">2.218798151</data>
+    </edge>
+    <edge source="energy-conservation" target="electromagnetic-radiation">
+      <data key="d1">2.41084881969</data>
+    </edge>
+    <edge source="energy-conservation" target="newtonian-mechanics">
+      <data key="d1">3.28853754941</data>
+    </edge>
+    <edge source="energy-conservation" target="photons">
+      <data key="d1">4.67532467532</data>
+    </edge>
+    <edge source="energy-conservation" target="momentum">
+      <data key="d1">4.15584415584</data>
+    </edge>
+    <edge source="energy" target="temperature">
+      <data key="d1">3.06220095694</data>
+    </edge>
+    <edge source="energy" target="electricity">
+      <data key="d1">2.26720647773</data>
+    </edge>
+    <edge source="energy" target="photons">
+      <data key="d1">3.00751879699</data>
+    </edge>
+    <edge source="energy" target="thermodynamics">
+      <data key="d1">3.3413291943</data>
+    </edge>
+    <edge source="energy" target="heat">
+      <data key="d1">5.14619883041</data>
+    </edge>
+    <edge source="energy" target="mass">
+      <data key="d1">4.44885799404</data>
+    </edge>
+    <edge source="energy" target="homework">
+      <data key="d1">2.05530776093</data>
+    </edge>
+    <edge source="energy" target="entropy">
+      <data key="d1">2.61988304094</data>
+    </edge>
+    <edge source="energy" target="momentum">
+      <data key="d1">6.81704260652</data>
+    </edge>
+    <edge source="energy" target="rotational-dynamics">
+      <data key="d1">2.19679633867</data>
+    </edge>
+    <edge source="string-theory" target="standard-model">
+      <data key="d1">2.07792207792</data>
+    </edge>
+    <edge source="string-theory" target="theory">
+      <data key="d1">2.25749559083</data>
+    </edge>
+    <edge source="string-theory" target="quantum-gravity">
+      <data key="d1">7.2673992674</data>
+    </edge>
+    <edge source="string-theory" target="supersymmetry">
+      <data key="d1">8.16326530612</data>
+    </edge>
+    <edge source="string-theory" target="quantum-field-theory">
+      <data key="d1">2.39420154314</data>
+    </edge>
+    <edge source="friction" target="acceleration">
+      <data key="d1">4.44581661006</data>
+    </edge>
+    <edge source="friction" target="angular-momentum">
+      <data key="d1">3.71996900026</data>
+    </edge>
+    <edge source="friction" target="water">
+      <data key="d1">2.05964385325</data>
+    </edge>
+    <edge source="friction" target="homework">
+      <data key="d1">2.88350139455</data>
+    </edge>
+    <edge source="friction" target="forces">
+      <data key="d1">7.20112517581</data>
+    </edge>
+    <edge source="friction" target="fluid-dynamics">
+      <data key="d1">2.88187321759</data>
+    </edge>
+    <edge source="friction" target="newtonian-mechanics">
+      <data key="d1">11.2713263621</data>
+    </edge>
+    <edge source="friction" target="classical-mechanics">
+      <data key="d1">2.27441954918</data>
+    </edge>
+    <edge source="friction" target="momentum">
+      <data key="d1">2.89330922242</data>
+    </edge>
+    <edge source="books" target="condensed-matter">
+      <data key="d1">2.67558528428</data>
+    </edge>
+    <edge source="books" target="mathematical-physics">
+      <data key="d1">7.39870816207</data>
+    </edge>
+    <edge source="books" target="mathematics">
+      <data key="d1">6.33484162896</data>
+    </edge>
+    <edge source="books" target="reference-request">
+      <data key="d1">14.981876762</data>
+    </edge>
+    <edge source="books" target="education">
+      <data key="d1">12.3076923077</data>
+    </edge>
+    <edge source="entropy" target="temperature">
+      <data key="d1">4.30976430976</data>
+    </edge>
+    <edge source="entropy" target="quantum-information">
+      <data key="d1">2.96296296296</data>
+    </edge>
+    <edge source="entropy" target="statistical-mechanics">
+      <data key="d1">12.3076923077</data>
+    </edge>
+    <edge source="entropy" target="cosmology">
+      <data key="d1">2.38805970149</data>
+    </edge>
+    <edge source="entropy" target="thermodynamics">
+      <data key="d1">13.4405719392</data>
+    </edge>
+    <edge source="entropy" target="heat">
+      <data key="d1">2.96296296296</data>
+    </edge>
+    <edge source="entropy" target="universe">
+      <data key="d1">2.34432234432</data>
+    </edge>
+    <edge source="entropy" target="theory">
+      <data key="d1">2.63374485597</data>
+    </edge>
+    <edge source="spacetime" target="general-relativity">
+      <data key="d1">6.01237842617</data>
+    </edge>
+    <edge source="spacetime" target="space">
+      <data key="d1">5.79185520362</data>
+    </edge>
+    <edge source="spacetime" target="universe">
+      <data key="d1">4.50831220062</data>
+    </edge>
+    <edge source="spacetime" target="gravity">
+      <data key="d1">2.95148496587</data>
+    </edge>
+    <edge source="spacetime" target="cosmology">
+      <data key="d1">2.44929200153</data>
+    </edge>
+    <edge source="spacetime" target="speed-of-light">
+      <data key="d1">4.13703943116</data>
+    </edge>
+    <edge source="spacetime" target="quantum-gravity">
+      <data key="d1">4.41814595661</data>
+    </edge>
+    <edge source="spacetime" target="time">
+      <data key="d1">9.54084675015</data>
+    </edge>
+    <edge source="spacetime" target="astrophysics">
+      <data key="d1">2.76966352916</data>
+    </edge>
+    <edge source="spacetime" target="theory">
+      <data key="d1">2.02595758151</data>
+    </edge>
+    <edge source="quantum-field-theory" target="particle-physics">
+      <data key="d1">2.08641038947</data>
+    </edge>
+    <edge source="quantum-field-theory" target="standard-model">
+      <data key="d1">3.21380746913</data>
+    </edge>
+    <edge source="quantum-field-theory" target="reference-request">
+      <data key="d1">2.87915270649</data>
+    </edge>
+    <edge source="quantum-field-theory" target="supersymmetry">
+      <data key="d1">6.73369184007</data>
+    </edge>
+    <edge source="newtonian-mechanics" target="acceleration">
+      <data key="d1">3.3934252386</data>
+    </edge>
+    <edge source="newtonian-mechanics" target="angular-momentum">
+      <data key="d1">2.83939662822</data>
+    </edge>
+    <edge source="newtonian-mechanics" target="kinematics">
+      <data key="d1">3.36605890603</data>
+    </edge>
+    <edge source="newtonian-mechanics" target="momentum">
+      <data key="d1">7.95031055901</data>
+    </edge>
+    <edge source="newtonian-mechanics" target="forces">
+      <data key="d1">9.68760064412</data>
+    </edge>
+    <edge source="newtonian-mechanics" target="classical-mechanics">
+      <data key="d1">3.19925598698</data>
+    </edge>
+    <edge source="newtonian-mechanics" target="homework">
+      <data key="d1">5.04642593957</data>
+    </edge>
+    <edge source="newtonian-mechanics" target="rotational-dynamics">
+      <data key="d1">8.16635160681</data>
+    </edge>
+    <edge source="education" target="mathematics">
+      <data key="d1">5.49019607843</data>
+    </edge>
+    <edge source="education" target="reference-request">
+      <data key="d1">5.86387434555</data>
+    </edge>
+    <edge source="education" target="momentum">
+      <data key="d1">3.80952380952</data>
+    </edge>
+    <edge source="mass" target="acceleration">
+      <data key="d1">6.62678324896</data>
+    </edge>
+    <edge source="mass" target="angular-momentum">
+      <data key="d1">2.77242972661</data>
+    </edge>
+    <edge source="mass" target="photons">
+      <data key="d1">7.27762803235</data>
+    </edge>
+    <edge source="mass" target="gravity">
+      <data key="d1">3.47495588435</data>
+    </edge>
+    <edge source="mass" target="speed-of-light">
+      <data key="d1">4.56635484382</data>
+    </edge>
+    <edge source="mass" target="forces">
+      <data key="d1">4.69601677149</data>
+    </edge>
+    <edge source="mass" target="particle-physics">
+      <data key="d1">3.19067341617</data>
+    </edge>
+    <edge source="mass" target="standard-model">
+      <data key="d1">5.14579759863</data>
+    </edge>
+    <edge source="mass" target="momentum">
+      <data key="d1">5.39083557951</data>
+    </edge>
+    <edge source="acceleration" target="gravity">
+      <data key="d1">3.64976311634</data>
+    </edge>
+    <edge source="acceleration" target="momentum">
+      <data key="d1">2.78745644599</data>
+    </edge>
+    <edge source="acceleration" target="forces">
+      <data key="d1">5.63685636856</data>
+    </edge>
+    <edge source="acceleration" target="time">
+      <data key="d1">2.72263187748</data>
+    </edge>
+    <edge source="acceleration" target="kinematics">
+      <data key="d1">19.8269079465</data>
+    </edge>
+    <edge source="acceleration" target="homework">
+      <data key="d1">3.77015295577</data>
+    </edge>
+    <edge source="acceleration" target="rotational-dynamics">
+      <data key="d1">2.54506892895</data>
+    </edge>
+    <edge source="mathematics" target="theory">
+      <data key="d1">2.32389251997</data>
+    </edge>
+    <edge source="mathematics" target="waves">
+      <data key="d1">2.56102440976</data>
+    </edge>
+    <edge source="mathematics" target="mathematical-physics">
+      <data key="d1">11.8545127975</data>
+    </edge>
+    <edge source="light" target="speed-of-light">
+      <data key="d1">4.66313693107</data>
+    </edge>
+    <edge source="light" target="photons">
+      <data key="d1">5.45004128819</data>
+    </edge>
+    <edge source="light" target="waves">
+      <data key="d1">3.77492037277</data>
+    </edge>
+    <edge source="light" target="optics">
+      <data key="d1">7.10442626558</data>
+    </edge>
+    <edge source="light" target="electromagnetic-radiation">
+      <data key="d1">3.98556510076</data>
+    </edge>
+    <edge source="temperature" target="space">
+      <data key="d1">3.42245989305</data>
+    </edge>
+    <edge source="temperature" target="statistical-mechanics">
+      <data key="d1">3.7296037296</data>
+    </edge>
+    <edge source="temperature" target="water">
+      <data key="d1">3.28710837185</data>
+    </edge>
+    <edge source="temperature" target="thermodynamics">
+      <data key="d1">11.1788122512</data>
+    </edge>
+    <edge source="temperature" target="heat">
+      <data key="d1">16.1616161616</data>
+    </edge>
+    <edge source="temperature" target="pressure">
+      <data key="d1">6.32411067194</data>
+    </edge>
+    <edge source="general-relativity" target="gravity">
+      <data key="d1">3.6715455222</data>
+    </edge>
+    <edge source="general-relativity" target="cosmology">
+      <data key="d1">3.55120946989</data>
+    </edge>
+    <edge source="general-relativity" target="quantum-gravity">
+      <data key="d1">4.13793103448</data>
+    </edge>
+    <edge source="space" target="universe">
+      <data key="d1">3.72333548804</data>
+    </edge>
+    <edge source="space" target="gravity">
+      <data key="d1">2.43757934829</data>
+    </edge>
+    <edge source="space" target="pressure">
+      <data key="d1">2.45524296675</data>
+    </edge>
+    <edge source="space" target="heat">
+      <data key="d1">3.13725490196</data>
+    </edge>
+    <edge source="space" target="speed-of-light">
+      <data key="d1">2.84725654968</data>
+    </edge>
+    <edge source="space" target="planets">
+      <data key="d1">2.53800396563</data>
+    </edge>
+    <edge source="space" target="time">
+      <data key="d1">7.87961696306</data>
+    </edge>
+    <edge source="space" target="astrophysics">
+      <data key="d1">2.85927029039</data>
+    </edge>
+    <edge source="space" target="astronomy">
+      <data key="d1">3.92156862745</data>
+    </edge>
+    <edge source="space" target="momentum">
+      <data key="d1">4.03361344538</data>
+    </edge>
+    <edge source="electricity" target="electromagnetism">
+      <data key="d1">2.87007110537</data>
+    </edge>
+    <edge source="electricity" target="electrostatics">
+      <data key="d1">4.78632478632</data>
+    </edge>
+    <edge source="photons" target="waves">
+      <data key="d1">2.33236151603</data>
+    </edge>
+    <edge source="photons" target="electromagnetic-radiation">
+      <data key="d1">5.2091554854</data>
+    </edge>
+    <edge source="photons" target="optics">
+      <data key="d1">2.66930301532</data>
+    </edge>
+    <edge source="photons" target="speed-of-light">
+      <data key="d1">5.76230492197</data>
+    </edge>
+    <edge source="photons" target="electromagnetism">
+      <data key="d1">2.16086434574</data>
+    </edge>
+    <edge source="gravity" target="planets">
+      <data key="d1">2.32802522027</data>
+    </edge>
+    <edge source="gravity" target="quantum-gravity">
+      <data key="d1">2.12506917543</data>
+    </edge>
+    <edge source="gravity" target="forces">
+      <data key="d1">2.72848387956</data>
+    </edge>
+    <edge source="gravity" target="rotational-dynamics">
+      <data key="d1">2.50234594933</data>
+    </edge>
+    <edge source="thermodynamics" target="statistical-mechanics">
+      <data key="d1">4.80806057214</data>
+    </edge>
+    <edge source="thermodynamics" target="water">
+      <data key="d1">3.92602353797</data>
+    </edge>
+    <edge source="thermodynamics" target="pressure">
+      <data key="d1">4.75579904418</data>
+    </edge>
+    <edge source="thermodynamics" target="heat">
+      <data key="d1">12.5111706881</data>
+    </edge>
+    <edge source="kinematics" target="momentum">
+      <data key="d1">2.76497695853</data>
+    </edge>
+    <edge source="kinematics" target="homework">
+      <data key="d1">6.56096227447</data>
+    </edge>
+    <edge source="forces" target="pressure">
+      <data key="d1">3.09178743961</data>
+    </edge>
+    <edge source="forces" target="momentum">
+      <data key="d1">5.50264550265</data>
+    </edge>
+    <edge source="forces" target="classical-mechanics">
+      <data key="d1">3.32739156269</data>
+    </edge>
+    <edge source="forces" target="homework">
+      <data key="d1">3.3747645951</data>
+    </edge>
+    <edge source="forces" target="rotational-dynamics">
+      <data key="d1">3.09178743961</data>
+    </edge>
+    <edge source="nuclear-physics" target="particle-physics">
+      <data key="d1">2.20137585991</data>
+    </edge>
+    <edge source="astrophysics" target="universe">
+      <data key="d1">4.00612046182</data>
+    </edge>
+    <edge source="astrophysics" target="cosmology">
+      <data key="d1">5.44114868695</data>
+    </edge>
+    <edge source="astrophysics" target="planets">
+      <data key="d1">3.64101834732</data>
+    </edge>
+    <edge source="astrophysics" target="astronomy">
+      <data key="d1">6.32911392405</data>
+    </edge>
+    <edge source="fluid-dynamics" target="water">
+      <data key="d1">6.10973403899</data>
+    </edge>
+    <edge source="fluid-dynamics" target="pressure">
+      <data key="d1">5.77418800481</data>
+    </edge>
+    <edge source="fluid-dynamics" target="sound">
+      <data key="d1">5.0901378579</data>
+    </edge>
+    <edge source="fluid-dynamics" target="reference-request">
+      <data key="d1">2.18529478716</data>
+    </edge>
+    <edge source="reference-request" target="condensed-matter">
+      <data key="d1">2.18529478716</data>
+    </edge>
+    <edge source="reference-request" target="quantum-information">
+      <data key="d1">3.72309482257</data>
+    </edge>
+    <edge source="reference-request" target="statistical-mechanics">
+      <data key="d1">2.20930901559</data>
+    </edge>
+    <edge source="reference-request" target="mathematical-physics">
+      <data key="d1">2.4939051197</data>
+    </edge>
+    <edge source="momentum" target="angular-momentum">
+      <data key="d1">3.49854227405</data>
+    </edge>
+    <edge source="momentum" target="classical-mechanics">
+      <data key="d1">3.05576776165</data>
+    </edge>
+    <edge source="momentum" target="homework">
+      <data key="d1">3.6803874092</data>
+    </edge>
+    <edge source="supersymmetry" target="standard-model">
+      <data key="d1">2.92207792208</data>
+    </edge>
+    <edge source="supersymmetry" target="particle-physics">
+      <data key="d1">3.48432055749</data>
+    </edge>
+    <edge source="supersymmetry" target="theory">
+      <data key="d1">2.1164021164</data>
+    </edge>
+    <edge source="quantum-gravity" target="cosmology">
+      <data key="d1">3.03099885189</data>
+    </edge>
+    <edge source="angular-momentum" target="planets">
+      <data key="d1">2.20132997019</data>
+    </edge>
+    <edge source="angular-momentum" target="classical-mechanics">
+      <data key="d1">4.71461311797</data>
+    </edge>
+    <edge source="angular-momentum" target="rotational-dynamics">
+      <data key="d1">10.6477373558</data>
+    </edge>
+    <edge source="planets" target="universe">
+      <data key="d1">2.37066304482</data>
+    </edge>
+    <edge source="planets" target="time">
+      <data key="d1">2.50849229161</data>
+    </edge>
+    <edge source="planets" target="astronomy">
+      <data key="d1">8.61423220974</data>
+    </edge>
+    <edge source="planets" target="rotational-dynamics">
+      <data key="d1">3.51734245237</data>
+    </edge>
+    <edge source="condensed-matter" target="solid-state-physics">
+      <data key="d1">16.3177670424</data>
+    </edge>
+    <edge source="condensed-matter" target="statistical-mechanics">
+      <data key="d1">4.20449116101</data>
+    </edge>
+    <edge source="theory" target="universe">
+      <data key="d1">6.51200651201</data>
+    </edge>
+    <edge source="theory" target="cosmology">
+      <data key="d1">2.21116639027</data>
+    </edge>
+    <edge source="theory" target="mathematical-physics">
+      <data key="d1">2.26180378852</data>
+    </edge>
+    <edge source="theory" target="time">
+      <data key="d1">2.75624461671</data>
+    </edge>
+    <edge source="time" target="universe">
+      <data key="d1">7.36008177869</data>
+    </edge>
+    <edge source="water" target="pressure">
+      <data key="d1">7.95873249816</data>
+    </edge>
+    <edge source="water" target="heat">
+      <data key="d1">7.90960451977</data>
+    </edge>
+    <edge source="water" target="waves">
+      <data key="d1">4.42753372535</data>
+    </edge>
+    <edge source="pressure" target="sound">
+      <data key="d1">6.36267232238</data>
+    </edge>
+    <edge source="pressure" target="heat">
+      <data key="d1">2.89855072464</data>
+    </edge>
+    <edge source="heat" target="electromagnetic-radiation">
+      <data key="d1">2.20994475138</data>
+    </edge>
+    <edge source="heat" target="homework">
+      <data key="d1">2.25988700565</data>
+    </edge>
+    <edge source="particle-physics" target="standard-model">
+      <data key="d1">11.8255728012</data>
+    </edge>
+    <edge source="waves" target="sound">
+      <data key="d1">7.96416127427</data>
+    </edge>
+    <edge source="waves" target="electromagnetic-radiation">
+      <data key="d1">6.13372420792</data>
+    </edge>
+    <edge source="waves" target="optics">
+      <data key="d1">2.71167290446</data>
+    </edge>
+    <edge source="waves" target="electromagnetism">
+      <data key="d1">3.07322929172</data>
+    </edge>
+    <edge source="classical-mechanics" target="rotational-dynamics">
+      <data key="d1">7.53313182981</data>
+    </edge>
+    <edge source="astronomy" target="universe">
+      <data key="d1">2.9304029304</data>
+    </edge>
+    <edge source="electromagnetism" target="electrostatics">
+      <data key="d1">4.18300653595</data>
+    </edge>
+    <edge source="electromagnetism" target="electromagnetic-radiation">
+      <data key="d1">3.03078137332</data>
+    </edge>
+    <edge source="sound" target="electromagnetic-radiation">
+      <data key="d1">2.58725239186</data>
+    </edge>
+    <edge source="mathematical-physics" target="statistical-mechanics">
+      <data key="d1">2.01325392165</data>
+    </edge>
+    <edge source="quantum-mechanics" target="quantum-information">
+      <data key="d1">4.25618989155</data>
+    </edge>
+    <edge source="statistical-mechanics" target="solid-state-physics">
+      <data key="d1">3.256003256</data>
+    </edge>
+    <edge source="electrostatics" target="homework">
+      <data key="d1">3.3747645951</data>
+    </edge>
+    <edge source="cosmology" target="universe">
+      <data key="d1">9.84090536329</data>
+    </edge>
+    <edge source="speed-of-light" target="universe">
+      <data key="d1">2.6595253486</data>
+    </edge>
+    <edge source="speed-of-light" target="electromagnetic-radiation">
+      <data key="d1">2.67421885881</data>
+    </edge>
+    <edge source="homework" target="rotational-dynamics">
+      <data key="d1">3.89093588799</data>
+    </edge>
+    <edge source="electromagnetic-radiation" target="optics">
+      <data key="d1">3.67049647288</data>
+    </edge>
+  </graph>
+</graphml>

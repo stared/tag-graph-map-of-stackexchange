@@ -1,0 +1,612 @@
+<?xml version="1.0" encoding="utf-8"?><graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="weight" attr.type="double" for="edge" id="d1" />
+  <key attr.name="weight" attr.type="int" for="node" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="etiquette">
+      <data key="d0">388</data>
+    </node>
+    <node id="community-wiki">
+      <data key="d0">350</data>
+    </node>
+    <node id="markdown">
+      <data key="d0">492</data>
+    </node>
+    <node id="formatting">
+      <data key="d0">256</data>
+    </node>
+    <node id="deleted-questions">
+      <data key="d0">332</data>
+    </node>
+    <node id="favorite-tags">
+      <data key="d0">262</data>
+    </node>
+    <node id="meta">
+      <data key="d0">416</data>
+    </node>
+    <node id="migration">
+      <data key="d0">581</data>
+    </node>
+    <node id="questions">
+      <data key="d0">1480</data>
+    </node>
+    <node id="specific-question">
+      <data key="d0">527</data>
+    </node>
+    <node id="flagging">
+      <data key="d0">742</data>
+    </node>
+    <node id="status-norepro">
+      <data key="d0">246</data>
+    </node>
+    <node id="badges">
+      <data key="d0">1106</data>
+    </node>
+    <node id="unanswered-questions">
+      <data key="d0">251</data>
+    </node>
+    <node id="delete">
+      <data key="d0">292</data>
+    </node>
+    <node id="retag-request">
+      <data key="d0">522</data>
+    </node>
+    <node id="tag-wiki">
+      <data key="d0">279</data>
+    </node>
+    <node id="new-users">
+      <data key="d0">342</data>
+    </node>
+    <node id="review">
+      <data key="d0">356</data>
+    </node>
+    <node id="tag-synonyms">
+      <data key="d0">517</data>
+    </node>
+    <node id="comments">
+      <data key="d0">1314</data>
+    </node>
+    <node id="bug">
+      <data key="d0">6638</data>
+    </node>
+    <node id="close-reasons">
+      <data key="d0">267</data>
+    </node>
+    <node id="down-votes">
+      <data key="d0">584</data>
+    </node>
+    <node id="hyperlinks">
+      <data key="d0">486</data>
+    </node>
+    <node id="accepted-answer">
+      <data key="d0">545</data>
+    </node>
+    <node id="bounty">
+      <data key="d0">729</data>
+    </node>
+    <node id="badge-request">
+      <data key="d0">237</data>
+    </node>
+    <node id="status-bydesign">
+      <data key="d0">1069</data>
+    </node>
+    <node id="user-accounts">
+      <data key="d0">328</data>
+    </node>
+    <node id="profile-page">
+      <data key="d0">704</data>
+    </node>
+    <node id="careers">
+      <data key="d0">1000</data>
+    </node>
+    <node id="feature-request">
+      <data key="d0">10499</data>
+    </node>
+    <node id="openid">
+      <data key="d0">397</data>
+    </node>
+    <node id="users">
+      <data key="d0">314</data>
+    </node>
+    <node id="deleted-answers">
+      <data key="d0">249</data>
+    </node>
+    <node id="tags">
+      <data key="d0">2372</data>
+    </node>
+    <node id="data-explorer">
+      <data key="d0">399</data>
+    </node>
+    <node id="answers">
+      <data key="d0">1087</data>
+    </node>
+    <node id="up-votes">
+      <data key="d0">285</data>
+    </node>
+    <node id="exact-duplicates">
+      <data key="d0">473</data>
+    </node>
+    <node id="notifications">
+      <data key="d0">459</data>
+    </node>
+    <node id="moderation">
+      <data key="d0">311</data>
+    </node>
+    <node id="status-completed">
+      <data key="d0">5114</data>
+    </node>
+    <node id="stackoverflow">
+      <data key="d0">3093</data>
+    </node>
+    <node id="vote-to-close">
+      <data key="d0">509</data>
+    </node>
+    <node id="editing">
+      <data key="d0">1033</data>
+    </node>
+    <node id="stackexchange">
+      <data key="d0">821</data>
+    </node>
+    <node id="privileges">
+      <data key="d0">252</data>
+    </node>
+    <node id="moderator-tools">
+      <data key="d0">300</data>
+    </node>
+    <node id="search">
+      <data key="d0">760</data>
+    </node>
+    <node id="suggested-edits">
+      <data key="d0">638</data>
+    </node>
+    <node id="closed-questions">
+      <data key="d0">498</data>
+    </node>
+    <node id="reputation">
+      <data key="d0">1946</data>
+    </node>
+    <node id="asking-questions">
+      <data key="d0">512</data>
+    </node>
+    <node id="discussion">
+      <data key="d0">13632</data>
+    </node>
+    <node id="login">
+      <data key="d0">293</data>
+    </node>
+    <node id="status-declined">
+      <data key="d0">806</data>
+    </node>
+    <node id="voting">
+      <data key="d0">944</data>
+    </node>
+    <node id="support">
+      <data key="d0">8904</data>
+    </node>
+    <node id="user-interface">
+      <data key="d0">764</data>
+    </node>
+    <edge source="etiquette" target="discussion">
+      <data key="d1">2.44734796234</data>
+    </edge>
+    <edge source="etiquette" target="answers">
+      <data key="d1">3.7256233462</data>
+    </edge>
+    <edge source="etiquette" target="exact-duplicates">
+      <data key="d1">2.65009481049</data>
+    </edge>
+    <edge source="etiquette" target="down-votes">
+      <data key="d1">3.13703925999</data>
+    </edge>
+    <edge source="etiquette" target="accepted-answer">
+      <data key="d1">3.89229168637</data>
+    </edge>
+    <edge source="etiquette" target="questions">
+      <data key="d1">2.2151156311</data>
+    </edge>
+    <edge source="etiquette" target="editing">
+      <data key="d1">4.10706479975</data>
+    </edge>
+    <edge source="etiquette" target="asking-questions">
+      <data key="d1">3.76651095361</data>
+    </edge>
+    <edge source="community-wiki" target="specific-question">
+      <data key="d1">3.0424505286</data>
+    </edge>
+    <edge source="community-wiki" target="editing">
+      <data key="d1">2.1730106486</data>
+    </edge>
+    <edge source="markdown" target="formatting">
+      <data key="d1">12.4754192073</data>
+    </edge>
+    <edge source="markdown" target="comments">
+      <data key="d1">3.24069742981</data>
+    </edge>
+    <edge source="markdown" target="hyperlinks">
+      <data key="d1">7.35372545083</data>
+    </edge>
+    <edge source="markdown" target="status-bydesign">
+      <data key="d1">2.98756531064</data>
+    </edge>
+    <edge source="markdown" target="status-norepro">
+      <data key="d1">2.1637583449</data>
+    </edge>
+    <edge source="markdown" target="bug">
+      <data key="d1">2.1765175621</data>
+    </edge>
+    <edge source="formatting" target="hyperlinks">
+      <data key="d1">3.90911136831</data>
+    </edge>
+    <edge source="formatting" target="status-norepro">
+      <data key="d1">2.3762703252</data>
+    </edge>
+    <edge source="formatting" target="comments">
+      <data key="d1">2.33558076484</data>
+    </edge>
+    <edge source="deleted-questions" target="specific-question">
+      <data key="d1">5.77332479824</data>
+    </edge>
+    <edge source="deleted-questions" target="closed-questions">
+      <data key="d1">3.62045773455</data>
+    </edge>
+    <edge source="deleted-questions" target="deleted-answers">
+      <data key="d1">18.5548458896</data>
+    </edge>
+    <edge source="deleted-questions" target="delete">
+      <data key="d1">5.78870275623</data>
+    </edge>
+    <edge source="favorite-tags" target="unanswered-questions">
+      <data key="d1">3.41339983577</data>
+    </edge>
+    <edge source="favorite-tags" target="user-interface">
+      <data key="d1">3.73806002958</data>
+    </edge>
+    <edge source="favorite-tags" target="tags">
+      <data key="d1">4.87618269119</data>
+    </edge>
+    <edge source="meta" target="close-reasons">
+      <data key="d1">2.35778594065</data>
+    </edge>
+    <edge source="meta" target="down-votes">
+      <data key="d1">2.30991504215</data>
+    </edge>
+    <edge source="migration" target="closed-questions">
+      <data key="d1">2.58604123897</data>
+    </edge>
+    <edge source="migration" target="close-reasons">
+      <data key="d1">2.41170138016</data>
+    </edge>
+    <edge source="migration" target="moderator-tools">
+      <data key="d1">2.79033849684</data>
+    </edge>
+    <edge source="migration" target="specific-question">
+      <data key="d1">2.9324824372</data>
+    </edge>
+    <edge source="migration" target="moderation">
+      <data key="d1">2.89869445628</data>
+    </edge>
+    <edge source="migration" target="vote-to-close">
+      <data key="d1">3.28920058567</data>
+    </edge>
+    <edge source="migration" target="stackexchange">
+      <data key="d1">2.19608763923</data>
+    </edge>
+    <edge source="questions" target="unanswered-questions">
+      <data key="d1">2.31634542909</data>
+    </edge>
+    <edge source="questions" target="asking-questions">
+      <data key="d1">2.86356630068</data>
+    </edge>
+    <edge source="questions" target="answers">
+      <data key="d1">3.81384917576</data>
+    </edge>
+    <edge source="specific-question" target="unanswered-questions">
+      <data key="d1">2.8283072643</data>
+    </edge>
+    <edge source="specific-question" target="deleted-answers">
+      <data key="d1">2.28081967338</data>
+    </edge>
+    <edge source="specific-question" target="closed-questions">
+      <data key="d1">9.12327869352</data>
+    </edge>
+    <edge source="specific-question" target="close-reasons">
+      <data key="d1">5.583523442</data>
+    </edge>
+    <edge source="specific-question" target="stackoverflow">
+      <data key="d1">2.15748728076</data>
+    </edge>
+    <edge source="specific-question" target="delete">
+      <data key="d1">2.18806373632</data>
+    </edge>
+    <edge source="flagging" target="moderator-tools">
+      <data key="d1">4.70591194969</data>
+    </edge>
+    <edge source="flagging" target="vote-to-close">
+      <data key="d1">3.16985368489</data>
+    </edge>
+    <edge source="flagging" target="moderation">
+      <data key="d1">7.29556859448</data>
+    </edge>
+    <edge source="flagging" target="review">
+      <data key="d1">2.97424210303</data>
+    </edge>
+    <edge source="flagging" target="exact-duplicates">
+      <data key="d1">2.13194440487</data>
+    </edge>
+    <edge source="status-norepro" target="login">
+      <data key="d1">6.74763450706</data>
+    </edge>
+    <edge source="status-norepro" target="bug">
+      <data key="d1">4.76542792545</data>
+    </edge>
+    <edge source="badges" target="badge-request">
+      <data key="d1">12.7027414715</data>
+    </edge>
+    <edge source="unanswered-questions" target="search">
+      <data key="d1">2.54957014049</data>
+    </edge>
+    <edge source="unanswered-questions" target="asking-questions">
+      <data key="d1">2.03781748008</data>
+    </edge>
+    <edge source="unanswered-questions" target="up-votes">
+      <data key="d1">2.61494373384</data>
+    </edge>
+    <edge source="unanswered-questions" target="accepted-answer">
+      <data key="d1">4.10234292189</data>
+    </edge>
+    <edge source="unanswered-questions" target="bounty">
+      <data key="d1">3.68029118096</data>
+    </edge>
+    <edge source="unanswered-questions" target="delete">
+      <data key="d1">2.55225672652</data>
+    </edge>
+    <edge source="delete" target="exact-duplicates">
+      <data key="d1">2.16699006632</data>
+    </edge>
+    <edge source="delete" target="deleted-answers">
+      <data key="d1">6.68916762942</data>
+    </edge>
+    <edge source="delete" target="closed-questions">
+      <data key="d1">2.8300324586</data>
+    </edge>
+    <edge source="delete" target="moderation">
+      <data key="d1">2.47183191649</data>
+    </edge>
+    <edge source="delete" target="comments">
+      <data key="d1">2.24264506578</data>
+    </edge>
+    <edge source="delete" target="user-accounts">
+      <data key="d1">5.85929669228</data>
+    </edge>
+    <edge source="retag-request" target="support">
+      <data key="d1">2.69649785021</data>
+    </edge>
+    <edge source="retag-request" target="stackoverflow">
+      <data key="d1">6.58080228126</data>
+    </edge>
+    <edge source="retag-request" target="tags">
+      <data key="d1">6.25455021225</data>
+    </edge>
+    <edge source="retag-request" target="tag-synonyms">
+      <data key="d1">14.5559038662</data>
+    </edge>
+    <edge source="tag-wiki" target="suggested-edits">
+      <data key="d1">10.5088706868</data>
+    </edge>
+    <edge source="tag-wiki" target="privileges">
+      <data key="d1">3.72481083234</data>
+    </edge>
+    <edge source="tag-wiki" target="status-completed">
+      <data key="d1">2.25498911555</data>
+    </edge>
+    <edge source="tag-wiki" target="tags">
+      <data key="d1">2.71352155071</data>
+    </edge>
+    <edge source="new-users" target="asking-questions">
+      <data key="d1">3.63215003655</data>
+    </edge>
+    <edge source="new-users" target="privileges">
+      <data key="d1">2.60456697299</data>
+    </edge>
+    <edge source="new-users" target="moderation">
+      <data key="d1">2.46219514488</data>
+    </edge>
+    <edge source="new-users" target="down-votes">
+      <data key="d1">3.18435071698</data>
+    </edge>
+    <edge source="new-users" target="reputation">
+      <data key="d1">2.02369232434</data>
+    </edge>
+    <edge source="new-users" target="user-interface">
+      <data key="d1">2.14774501699</data>
+    </edge>
+    <edge source="new-users" target="accepted-answer">
+      <data key="d1">2.20790814958</data>
+    </edge>
+    <edge source="review" target="vote-to-close">
+      <data key="d1">2.06463433478</data>
+    </edge>
+    <edge source="review" target="suggested-edits">
+      <data key="d1">7.24757845796</data>
+    </edge>
+    <edge source="tag-synonyms" target="privileges">
+      <data key="d1">2.58441558442</data>
+    </edge>
+    <edge source="tag-synonyms" target="stackoverflow">
+      <data key="d1">2.9010963172</data>
+    </edge>
+    <edge source="tag-synonyms" target="tags">
+      <data key="d1">5.24727885942</data>
+    </edge>
+    <edge source="comments" target="up-votes">
+      <data key="d1">2.59743117306</data>
+    </edge>
+    <edge source="comments" target="notifications">
+      <data key="d1">3.47368874829</data>
+    </edge>
+    <edge source="comments" target="hyperlinks">
+      <data key="d1">2.69486567576</data>
+    </edge>
+    <edge source="comments" target="status-declined">
+      <data key="d1">2.29611626651</data>
+    </edge>
+    <edge source="bug" target="status-bydesign">
+      <data key="d1">4.60267400524</data>
+    </edge>
+    <edge source="bug" target="status-completed">
+      <data key="d1">3.02961675368</data>
+    </edge>
+    <edge source="close-reasons" target="exact-duplicates">
+      <data key="d1">5.62849292507</data>
+    </edge>
+    <edge source="close-reasons" target="closed-questions">
+      <data key="d1">10.9732412797</data>
+    </edge>
+    <edge source="close-reasons" target="moderation">
+      <data key="d1">3.60436913665</data>
+    </edge>
+    <edge source="close-reasons" target="vote-to-close">
+      <data key="d1">12.9383751646</data>
+    </edge>
+    <edge source="down-votes" target="up-votes">
+      <data key="d1">10.3397740928</data>
+    </edge>
+    <edge source="down-votes" target="voting">
+      <data key="d1">5.56467668911</data>
+    </edge>
+    <edge source="down-votes" target="reputation">
+      <data key="d1">2.33729533008</data>
+    </edge>
+    <edge source="hyperlinks" target="status-bydesign">
+      <data key="d1">2.23233128149</data>
+    </edge>
+    <edge source="accepted-answer" target="answers">
+      <data key="d1">5.11528573719</data>
+    </edge>
+    <edge source="accepted-answer" target="up-votes">
+      <data key="d1">3.6129406084</data>
+    </edge>
+    <edge source="accepted-answer" target="bounty">
+      <data key="d1">2.54243968739</data>
+    </edge>
+    <edge source="badge-request" target="status-declined">
+      <data key="d1">3.52533216069</data>
+    </edge>
+    <edge source="badge-request" target="feature-request">
+      <data key="d1">2.90182991107</data>
+    </edge>
+    <edge source="status-bydesign" target="privileges">
+      <data key="d1">2.22204404057</data>
+    </edge>
+    <edge source="user-accounts" target="openid">
+      <data key="d1">9.48113903053</data>
+    </edge>
+    <edge source="user-accounts" target="users">
+      <data key="d1">3.99576666149</data>
+    </edge>
+    <edge source="user-accounts" target="support">
+      <data key="d1">2.28019470559</data>
+    </edge>
+    <edge source="user-accounts" target="data-explorer">
+      <data key="d1">2.28693685433</data>
+    </edge>
+    <edge source="user-accounts" target="login">
+      <data key="d1">4.67143927412</data>
+    </edge>
+    <edge source="user-accounts" target="profile-page">
+      <data key="d1">2.59229490022</data>
+    </edge>
+    <edge source="profile-page" target="users">
+      <data key="d1">2.03090619572</data>
+    </edge>
+    <edge source="careers" target="status-completed">
+      <data key="d1">2.56777708252</data>
+    </edge>
+    <edge source="feature-request" target="status-declined">
+      <data key="d1">2.65264540142</data>
+    </edge>
+    <edge source="openid" target="login">
+      <data key="d1">29.5897043526</data>
+    </edge>
+    <edge source="openid" target="support">
+      <data key="d1">2.50832388466</data>
+    </edge>
+    <edge source="openid" target="data-explorer">
+      <data key="d1">2.12564155982</data>
+    </edge>
+    <edge source="users" target="search">
+      <data key="d1">3.13543412672</data>
+    </edge>
+    <edge source="users" target="up-votes">
+      <data key="d1">2.09028941781</data>
+    </edge>
+    <edge source="deleted-answers" target="moderation">
+      <data key="d1">3.86492594171</data>
+    </edge>
+    <edge source="deleted-answers" target="answers">
+      <data key="d1">2.76447094727</data>
+    </edge>
+    <edge source="tags" target="search">
+      <data key="d1">2.13756767551</data>
+    </edge>
+    <edge source="tags" target="stackoverflow">
+      <data key="d1">2.02954830823</data>
+    </edge>
+    <edge source="data-explorer" target="login">
+      <data key="d1">3.52016560172</data>
+    </edge>
+    <edge source="data-explorer" target="status-completed">
+      <data key="d1">2.42019989355</data>
+    </edge>
+    <edge source="answers" target="up-votes">
+      <data key="d1">2.29451088623</data>
+    </edge>
+    <edge source="up-votes" target="reputation">
+      <data key="d1">2.83316925407</data>
+    </edge>
+    <edge source="up-votes" target="voting">
+      <data key="d1">5.56229556943</data>
+    </edge>
+    <edge source="exact-duplicates" target="closed-questions">
+      <data key="d1">4.92359289165</data>
+    </edge>
+    <edge source="exact-duplicates" target="vote-to-close">
+      <data key="d1">9.63437823199</data>
+    </edge>
+    <edge source="notifications" target="privileges">
+      <data key="d1">3.2344295743</data>
+    </edge>
+    <edge source="notifications" target="editing">
+      <data key="d1">2.05149879679</data>
+    </edge>
+    <edge source="moderation" target="moderator-tools">
+      <data key="d1">7.61873526259</data>
+    </edge>
+    <edge source="moderation" target="vote-to-close">
+      <data key="d1">3.54506345587</data>
+    </edge>
+    <edge source="vote-to-close" target="closed-questions">
+      <data key="d1">5.16573168904</data>
+    </edge>
+    <edge source="editing" target="suggested-edits">
+      <data key="d1">5.05219299177</data>
+    </edge>
+    <edge source="editing" target="privileges">
+      <data key="d1">2.73063507429</data>
+    </edge>
+    <edge source="stackexchange" target="login">
+      <data key="d1">2.02182471223</data>
+    </edge>
+    <edge source="privileges" target="suggested-edits">
+      <data key="d1">3.49044633527</data>
+    </edge>
+    <edge source="privileges" target="reputation">
+      <data key="d1">4.11965937454</data>
+    </edge>
+    <edge source="login" target="support">
+      <data key="d1">2.03632221129</data>
+    </edge>
+    <edge source="status-declined" target="user-interface">
+      <data key="d1">2.30869265846</data>
+    </edge>
+  </graph>
+</graphml>

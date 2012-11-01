@@ -1,0 +1,801 @@
+<?xml version="1.0" encoding="utf-8"?><graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="weight" attr.type="double" for="edge" id="d1" />
+  <key attr.name="weight" attr.type="int" for="node" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="multivariate-analysis">
+      <data key="d0">189</data>
+    </node>
+    <node id="forecasting">
+      <data key="d0">137</data>
+    </node>
+    <node id="predictive-models">
+      <data key="d0">162</data>
+    </node>
+    <node id="classification">
+      <data key="d0">310</data>
+    </node>
+    <node id="factor-analysis">
+      <data key="d0">99</data>
+    </node>
+    <node id="logistic">
+      <data key="d0">143</data>
+    </node>
+    <node id="multiple-regression">
+      <data key="d0">131</data>
+    </node>
+    <node id="nonparametric">
+      <data key="d0">143</data>
+    </node>
+    <node id="sampling">
+      <data key="d0">211</data>
+    </node>
+    <node id="cross-validation">
+      <data key="d0">148</data>
+    </node>
+    <node id="books">
+      <data key="d0">150</data>
+    </node>
+    <node id="generalized-linear-model">
+      <data key="d0">140</data>
+    </node>
+    <node id="standard-deviation">
+      <data key="d0">119</data>
+    </node>
+    <node id="sas">
+      <data key="d0">130</data>
+    </node>
+    <node id="algorithms">
+      <data key="d0">110</data>
+    </node>
+    <node id="hypothesis-testing">
+      <data key="d0">455</data>
+    </node>
+    <node id="distributions">
+      <data key="d0">561</data>
+    </node>
+    <node id="regression">
+      <data key="d0">1197</data>
+    </node>
+    <node id="clustering">
+      <data key="d0">330</data>
+    </node>
+    <node id="multilevel-analysis">
+      <data key="d0">97</data>
+    </node>
+    <node id="sample-size">
+      <data key="d0">102</data>
+    </node>
+    <node id="confidence-interval">
+      <data key="d0">270</data>
+    </node>
+    <node id="multiple-comparisons">
+      <data key="d0">123</data>
+    </node>
+    <node id="anova">
+      <data key="d0">342</data>
+    </node>
+    <node id="categorical-data">
+      <data key="d0">154</data>
+    </node>
+    <node id="optimization">
+      <data key="d0">101</data>
+    </node>
+    <node id="model-selection">
+      <data key="d0">146</data>
+    </node>
+    <node id="machine-learning">
+      <data key="d0">638</data>
+    </node>
+    <node id="repeated-measures">
+      <data key="d0">214</data>
+    </node>
+    <node id="mean">
+      <data key="d0">120</data>
+    </node>
+    <node id="survey">
+      <data key="d0">103</data>
+    </node>
+    <node id="pca">
+      <data key="d0">176</data>
+    </node>
+    <node id="normal-distribution">
+      <data key="d0">265</data>
+    </node>
+    <node id="homework">
+      <data key="d0">288</data>
+    </node>
+    <node id="matlab">
+      <data key="d0">148</data>
+    </node>
+    <node id="estimation">
+      <data key="d0">260</data>
+    </node>
+    <node id="stata">
+      <data key="d0">116</data>
+    </node>
+    <node id="statistical-significance">
+      <data key="d0">308</data>
+    </node>
+    <node id="survival">
+      <data key="d0">120</data>
+    </node>
+    <node id="data-transformation">
+      <data key="d0">131</data>
+    </node>
+    <node id="probability">
+      <data key="d0">462</data>
+    </node>
+    <node id="binomial">
+      <data key="d0">132</data>
+    </node>
+    <node id="mathematical-statistics">
+      <data key="d0">116</data>
+    </node>
+    <node id="bayesian">
+      <data key="d0">344</data>
+    </node>
+    <node id="modeling">
+      <data key="d0">207</data>
+    </node>
+    <node id="dataset">
+      <data key="d0">187</data>
+    </node>
+    <node id="experiment-design">
+      <data key="d0">125</data>
+    </node>
+    <node id="svm">
+      <data key="d0">134</data>
+    </node>
+    <node id="data-mining">
+      <data key="d0">165</data>
+    </node>
+    <node id="text-mining">
+      <data key="d0">98</data>
+    </node>
+    <node id="bootstrap">
+      <data key="d0">108</data>
+    </node>
+    <node id="chi-squared">
+      <data key="d0">154</data>
+    </node>
+    <node id="maximum-likelihood">
+      <data key="d0">116</data>
+    </node>
+    <node id="mixed-model">
+      <data key="d0">273</data>
+    </node>
+    <node id="r">
+      <data key="d0">2103</data>
+    </node>
+    <node id="neural-networks">
+      <data key="d0">104</data>
+    </node>
+    <node id="poisson">
+      <data key="d0">121</data>
+    </node>
+    <node id="correlation">
+      <data key="d0">427</data>
+    </node>
+    <node id="time-series">
+      <data key="d0">732</data>
+    </node>
+    <node id="variance">
+      <data key="d0">208</data>
+    </node>
+    <node id="t-test">
+      <data key="d0">127</data>
+    </node>
+    <node id="logistic-regression">
+      <data key="d0">260</data>
+    </node>
+    <node id="spss">
+      <data key="d0">214</data>
+    </node>
+    <edge source="multivariate-analysis" target="normal-distribution">
+      <data key="d1">3.96657681941</data>
+    </edge>
+    <edge source="multivariate-analysis" target="data-mining">
+      <data key="d1">2.12352092352</data>
+    </edge>
+    <edge source="multivariate-analysis" target="factor-analysis">
+      <data key="d1">3.5392015392</data>
+    </edge>
+    <edge source="multivariate-analysis" target="multiple-regression">
+      <data key="d1">4.01199563795</data>
+    </edge>
+    <edge source="multivariate-analysis" target="multiple-comparisons">
+      <data key="d1">3.79816750548</data>
+    </edge>
+    <edge source="multivariate-analysis" target="pca">
+      <data key="d1">2.3226010101</data>
+    </edge>
+    <edge source="forecasting" target="time-series">
+      <data key="d1">8.91465238722</data>
+    </edge>
+    <edge source="forecasting" target="predictive-models">
+      <data key="d1">4.47566909976</data>
+    </edge>
+    <edge source="predictive-models" target="svm">
+      <data key="d1">8.13488114981</data>
+    </edge>
+    <edge source="predictive-models" target="classification">
+      <data key="d1">2.41750298686</data>
+    </edge>
+    <edge source="predictive-models" target="data-mining">
+      <data key="d1">4.1290684624</data>
+    </edge>
+    <edge source="predictive-models" target="survival">
+      <data key="d1">2.27098765432</data>
+    </edge>
+    <edge source="predictive-models" target="multiple-regression">
+      <data key="d1">2.08029403449</data>
+    </edge>
+    <edge source="predictive-models" target="cross-validation">
+      <data key="d1">7.8257007007</data>
+    </edge>
+    <edge source="predictive-models" target="model-selection">
+      <data key="d1">5.599695586</data>
+    </edge>
+    <edge source="predictive-models" target="machine-learning">
+      <data key="d1">4.05787762684</data>
+    </edge>
+    <edge source="predictive-models" target="time-series">
+      <data key="d1">2.23375834851</data>
+    </edge>
+    <edge source="predictive-models" target="modeling">
+      <data key="d1">4.2786723922</data>
+    </edge>
+    <edge source="classification" target="clustering">
+      <data key="d1">2.91299120235</data>
+    </edge>
+    <edge source="classification" target="svm">
+      <data key="d1">5.31391429947</data>
+    </edge>
+    <edge source="classification" target="logistic">
+      <data key="d1">2.24076246334</data>
+    </edge>
+    <edge source="classification" target="data-mining">
+      <data key="d1">2.8051026393</data>
+    </edge>
+    <edge source="classification" target="text-mining">
+      <data key="d1">9.8090520079</data>
+    </edge>
+    <edge source="classification" target="cross-validation">
+      <data key="d1">3.36787271142</data>
+    </edge>
+    <edge source="classification" target="neural-networks">
+      <data key="d1">3.42338709677</data>
+    </edge>
+    <edge source="classification" target="matlab">
+      <data key="d1">2.64618570183</data>
+    </edge>
+    <edge source="classification" target="machine-learning">
+      <data key="d1">6.25009606634</data>
+    </edge>
+    <edge source="factor-analysis" target="multiple-regression">
+      <data key="d1">3.40411751099</data>
+    </edge>
+    <edge source="factor-analysis" target="spss">
+      <data key="d1">5.20957235911</data>
+    </edge>
+    <edge source="factor-analysis" target="survey">
+      <data key="d1">5.41188584878</data>
+    </edge>
+    <edge source="factor-analysis" target="correlation">
+      <data key="d1">2.87197501952</data>
+    </edge>
+    <edge source="factor-analysis" target="pca">
+      <data key="d1">15.835915978</data>
+    </edge>
+    <edge source="logistic" target="multilevel-analysis">
+      <data key="d1">2.38706654171</data>
+    </edge>
+    <edge source="logistic" target="multiple-regression">
+      <data key="d1">2.94587092297</data>
+    </edge>
+    <edge source="logistic" target="spss">
+      <data key="d1">2.88530161427</data>
+    </edge>
+    <edge source="logistic" target="cross-validation">
+      <data key="d1">2.085995086</data>
+    </edge>
+    <edge source="logistic" target="categorical-data">
+      <data key="d1">4.5106257379</data>
+    </edge>
+    <edge source="logistic" target="generalized-linear-model">
+      <data key="d1">6.61558441558</data>
+    </edge>
+    <edge source="logistic" target="stata">
+      <data key="d1">3.32680250784</data>
+    </edge>
+    <edge source="logistic" target="sas">
+      <data key="d1">2.37482517483</data>
+    </edge>
+    <edge source="logistic" target="regression">
+      <data key="d1">2.19229892914</data>
+    </edge>
+    <edge source="multiple-regression" target="multilevel-analysis">
+      <data key="d1">3.47430550091</data>
+    </edge>
+    <edge source="multiple-regression" target="data-transformation">
+      <data key="d1">2.57257735563</data>
+    </edge>
+    <edge source="multiple-regression" target="regression">
+      <data key="d1">2.67466375863</data>
+    </edge>
+    <edge source="multiple-regression" target="categorical-data">
+      <data key="d1">4.37672251413</data>
+    </edge>
+    <edge source="multiple-regression" target="generalized-linear-model">
+      <data key="d1">2.40719738277</data>
+    </edge>
+    <edge source="multiple-regression" target="model-selection">
+      <data key="d1">2.30827146293</data>
+    </edge>
+    <edge source="multiple-regression" target="stata">
+      <data key="d1">2.90523822058</data>
+    </edge>
+    <edge source="nonparametric" target="t-test">
+      <data key="d1">2.4309234073</data>
+    </edge>
+    <edge source="nonparametric" target="bootstrap">
+      <data key="d1">7.14646464646</data>
+    </edge>
+    <edge source="nonparametric" target="hypothesis-testing">
+      <data key="d1">2.37482517483</data>
+    </edge>
+    <edge source="nonparametric" target="anova">
+      <data key="d1">3.15948963317</data>
+    </edge>
+    <edge source="nonparametric" target="spss">
+      <data key="d1">2.52463891249</data>
+    </edge>
+    <edge source="sampling" target="sample-size">
+      <data key="d1">6.66671313075</data>
+    </edge>
+    <edge source="sampling" target="survey">
+      <data key="d1">6.60198776055</data>
+    </edge>
+    <edge source="sampling" target="variance">
+      <data key="d1">3.01777251185</data>
+    </edge>
+    <edge source="sampling" target="estimation">
+      <data key="d1">3.01777251185</data>
+    </edge>
+    <edge source="sampling" target="distributions">
+      <data key="d1">2.2377778341</data>
+    </edge>
+    <edge source="sampling" target="experiment-design">
+      <data key="d1">2.09232227488</data>
+    </edge>
+    <edge source="cross-validation" target="svm">
+      <data key="d1">11.1304961678</data>
+    </edge>
+    <edge source="cross-validation" target="bootstrap">
+      <data key="d1">4.83352102102</data>
+    </edge>
+    <edge source="cross-validation" target="neural-networks">
+      <data key="d1">2.15118243243</data>
+    </edge>
+    <edge source="cross-validation" target="model-selection">
+      <data key="d1">9.70487782303</data>
+    </edge>
+    <edge source="cross-validation" target="machine-learning">
+      <data key="d1">4.44173091587</data>
+    </edge>
+    <edge source="cross-validation" target="modeling">
+      <data key="d1">2.1615746181</data>
+    </edge>
+    <edge source="books" target="experiment-design">
+      <data key="d1">2.9432</data>
+    </edge>
+    <edge source="books" target="data-mining">
+      <data key="d1">2.67563636364</data>
+    </edge>
+    <edge source="books" target="mathematical-statistics">
+      <data key="d1">3.80586206897</data>
+    </edge>
+    <edge source="generalized-linear-model" target="maximum-likelihood">
+      <data key="d1">2.0388546798</data>
+    </edge>
+    <edge source="generalized-linear-model" target="poisson">
+      <data key="d1">11.7276269185</data>
+    </edge>
+    <edge source="generalized-linear-model" target="data-transformation">
+      <data key="d1">3.61079607415</data>
+    </edge>
+    <edge source="generalized-linear-model" target="spss">
+      <data key="d1">2.57873831776</data>
+    </edge>
+    <edge source="generalized-linear-model" target="categorical-data">
+      <data key="d1">2.55960111317</data>
+    </edge>
+    <edge source="generalized-linear-model" target="binomial">
+      <data key="d1">4.77792207792</data>
+    </edge>
+    <edge source="generalized-linear-model" target="model-selection">
+      <data key="d1">3.23982387476</data>
+    </edge>
+    <edge source="generalized-linear-model" target="r">
+      <data key="d1">2.24923578561</data>
+    </edge>
+    <edge source="generalized-linear-model" target="chi-squared">
+      <data key="d1">2.04768089054</data>
+    </edge>
+    <edge source="standard-deviation" target="estimation">
+      <data key="d1">2.14033613445</data>
+    </edge>
+    <edge source="standard-deviation" target="variance">
+      <data key="d1">9.80987394958</data>
+    </edge>
+    <edge source="standard-deviation" target="normal-distribution">
+      <data key="d1">3.14992865071</data>
+    </edge>
+    <edge source="standard-deviation" target="binomial">
+      <data key="d1">2.81054239878</data>
+    </edge>
+    <edge source="standard-deviation" target="mean">
+      <data key="d1">11.593487395</data>
+    </edge>
+    <edge source="sas" target="mixed-model">
+      <data key="d1">5.5978021978</data>
+    </edge>
+    <edge source="sas" target="logistic-regression">
+      <data key="d1">2.93884615385</data>
+    </edge>
+    <edge source="sas" target="survival">
+      <data key="d1">2.83</data>
+    </edge>
+    <edge source="algorithms" target="clustering">
+      <data key="d1">2.43239669421</data>
+    </edge>
+    <edge source="algorithms" target="data-mining">
+      <data key="d1">3.64859504132</data>
+    </edge>
+    <edge source="algorithms" target="optimization">
+      <data key="d1">6.95400540054</data>
+    </edge>
+    <edge source="algorithms" target="neural-networks">
+      <data key="d1">4.82386363636</data>
+    </edge>
+    <edge source="algorithms" target="matlab">
+      <data key="d1">3.38974201474</data>
+    </edge>
+    <edge source="algorithms" target="machine-learning">
+      <data key="d1">2.04447135936</data>
+    </edge>
+    <edge source="hypothesis-testing" target="statistical-significance">
+      <data key="d1">4.33163265306</data>
+    </edge>
+    <edge source="hypothesis-testing" target="multiple-comparisons">
+      <data key="d1">3.15540069686</data>
+    </edge>
+    <edge source="hypothesis-testing" target="chi-squared">
+      <data key="d1">2.52022263451</data>
+    </edge>
+    <edge source="hypothesis-testing" target="mathematical-statistics">
+      <data key="d1">2.30024630542</data>
+    </edge>
+    <edge source="hypothesis-testing" target="t-test">
+      <data key="d1">4.20202474691</data>
+    </edge>
+    <edge source="distributions" target="normal-distribution">
+      <data key="d1">2.3757037635</data>
+    </edge>
+    <edge source="distributions" target="probability">
+      <data key="d1">2.93829432599</data>
+    </edge>
+    <edge source="distributions" target="binomial">
+      <data key="d1">2.08661481121</data>
+    </edge>
+    <edge source="distributions" target="chi-squared">
+      <data key="d1">2.42728661713</data>
+    </edge>
+    <edge source="distributions" target="poisson">
+      <data key="d1">2.6014937906</data>
+    </edge>
+    <edge source="regression" target="model-selection">
+      <data key="d1">2.02094276788</data>
+    </edge>
+    <edge source="clustering" target="text-mining">
+      <data key="d1">3.41280148423</data>
+    </edge>
+    <edge source="clustering" target="data-mining">
+      <data key="d1">2.83779614325</data>
+    </edge>
+    <edge source="clustering" target="multilevel-analysis">
+      <data key="d1">2.06879100281</data>
+    </edge>
+    <edge source="multilevel-analysis" target="mixed-model">
+      <data key="d1">3.75110456554</data>
+    </edge>
+    <edge source="multilevel-analysis" target="survey">
+      <data key="d1">3.31408267441</data>
+    </edge>
+    <edge source="multilevel-analysis" target="stata">
+      <data key="d1">2.94267685745</data>
+    </edge>
+    <edge source="multilevel-analysis" target="bayesian">
+      <data key="d1">4.96149005035</data>
+    </edge>
+    <edge source="sample-size" target="statistical-significance">
+      <data key="d1">2.10790679908</data>
+    </edge>
+    <edge source="sample-size" target="estimation">
+      <data key="d1">2.49705882353</data>
+    </edge>
+    <edge source="sample-size" target="confidence-interval">
+      <data key="d1">3.6068627451</data>
+    </edge>
+    <edge source="sample-size" target="binomial">
+      <data key="d1">2.45922459893</data>
+    </edge>
+    <edge source="sample-size" target="survey">
+      <data key="d1">3.15162764135</data>
+    </edge>
+    <edge source="sample-size" target="repeated-measures">
+      <data key="d1">3.0338097856</data>
+    </edge>
+    <edge source="sample-size" target="t-test">
+      <data key="d1">4.26007410838</data>
+    </edge>
+    <edge source="sample-size" target="experiment-design">
+      <data key="d1">5.19388235294</data>
+    </edge>
+    <edge source="sample-size" target="mean">
+      <data key="d1">3.6068627451</data>
+    </edge>
+    <edge source="confidence-interval" target="estimation">
+      <data key="d1">2.67277777778</data>
+    </edge>
+    <edge source="confidence-interval" target="bootstrap">
+      <data key="d1">9.08395061728</data>
+    </edge>
+    <edge source="confidence-interval" target="binomial">
+      <data key="d1">4.95488215488</data>
+    </edge>
+    <edge source="multiple-comparisons" target="statistical-significance">
+      <data key="d1">3.49604054482</data>
+    </edge>
+    <edge source="multiple-comparisons" target="repeated-measures">
+      <data key="d1">2.93514930476</data>
+    </edge>
+    <edge source="multiple-comparisons" target="anova">
+      <data key="d1">3.93560119812</data>
+    </edge>
+    <edge source="multiple-comparisons" target="survey">
+      <data key="d1">2.61354487331</data>
+    </edge>
+    <edge source="multiple-comparisons" target="chi-squared">
+      <data key="d1">2.91336712068</data>
+    </edge>
+    <edge source="multiple-comparisons" target="correlation">
+      <data key="d1">2.94202319072</data>
+    </edge>
+    <edge source="multiple-comparisons" target="experiment-design">
+      <data key="d1">2.15356097561</data>
+    </edge>
+    <edge source="anova" target="repeated-measures">
+      <data key="d1">11.1594523692</data>
+    </edge>
+    <edge source="anova" target="spss">
+      <data key="d1">4.22249549106</data>
+    </edge>
+    <edge source="anova" target="mixed-model">
+      <data key="d1">2.71888053467</data>
+    </edge>
+    <edge source="anova" target="t-test">
+      <data key="d1">3.81164525487</data>
+    </edge>
+    <edge source="anova" target="experiment-design">
+      <data key="d1">5.16350877193</data>
+    </edge>
+    <edge source="categorical-data" target="pca">
+      <data key="d1">2.03604634002</data>
+    </edge>
+    <edge source="categorical-data" target="data-transformation">
+      <data key="d1">4.92381282839</data>
+    </edge>
+    <edge source="categorical-data" target="logistic-regression">
+      <data key="d1">2.48084415584</data>
+    </edge>
+    <edge source="categorical-data" target="chi-squared">
+      <data key="d1">4.65382020577</data>
+    </edge>
+    <edge source="categorical-data" target="spss">
+      <data key="d1">2.3443075616</data>
+    </edge>
+    <edge source="categorical-data" target="model-selection">
+      <data key="d1">2.45441202633</data>
+    </edge>
+    <edge source="optimization" target="bootstrap">
+      <data key="d1">3.03547854785</data>
+    </edge>
+    <edge source="optimization" target="maximum-likelihood">
+      <data key="d1">9.42045066576</data>
+    </edge>
+    <edge source="optimization" target="neural-networks">
+      <data key="d1">4.20297029703</data>
+    </edge>
+    <edge source="optimization" target="matlab">
+      <data key="d1">3.69179823388</data>
+    </edge>
+    <edge source="optimization" target="estimation">
+      <data key="d1">2.10148514851</data>
+    </edge>
+    <edge source="model-selection" target="data-mining">
+      <data key="d1">2.29078455791</data>
+    </edge>
+    <edge source="model-selection" target="maximum-likelihood">
+      <data key="d1">3.2584435522</data>
+    </edge>
+    <edge source="model-selection" target="modeling">
+      <data key="d1">5.47796307326</data>
+    </edge>
+    <edge source="machine-learning" target="svm">
+      <data key="d1">9.42428531325</data>
+    </edge>
+    <edge source="machine-learning" target="data-mining">
+      <data key="d1">4.40347677401</data>
+    </edge>
+    <edge source="machine-learning" target="text-mining">
+      <data key="d1">6.53139594396</data>
+    </edge>
+    <edge source="machine-learning" target="neural-networks">
+      <data key="d1">5.82190438871</data>
+    </edge>
+    <edge source="repeated-measures" target="spss">
+      <data key="d1">4.82007162198</data>
+    </edge>
+    <edge source="repeated-measures" target="mixed-model">
+      <data key="d1">7.74566088117</data>
+    </edge>
+    <edge source="repeated-measures" target="t-test">
+      <data key="d1">4.4671057473</data>
+    </edge>
+    <edge source="repeated-measures" target="experiment-design">
+      <data key="d1">2.47558878505</data>
+    </edge>
+    <edge source="repeated-measures" target="mean">
+      <data key="d1">2.14894859813</data>
+    </edge>
+    <edge source="mean" target="normal-distribution">
+      <data key="d1">2.77660377358</data>
+    </edge>
+    <edge source="mean" target="statistical-significance">
+      <data key="d1">2.09034090909</data>
+    </edge>
+    <edge source="mean" target="variance">
+      <data key="d1">8.84375</data>
+    </edge>
+    <edge source="mean" target="t-test">
+      <data key="d1">2.8968503937</data>
+    </edge>
+    <edge source="survey" target="dataset">
+      <data key="d1">2.86511603759</data>
+    </edge>
+    <edge source="survey" target="experiment-design">
+      <data key="d1">2.57172815534</data>
+    </edge>
+    <edge source="pca" target="spss">
+      <data key="d1">2.0512691164</data>
+    </edge>
+    <edge source="pca" target="matlab">
+      <data key="d1">2.11858875921</data>
+    </edge>
+    <edge source="normal-distribution" target="probability">
+      <data key="d1">2.43403577555</data>
+    </edge>
+    <edge source="normal-distribution" target="data-transformation">
+      <data key="d1">2.5434538384</data>
+    </edge>
+    <edge source="normal-distribution" target="maximum-likelihood">
+      <data key="d1">2.15426154847</data>
+    </edge>
+    <edge source="normal-distribution" target="binomial">
+      <data key="d1">2.52418524871</data>
+    </edge>
+    <edge source="normal-distribution" target="matlab">
+      <data key="d1">3.37695053544</data>
+    </edge>
+    <edge source="normal-distribution" target="variance">
+      <data key="d1">3.20377358491</data>
+    </edge>
+    <edge source="normal-distribution" target="estimation">
+      <data key="d1">3.04358490566</data>
+    </edge>
+    <edge source="normal-distribution" target="homework">
+      <data key="d1">2.89229559748</data>
+    </edge>
+    <edge source="homework" target="binomial">
+      <data key="d1">2.61292613636</data>
+    </edge>
+    <edge source="homework" target="probability">
+      <data key="d1">3.40095147908</data>
+    </edge>
+    <edge source="homework" target="mathematical-statistics">
+      <data key="d1">3.96443965517</data>
+    </edge>
+    <edge source="matlab" target="neural-networks">
+      <data key="d1">2.86824324324</data>
+    </edge>
+    <edge source="estimation" target="variance">
+      <data key="d1">2.44903846154</data>
+    </edge>
+    <edge source="estimation" target="maximum-likelihood">
+      <data key="d1">6.58706896552</data>
+    </edge>
+    <edge source="stata" target="survival">
+      <data key="d1">3.96443965517</data>
+    </edge>
+    <edge source="stata" target="spss">
+      <data key="d1">2.22305027393</data>
+    </edge>
+    <edge source="stata" target="logistic-regression">
+      <data key="d1">2.56163793103</data>
+    </edge>
+    <edge source="statistical-significance" target="t-test">
+      <data key="d1">3.10376827897</data>
+    </edge>
+    <edge source="statistical-significance" target="chi-squared">
+      <data key="d1">3.02498313375</data>
+    </edge>
+    <edge source="statistical-significance" target="correlation">
+      <data key="d1">2.01411235135</data>
+    </edge>
+    <edge source="survival" target="poisson">
+      <data key="d1">2.28037190083</data>
+    </edge>
+    <edge source="probability" target="binomial">
+      <data key="d1">2.35276465958</data>
+    </edge>
+    <edge source="probability" target="mathematical-statistics">
+      <data key="d1">4.73673309449</data>
+    </edge>
+    <edge source="binomial" target="chi-squared">
+      <data key="d1">2.17178276269</data>
+    </edge>
+    <edge source="binomial" target="poisson">
+      <data key="d1">2.76408715252</data>
+    </edge>
+    <edge source="modeling" target="data-mining">
+      <data key="d1">2.26201141853</data>
+    </edge>
+    <edge source="modeling" target="experiment-design">
+      <data key="d1">2.13275362319</data>
+    </edge>
+    <edge source="dataset" target="neural-networks">
+      <data key="d1">2.27005347594</data>
+    </edge>
+    <edge source="dataset" target="text-mining">
+      <data key="d1">3.01129542726</data>
+    </edge>
+    <edge source="dataset" target="data-mining">
+      <data key="d1">5.72328633933</data>
+    </edge>
+    <edge source="experiment-design" target="t-test">
+      <data key="d1">2.08573228346</data>
+    </edge>
+    <edge source="svm" target="text-mining">
+      <data key="d1">3.36186414864</data>
+    </edge>
+    <edge source="svm" target="neural-networks">
+      <data key="d1">3.9598880597</data>
+    </edge>
+    <edge source="data-mining" target="text-mining">
+      <data key="d1">6.82560296846</data>
+    </edge>
+    <edge source="bootstrap" target="variance">
+      <data key="d1">2.45659722222</data>
+    </edge>
+    <edge source="chi-squared" target="t-test">
+      <data key="d1">2.25728602107</data>
+    </edge>
+    <edge source="maximum-likelihood" target="poisson">
+      <data key="d1">3.14534055286</data>
+    </edge>
+    <edge source="mixed-model" target="r">
+      <data key="d1">2.36458121052</data>
+    </edge>
+  </graph>
+</graphml>
