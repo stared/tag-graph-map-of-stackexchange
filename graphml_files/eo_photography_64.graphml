@@ -1,0 +1,963 @@
+<?xml version="1.0" encoding="utf-8"?><graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="weight" attr.type="double" for="edge" id="d1" />
+  <key attr.name="weight" attr.type="int" for="node" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="photoshop">
+      <data key="d0">170</data>
+    </node>
+    <node id="pentax">
+      <data key="d0">52</data>
+    </node>
+    <node id="flash">
+      <data key="d0">222</data>
+    </node>
+    <node id="photo-editing">
+      <data key="d0">107</data>
+    </node>
+    <node id="color">
+      <data key="d0">88</data>
+    </node>
+    <node id="memory-card">
+      <data key="d0">50</data>
+    </node>
+    <node id="sharpness">
+      <data key="d0">54</data>
+    </node>
+    <node id="focus">
+      <data key="d0">107</data>
+    </node>
+    <node id="jpeg">
+      <data key="d0">61</data>
+    </node>
+    <node id="raw">
+      <data key="d0">158</data>
+    </node>
+    <node id="video">
+      <data key="d0">65</data>
+    </node>
+    <node id="telephoto">
+      <data key="d0">61</data>
+    </node>
+    <node id="filters">
+      <data key="d0">132</data>
+    </node>
+    <node id="portrait">
+      <data key="d0">144</data>
+    </node>
+    <node id="camera-basics">
+      <data key="d0">89</data>
+    </node>
+    <node id="landscape">
+      <data key="d0">61</data>
+    </node>
+    <node id="web">
+      <data key="d0">58</data>
+    </node>
+    <node id="dslr">
+      <data key="d0">222</data>
+    </node>
+    <node id="travel">
+      <data key="d0">55</data>
+    </node>
+    <node id="technique">
+      <data key="d0">167</data>
+    </node>
+    <node id="legal">
+      <data key="d0">67</data>
+    </node>
+    <node id="equipment-protection">
+      <data key="d0">73</data>
+    </node>
+    <node id="film">
+      <data key="d0">106</data>
+    </node>
+    <node id="aperture">
+      <data key="d0">130</data>
+    </node>
+    <node id="autofocus">
+      <data key="d0">138</data>
+    </node>
+    <node id="point-and-shoot">
+      <data key="d0">88</data>
+    </node>
+    <node id="lightroom">
+      <data key="d0">238</data>
+    </node>
+    <node id="composition">
+      <data key="d0">80</data>
+    </node>
+    <node id="metadata">
+      <data key="d0">113</data>
+    </node>
+    <node id="nikon-d90">
+      <data key="d0">61</data>
+    </node>
+    <node id="focal-length">
+      <data key="d0">78</data>
+    </node>
+    <node id="business">
+      <data key="d0">50</data>
+    </node>
+    <node id="workflow">
+      <data key="d0">65</data>
+    </node>
+    <node id="digital-photography">
+      <data key="d0">114</data>
+    </node>
+    <node id="color-management">
+      <data key="d0">82</data>
+    </node>
+    <node id="body">
+      <data key="d0">51</data>
+    </node>
+    <node id="canon-550d">
+      <data key="d0">84</data>
+    </node>
+    <node id="post-processing">
+      <data key="d0">231</data>
+    </node>
+    <node id="lens">
+      <data key="d0">735</data>
+    </node>
+    <node id="equipment-recommendation">
+      <data key="d0">579</data>
+    </node>
+    <node id="lighting">
+      <data key="d0">202</data>
+    </node>
+    <node id="tripod">
+      <data key="d0">80</data>
+    </node>
+    <node id="image-quality">
+      <data key="d0">95</data>
+    </node>
+    <node id="canon">
+      <data key="d0">469</data>
+    </node>
+    <node id="nikon">
+      <data key="d0">366</data>
+    </node>
+    <node id="low-light">
+      <data key="d0">59</data>
+    </node>
+    <node id="exposure">
+      <data key="d0">155</data>
+    </node>
+    <node id="prime">
+      <data key="d0">52</data>
+    </node>
+    <node id="white-balance">
+      <data key="d0">67</data>
+    </node>
+    <node id="sensor">
+      <data key="d0">91</data>
+    </node>
+    <node id="metering">
+      <data key="d0">52</data>
+    </node>
+    <node id="hdr">
+      <data key="d0">62</data>
+    </node>
+    <node id="shutter-speed">
+      <data key="d0">57</data>
+    </node>
+    <node id="apple-aperture">
+      <data key="d0">64</data>
+    </node>
+    <node id="zoom">
+      <data key="d0">88</data>
+    </node>
+    <node id="depth-of-field">
+      <data key="d0">80</data>
+    </node>
+    <node id="printing">
+      <data key="d0">89</data>
+    </node>
+    <node id="iso">
+      <data key="d0">66</data>
+    </node>
+    <node id="macro">
+      <data key="d0">144</data>
+    </node>
+    <node id="off-camera-flash">
+      <data key="d0">50</data>
+    </node>
+    <node id="software">
+      <data key="d0">281</data>
+    </node>
+    <node id="optics">
+      <data key="d0">72</data>
+    </node>
+    <node id="terminology">
+      <data key="d0">130</data>
+    </node>
+    <node id="troubleshooting">
+      <data key="d0">115</data>
+    </node>
+    <edge source="photoshop" target="hdr">
+      <data key="d1">2.11309297913</data>
+    </edge>
+    <edge source="photoshop" target="photo-editing">
+      <data key="d1">5.81594282573</data>
+    </edge>
+    <edge source="photoshop" target="workflow">
+      <data key="d1">3.02334841629</data>
+    </edge>
+    <edge source="photoshop" target="color">
+      <data key="d1">2.60534759358</data>
+    </edge>
+    <edge source="photoshop" target="digital-photography">
+      <data key="d1">2.58575851393</data>
+    </edge>
+    <edge source="photoshop" target="post-processing">
+      <data key="d1">4.11184110008</data>
+    </edge>
+    <edge source="photoshop" target="jpeg">
+      <data key="d1">2.68466730955</data>
+    </edge>
+    <edge source="photoshop" target="raw">
+      <data key="d1">3.1094564408</data>
+    </edge>
+    <edge source="photoshop" target="printing">
+      <data key="d1">2.2080634501</data>
+    </edge>
+    <edge source="photoshop" target="apple-aperture">
+      <data key="d1">2.04705882353</data>
+    </edge>
+    <edge source="photoshop" target="lightroom">
+      <data key="d1">2.75234799802</data>
+    </edge>
+    <edge source="photoshop" target="software">
+      <data key="d1">2.3311701905</data>
+    </edge>
+    <edge source="pentax" target="prime">
+      <data key="d1">2.05917159763</data>
+    </edge>
+    <edge source="pentax" target="memory-card">
+      <data key="d1">2.14153846154</data>
+    </edge>
+    <edge source="pentax" target="macro">
+      <data key="d1">2.23076923077</data>
+    </edge>
+    <edge source="pentax" target="flash">
+      <data key="d1">2.89397089397</data>
+    </edge>
+    <edge source="pentax" target="focus">
+      <data key="d1">2.00143781452</data>
+    </edge>
+    <edge source="pentax" target="zoom">
+      <data key="d1">2.43356643357</data>
+    </edge>
+    <edge source="pentax" target="metering">
+      <data key="d1">2.05917159763</data>
+    </edge>
+    <edge source="pentax" target="video">
+      <data key="d1">3.29467455621</data>
+    </edge>
+    <edge source="pentax" target="image-quality">
+      <data key="d1">2.25425101215</data>
+    </edge>
+    <edge source="pentax" target="off-camera-flash">
+      <data key="d1">6.42461538462</data>
+    </edge>
+    <edge source="pentax" target="autofocus">
+      <data key="d1">3.10367892977</data>
+    </edge>
+    <edge source="flash" target="lighting">
+      <data key="d1">4.34573187048</data>
+    </edge>
+    <edge source="flash" target="off-camera-flash">
+      <data key="d1">17.0551351351</data>
+    </edge>
+    <edge source="flash" target="low-light">
+      <data key="d1">2.12551534585</data>
+    </edge>
+    <edge source="photo-editing" target="workflow">
+      <data key="d1">2.40172537743</data>
+    </edge>
+    <edge source="photo-editing" target="digital-photography">
+      <data key="d1">5.02115100836</data>
+    </edge>
+    <edge source="photo-editing" target="post-processing">
+      <data key="d1">3.15378079864</data>
+    </edge>
+    <edge source="photo-editing" target="white-balance">
+      <data key="d1">2.33003208258</data>
+    </edge>
+    <edge source="photo-editing" target="color-management">
+      <data key="d1">3.80761340324</data>
+    </edge>
+    <edge source="photo-editing" target="apple-aperture">
+      <data key="d1">4.8785046729</data>
+    </edge>
+    <edge source="photo-editing" target="software">
+      <data key="d1">4.25928759105</data>
+    </edge>
+    <edge source="color" target="white-balance">
+      <data key="d1">4.72184531886</data>
+    </edge>
+    <edge source="color" target="digital-photography">
+      <data key="d1">3.33014354067</data>
+    </edge>
+    <edge source="color" target="post-processing">
+      <data key="d1">3.28689492326</data>
+    </edge>
+    <edge source="color" target="jpeg">
+      <data key="d1">2.07451564829</data>
+    </edge>
+    <edge source="color" target="printing">
+      <data key="d1">2.13278855975</data>
+    </edge>
+    <edge source="color" target="color-management">
+      <data key="d1">10.0310421286</data>
+    </edge>
+    <edge source="memory-card" target="body">
+      <data key="d1">2.18352941176</data>
+    </edge>
+    <edge source="memory-card" target="troubleshooting">
+      <data key="d1">3.87339130435</data>
+    </edge>
+    <edge source="memory-card" target="travel">
+      <data key="d1">2.02472727273</data>
+    </edge>
+    <edge source="sharpness" target="zoom">
+      <data key="d1">4.68686868687</data>
+    </edge>
+    <edge source="sharpness" target="focus">
+      <data key="d1">5.78193146417</data>
+    </edge>
+    <edge source="sharpness" target="lens">
+      <data key="d1">2.10430839002</data>
+    </edge>
+    <edge source="sharpness" target="telephoto">
+      <data key="d1">5.07103825137</data>
+    </edge>
+    <edge source="sharpness" target="image-quality">
+      <data key="d1">8.68304093567</data>
+    </edge>
+    <edge source="sharpness" target="aperture">
+      <data key="d1">3.96581196581</data>
+    </edge>
+    <edge source="sharpness" target="shutter-speed">
+      <data key="d1">9.04483430799</data>
+    </edge>
+    <edge source="sharpness" target="landscape">
+      <data key="d1">6.76138433515</data>
+    </edge>
+    <edge source="sharpness" target="point-and-shoot">
+      <data key="d1">4.68686868687</data>
+    </edge>
+    <edge source="focus" target="prime">
+      <data key="d1">2.00143781452</data>
+    </edge>
+    <edge source="focus" target="focal-length">
+      <data key="d1">5.33716750539</data>
+    </edge>
+    <edge source="focus" target="macro">
+      <data key="d1">3.2523364486</data>
+    </edge>
+    <edge source="focus" target="technique">
+      <data key="d1">2.49280877497</data>
+    </edge>
+    <edge source="focus" target="zoom">
+      <data key="d1">2.95666949873</data>
+    </edge>
+    <edge source="focus" target="depth-of-field">
+      <data key="d1">9.75700934579</data>
+    </edge>
+    <edge source="focus" target="low-light">
+      <data key="d1">2.64596863615</data>
+    </edge>
+    <edge source="focus" target="terminology">
+      <data key="d1">2.40172537743</data>
+    </edge>
+    <edge source="focus" target="autofocus">
+      <data key="d1">9.80414465664</data>
+    </edge>
+    <edge source="focus" target="optics">
+      <data key="d1">4.33644859813</data>
+    </edge>
+    <edge source="focus" target="landscape">
+      <data key="d1">2.55921556611</data>
+    </edge>
+    <edge source="focus" target="point-and-shoot">
+      <data key="d1">2.36533559898</data>
+    </edge>
+    <edge source="jpeg" target="web">
+      <data key="d1">4.72131147541</data>
+    </edge>
+    <edge source="jpeg" target="workflow">
+      <data key="d1">4.21286254729</data>
+    </edge>
+    <edge source="jpeg" target="white-balance">
+      <data key="d1">2.72473697088</data>
+    </edge>
+    <edge source="jpeg" target="raw">
+      <data key="d1">12.1319775887</data>
+    </edge>
+    <edge source="jpeg" target="image-quality">
+      <data key="d1">5.76496980155</data>
+    </edge>
+    <edge source="jpeg" target="apple-aperture">
+      <data key="d1">2.85245901639</data>
+    </edge>
+    <edge source="jpeg" target="lightroom">
+      <data key="d1">3.06819121091</data>
+    </edge>
+    <edge source="jpeg" target="metadata">
+      <data key="d1">4.03888002321</data>
+    </edge>
+    <edge source="raw" target="white-balance">
+      <data key="d1">4.20782165124</data>
+    </edge>
+    <edge source="raw" target="hdr">
+      <data key="d1">2.27358105349</data>
+    </edge>
+    <edge source="raw" target="workflow">
+      <data key="d1">3.252969815</data>
+    </edge>
+    <edge source="raw" target="post-processing">
+      <data key="d1">2.74601348019</data>
+    </edge>
+    <edge source="raw" target="apple-aperture">
+      <data key="d1">3.30379746835</data>
+    </edge>
+    <edge source="raw" target="lightroom">
+      <data key="d1">2.22104031486</data>
+    </edge>
+    <edge source="raw" target="software">
+      <data key="d1">2.75904320014</data>
+    </edge>
+    <edge source="video" target="dslr">
+      <data key="d1">2.70103950104</data>
+    </edge>
+    <edge source="video" target="digital-photography">
+      <data key="d1">2.25425101215</data>
+    </edge>
+    <edge source="video" target="canon-550d">
+      <data key="d1">2.03956043956</data>
+    </edge>
+    <edge source="video" target="nikon-d90">
+      <data key="d1">2.80857503153</data>
+    </edge>
+    <edge source="video" target="autofocus">
+      <data key="d1">2.48294314381</data>
+    </edge>
+    <edge source="telephoto" target="prime">
+      <data key="d1">8.77679697352</data>
+    </edge>
+    <edge source="telephoto" target="nikon">
+      <data key="d1">2.49395323838</data>
+    </edge>
+    <edge source="telephoto" target="focal-length">
+      <data key="d1">4.68095838588</data>
+    </edge>
+    <edge source="telephoto" target="canon">
+      <data key="d1">2.14086476284</data>
+    </edge>
+    <edge source="telephoto" target="zoom">
+      <data key="d1">12.4470938897</data>
+    </edge>
+    <edge source="telephoto" target="lens">
+      <data key="d1">4.09822683172</data>
+    </edge>
+    <edge source="telephoto" target="equipment-recommendation">
+      <data key="d1">2.837679436</data>
+    </edge>
+    <edge source="telephoto" target="terminology">
+      <data key="d1">2.10643127364</data>
+    </edge>
+    <edge source="filters" target="equipment-protection">
+      <data key="d1">4.62266500623</data>
+    </edge>
+    <edge source="filters" target="landscape">
+      <data key="d1">2.07451564829</data>
+    </edge>
+    <edge source="portrait" target="technique">
+      <data key="d1">3.00998003992</data>
+    </edge>
+    <edge source="portrait" target="lighting">
+      <data key="d1">6.31683168317</data>
+    </edge>
+    <edge source="portrait" target="depth-of-field">
+      <data key="d1">2.41666666667</data>
+    </edge>
+    <edge source="portrait" target="business">
+      <data key="d1">3.09333333333</data>
+    </edge>
+    <edge source="camera-basics" target="body">
+      <data key="d1">4.90680766689</data>
+    </edge>
+    <edge source="camera-basics" target="sensor">
+      <data key="d1">2.06247684899</data>
+    </edge>
+    <edge source="camera-basics" target="focal-length">
+      <data key="d1">5.61452031115</data>
+    </edge>
+    <edge source="camera-basics" target="dslr">
+      <data key="d1">3.09990889766</data>
+    </edge>
+    <edge source="camera-basics" target="digital-photography">
+      <data key="d1">2.19515079834</data>
+    </edge>
+    <edge source="camera-basics" target="metering">
+      <data key="d1">3.60933448574</data>
+    </edge>
+    <edge source="camera-basics" target="depth-of-field">
+      <data key="d1">2.34606741573</data>
+    </edge>
+    <edge source="camera-basics" target="zoom">
+      <data key="d1">2.13278855975</data>
+    </edge>
+    <edge source="camera-basics" target="aperture">
+      <data key="d1">2.88746758859</data>
+    </edge>
+    <edge source="camera-basics" target="shutter-speed">
+      <data key="d1">4.39030159669</data>
+    </edge>
+    <edge source="camera-basics" target="terminology">
+      <data key="d1">2.88746758859</data>
+    </edge>
+    <edge source="camera-basics" target="exposure">
+      <data key="d1">5.65074302283</data>
+    </edge>
+    <edge source="landscape" target="travel">
+      <data key="d1">3.31922503726</data>
+    </edge>
+    <edge source="landscape" target="technique">
+      <data key="d1">4.91921075881</data>
+    </edge>
+    <edge source="landscape" target="tripod">
+      <data key="d1">3.42295081967</data>
+    </edge>
+    <edge source="landscape" target="point-and-shoot">
+      <data key="d1">2.07451564829</data>
+    </edge>
+    <edge source="landscape" target="composition">
+      <data key="d1">4.56393442623</data>
+    </edge>
+    <edge source="landscape" target="exposure">
+      <data key="d1">4.12226335272</data>
+    </edge>
+    <edge source="web" target="business">
+      <data key="d1">5.76</data>
+    </edge>
+    <edge source="web" target="printing">
+      <data key="d1">2.15730337079</data>
+    </edge>
+    <edge source="web" target="legal">
+      <data key="d1">5.73134328358</data>
+    </edge>
+    <edge source="web" target="image-quality">
+      <data key="d1">4.04210526316</data>
+    </edge>
+    <edge source="web" target="color-management">
+      <data key="d1">4.68292682927</data>
+    </edge>
+    <edge source="web" target="software">
+      <data key="d1">2.04982206406</data>
+    </edge>
+    <edge source="dslr" target="body">
+      <data key="d1">4.42607313196</data>
+    </edge>
+    <edge source="dslr" target="sensor">
+      <data key="d1">2.48054648055</data>
+    </edge>
+    <edge source="dslr" target="point-and-shoot">
+      <data key="d1">3.42014742015</data>
+    </edge>
+    <edge source="travel" target="tripod">
+      <data key="d1">5.06181818182</data>
+    </edge>
+    <edge source="travel" target="equipment-protection">
+      <data key="d1">9.70759651308</data>
+    </edge>
+    <edge source="travel" target="legal">
+      <data key="d1">3.02198100407</data>
+    </edge>
+    <edge source="travel" target="equipment-recommendation">
+      <data key="d1">2.97239755064</data>
+    </edge>
+    <edge source="technique" target="hdr">
+      <data key="d1">2.15105273324</data>
+    </edge>
+    <edge source="technique" target="lighting">
+      <data key="d1">2.14572834529</data>
+    </edge>
+    <edge source="technique" target="metering">
+      <data key="d1">3.20589590051</data>
+    </edge>
+    <edge source="technique" target="depth-of-field">
+      <data key="d1">2.5005988024</data>
+    </edge>
+    <edge source="technique" target="low-light">
+      <data key="d1">3.39064244393</data>
+    </edge>
+    <edge source="technique" target="shutter-speed">
+      <data key="d1">2.92467696187</data>
+    </edge>
+    <edge source="technique" target="composition">
+      <data key="d1">2.08383233533</data>
+    </edge>
+    <edge source="technique" target="exposure">
+      <data key="d1">3.87189491984</data>
+    </edge>
+    <edge source="legal" target="business">
+      <data key="d1">14.9588059701</data>
+    </edge>
+    <edge source="film" target="body">
+      <data key="d1">4.11986681465</data>
+    </edge>
+    <edge source="film" target="iso">
+      <data key="d1">2.38765008576</data>
+    </edge>
+    <edge source="film" target="metering">
+      <data key="d1">5.05079825835</data>
+    </edge>
+    <edge source="film" target="business">
+      <data key="d1">2.10113207547</data>
+    </edge>
+    <edge source="aperture" target="prime">
+      <data key="d1">3.29467455621</data>
+    </edge>
+    <edge source="aperture" target="focal-length">
+      <data key="d1">3.84378698225</data>
+    </edge>
+    <edge source="aperture" target="shutter-speed">
+      <data key="d1">12.7740890688</data>
+    </edge>
+    <edge source="aperture" target="zoom">
+      <data key="d1">3.89370629371</data>
+    </edge>
+    <edge source="aperture" target="depth-of-field">
+      <data key="d1">10.7076923077</data>
+    </edge>
+    <edge source="aperture" target="lens">
+      <data key="d1">2.44747252747</data>
+    </edge>
+    <edge source="aperture" target="iso">
+      <data key="d1">5.19160839161</data>
+    </edge>
+    <edge source="aperture" target="point-and-shoot">
+      <data key="d1">2.92027972028</data>
+    </edge>
+    <edge source="aperture" target="optics">
+      <data key="d1">10.1128205128</data>
+    </edge>
+    <edge source="aperture" target="terminology">
+      <data key="d1">2.96520710059</data>
+    </edge>
+    <edge source="aperture" target="exposure">
+      <data key="d1">3.31593052109</data>
+    </edge>
+    <edge source="autofocus" target="depth-of-field">
+      <data key="d1">3.02608695652</data>
+    </edge>
+    <edge source="autofocus" target="nikon">
+      <data key="d1">2.31503920171</data>
+    </edge>
+    <edge source="autofocus" target="low-light">
+      <data key="d1">3.4193072955</data>
+    </edge>
+    <edge source="autofocus" target="troubleshooting">
+      <data key="d1">4.56105860113</data>
+    </edge>
+    <edge source="autofocus" target="nikon-d90">
+      <data key="d1">4.63007840342</data>
+    </edge>
+    <edge source="point-and-shoot" target="macro">
+      <data key="d1">2.19696969697</data>
+    </edge>
+    <edge source="point-and-shoot" target="zoom">
+      <data key="d1">2.87603305785</data>
+    </edge>
+    <edge source="point-and-shoot" target="depth-of-field">
+      <data key="d1">2.37272727273</data>
+    </edge>
+    <edge source="point-and-shoot" target="low-light">
+      <data key="d1">3.21725731895</data>
+    </edge>
+    <edge source="point-and-shoot" target="shutter-speed">
+      <data key="d1">4.44019138756</data>
+    </edge>
+    <edge source="lightroom" target="workflow">
+      <data key="d1">6.8385261797</data>
+    </edge>
+    <edge source="lightroom" target="apple-aperture">
+      <data key="d1">3.65546218487</data>
+    </edge>
+    <edge source="lightroom" target="post-processing">
+      <data key="d1">2.53192185965</data>
+    </edge>
+    <edge source="lightroom" target="metadata">
+      <data key="d1">5.5899457128</data>
+    </edge>
+    <edge source="lightroom" target="software">
+      <data key="d1">5.07862077215</data>
+    </edge>
+    <edge source="composition" target="lighting">
+      <data key="d1">2.06732673267</data>
+    </edge>
+    <edge source="composition" target="image-quality">
+      <data key="d1">2.19789473684</data>
+    </edge>
+    <edge source="metadata" target="white-balance">
+      <data key="d1">2.20631356492</data>
+    </edge>
+    <edge source="metadata" target="workflow">
+      <data key="d1">3.0322668482</data>
+    </edge>
+    <edge source="metadata" target="apple-aperture">
+      <data key="d1">6.1592920354</data>
+    </edge>
+    <edge source="metadata" target="software">
+      <data key="d1">4.38383774761</data>
+    </edge>
+    <edge source="nikon-d90" target="prime">
+      <data key="d1">3.51071878941</data>
+    </edge>
+    <edge source="nikon-d90" target="tripod">
+      <data key="d1">2.28196721311</data>
+    </edge>
+    <edge source="nikon-d90" target="sensor">
+      <data key="d1">2.00612502252</data>
+    </edge>
+    <edge source="nikon-d90" target="depth-of-field">
+      <data key="d1">2.28196721311</data>
+    </edge>
+    <edge source="nikon-d90" target="nikon">
+      <data key="d1">3.49153453373</data>
+    </edge>
+    <edge source="nikon-d90" target="iso">
+      <data key="d1">4.14903129657</data>
+    </edge>
+    <edge source="nikon-d90" target="troubleshooting">
+      <data key="d1">4.7623663578</data>
+    </edge>
+    <edge source="nikon-d90" target="shutter-speed">
+      <data key="d1">3.20276100086</data>
+    </edge>
+    <edge source="focal-length" target="prime">
+      <data key="d1">9.60946745562</data>
+    </edge>
+    <edge source="focal-length" target="shutter-speed">
+      <data key="d1">2.50472334683</data>
+    </edge>
+    <edge source="focal-length" target="zoom">
+      <data key="d1">8.92307692308</data>
+    </edge>
+    <edge source="focal-length" target="depth-of-field">
+      <data key="d1">3.56923076923</data>
+    </edge>
+    <edge source="focal-length" target="lens">
+      <data key="d1">3.88487702773</data>
+    </edge>
+    <edge source="focal-length" target="optics">
+      <data key="d1">7.93162393162</data>
+    </edge>
+    <edge source="focal-length" target="terminology">
+      <data key="d1">5.49112426036</data>
+    </edge>
+    <edge source="workflow" target="hdr">
+      <data key="d1">2.76327543424</data>
+    </edge>
+    <edge source="workflow" target="apple-aperture">
+      <data key="d1">8.03076923077</data>
+    </edge>
+    <edge source="workflow" target="post-processing">
+      <data key="d1">2.96663336663</data>
+    </edge>
+    <edge source="workflow" target="color-management">
+      <data key="d1">2.08930581614</data>
+    </edge>
+    <edge source="workflow" target="software">
+      <data key="d1">3.65814399124</data>
+    </edge>
+    <edge source="digital-photography" target="image-quality">
+      <data key="d1">3.59889196676</data>
+    </edge>
+    <edge source="digital-photography" target="iso">
+      <data key="d1">2.22009569378</data>
+    </edge>
+    <edge source="digital-photography" target="sensor">
+      <data key="d1">5.9039907461</data>
+    </edge>
+    <edge source="color-management" target="white-balance">
+      <data key="d1">6.08081543502</data>
+    </edge>
+    <edge source="color-management" target="printing">
+      <data key="d1">7.62948753083</data>
+    </edge>
+    <edge source="color-management" target="apple-aperture">
+      <data key="d1">2.12195121951</data>
+    </edge>
+    <edge source="body" target="metering">
+      <data key="d1">2.09954751131</data>
+    </edge>
+    <edge source="body" target="sensor">
+      <data key="d1">3.59922430511</data>
+    </edge>
+    <edge source="canon-550d" target="canon">
+      <data key="d1">3.39201949436</data>
+    </edge>
+    <edge source="canon-550d" target="troubleshooting">
+      <data key="d1">2.88198757764</data>
+    </edge>
+    <edge source="canon-550d" target="hdr">
+      <data key="d1">2.13824884793</data>
+    </edge>
+    <edge source="post-processing" target="hdr">
+      <data key="d1">2.33263510683</data>
+    </edge>
+    <edge source="post-processing" target="software">
+      <data key="d1">2.48759070111</data>
+    </edge>
+    <edge source="post-processing" target="apple-aperture">
+      <data key="d1">3.38961038961</data>
+    </edge>
+    <edge source="lens" target="prime">
+      <data key="d1">5.8273155416</data>
+    </edge>
+    <edge source="lens" target="macro">
+      <data key="d1">2.36734693878</data>
+    </edge>
+    <edge source="lens" target="canon">
+      <data key="d1">2.39056611984</data>
+    </edge>
+    <edge source="lens" target="zoom">
+      <data key="d1">4.47643784787</data>
+    </edge>
+    <edge source="lens" target="nikon">
+      <data key="d1">2.02841530055</data>
+    </edge>
+    <edge source="lens" target="equipment-recommendation">
+      <data key="d1">2.2242430651</data>
+    </edge>
+    <edge source="lens" target="optics">
+      <data key="d1">3.57732426304</data>
+    </edge>
+    <edge source="lens" target="terminology">
+      <data key="d1">2.09783359498</data>
+    </edge>
+    <edge source="equipment-recommendation" target="prime">
+      <data key="d1">2.21921084097</data>
+    </edge>
+    <edge source="equipment-recommendation" target="canon">
+      <data key="d1">2.15296574124</data>
+    </edge>
+    <edge source="equipment-recommendation" target="zoom">
+      <data key="d1">2.62270372115</data>
+    </edge>
+    <edge source="equipment-recommendation" target="tripod">
+      <data key="d1">3.00518134715</data>
+    </edge>
+    <edge source="lighting" target="white-balance">
+      <data key="d1">3.29126644008</data>
+    </edge>
+    <edge source="lighting" target="macro">
+      <data key="d1">2.10561056106</data>
+    </edge>
+    <edge source="lighting" target="metering">
+      <data key="d1">2.65041888804</data>
+    </edge>
+    <edge source="lighting" target="off-camera-flash">
+      <data key="d1">4.4102970297</data>
+    </edge>
+    <edge source="image-quality" target="iso">
+      <data key="d1">3.55215311005</data>
+    </edge>
+    <edge source="image-quality" target="optics">
+      <data key="d1">2.44210526316</data>
+    </edge>
+    <edge source="canon" target="troubleshooting">
+      <data key="d1">2.89059052563</data>
+    </edge>
+    <edge source="nikon" target="off-camera-flash">
+      <data key="d1">2.73836065574</data>
+    </edge>
+    <edge source="nikon" target="troubleshooting">
+      <data key="d1">2.77804704205</data>
+    </edge>
+    <edge source="low-light" target="prime">
+      <data key="d1">7.25945241199</data>
+    </edge>
+    <edge source="low-light" target="white-balance">
+      <data key="d1">2.817100936</data>
+    </edge>
+    <edge source="low-light" target="iso">
+      <data key="d1">5.71956856703</data>
+    </edge>
+    <edge source="low-light" target="exposure">
+      <data key="d1">2.43542919628</data>
+    </edge>
+    <edge source="low-light" target="shutter-speed">
+      <data key="d1">4.96699375558</data>
+    </edge>
+    <edge source="exposure" target="hdr">
+      <data key="d1">2.31758584807</data>
+    </edge>
+    <edge source="exposure" target="metering">
+      <data key="d1">16.5796526055</data>
+    </edge>
+    <edge source="exposure" target="iso">
+      <data key="d1">5.44281524927</data>
+    </edge>
+    <edge source="exposure" target="terminology">
+      <data key="d1">3.03960297767</data>
+    </edge>
+    <edge source="exposure" target="off-camera-flash">
+      <data key="d1">2.87380645161</data>
+    </edge>
+    <edge source="exposure" target="shutter-speed">
+      <data key="d1">8.82308998302</data>
+    </edge>
+    <edge source="prime" target="macro">
+      <data key="d1">2.97435897436</data>
+    </edge>
+    <edge source="prime" target="zoom">
+      <data key="d1">12.1678321678</data>
+    </edge>
+    <edge source="prime" target="optics">
+      <data key="d1">2.97435897436</data>
+    </edge>
+    <edge source="white-balance" target="apple-aperture">
+      <data key="d1">3.89552238806</data>
+    </edge>
+    <edge source="sensor" target="iso">
+      <data key="d1">3.70829170829</data>
+    </edge>
+    <edge source="sensor" target="troubleshooting">
+      <data key="d1">2.12823698041</data>
+    </edge>
+    <edge source="metering" target="terminology">
+      <data key="d1">2.47100591716</data>
+    </edge>
+    <edge source="hdr" target="software">
+      <data key="d1">3.19595913213</data>
+    </edge>
+    <edge source="shutter-speed" target="iso">
+      <data key="d1">13.3205741627</data>
+    </edge>
+    <edge source="apple-aperture" target="software">
+      <data key="d1">5.57295373665</data>
+    </edge>
+    <edge source="zoom" target="optics">
+      <data key="d1">5.27272727273</data>
+    </edge>
+    <edge source="depth-of-field" target="macro">
+      <data key="d1">3.38333333333</data>
+    </edge>
+    <edge source="depth-of-field" target="optics">
+      <data key="d1">2.9</data>
+    </edge>
+    <edge source="depth-of-field" target="terminology">
+      <data key="d1">2.14153846154</data>
+    </edge>
+    <edge source="iso" target="terminology">
+      <data key="d1">3.24475524476</data>
+    </edge>
+    <edge source="optics" target="terminology">
+      <data key="d1">4.1641025641</data>
+    </edge>
+  </graph>
+</graphml>
