@@ -21,6 +21,8 @@ To do:
 
 And example use:
 
+## Mature SE sites
+
 data.stackexchange.com -> csv -> oetable2graphml.py -> graphml -> gephi -> pdf
 
 
@@ -53,3 +55,23 @@ E.g. (on Gephi 0.8.1 beta):
  * Edges -> Opacity: 40.0
  * Refresh; Export
 
+
+## Beta sites and other tags
+
+First, obtain tag bundles with SE API, e.g. [se-api-py](https://github.com/stared/se-api-py).
+
+You need to have list of list with tags per post, e.g.
+
+	t = [["plants", "flowers"], ["plants", "carnivorous", "big-list"], ["carnivorous", "fish", "piranha"]]
+
+Then process it e.g. in that way:
+
+	import tag_bundle_processing as tbp
+	bun = tbp.Bundle(t) 
+	# or: bun = tbp.Bundle(json_path="data.json")
+
+	bun.filter_elements(first_n=32)  # takes only 32 most frequent tags
+	bun.calculate_pair_weights(self, func=oe_ratio, threshold=1.5)
+	bun.export2graphml("path/to/file.graphml")
+
+And then proceed use Gephi as for mature SE sites.
