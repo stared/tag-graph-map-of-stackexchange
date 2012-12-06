@@ -1,0 +1,5238 @@
+<?xml version="1.0" encoding="utf-8"?><graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="weight" attr.type="double" for="edge" id="d1" />
+  <key attr.name="weight" attr.type="int" for="node" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="mathematica">
+      <data key="d0">3534</data>
+    </node>
+    <node id="chinese">
+      <data key="d0">1225</data>
+    </node>
+    <node id="dba">
+      <data key="d0">12550</data>
+    </node>
+    <node id="money">
+      <data key="d0">5896</data>
+    </node>
+    <node id="islam">
+      <data key="d0">777</data>
+    </node>
+    <node id="meta.stackoverflow">
+      <data key="d0">60303</data>
+    </node>
+    <node id="webapps">
+      <data key="d0">21368</data>
+    </node>
+    <node id="german">
+      <data key="d0">2094</data>
+    </node>
+    <node id="bicycles">
+      <data key="d0">4936</data>
+    </node>
+    <node id="photo">
+      <data key="d0">10440</data>
+    </node>
+    <node id="scifi">
+      <data key="d0">9029</data>
+    </node>
+    <node id="boardgames">
+      <data key="d0">3131</data>
+    </node>
+    <node id="martialarts">
+      <data key="d0">769</data>
+    </node>
+    <node id="cogsci">
+      <data key="d0">1341</data>
+    </node>
+    <node id="hermeneutics">
+      <data key="d0">811</data>
+    </node>
+    <node id="judaism">
+      <data key="d0">1592</data>
+    </node>
+    <node id="crypto">
+      <data key="d0">3186</data>
+    </node>
+    <node id="diy">
+      <data key="d0">7217</data>
+    </node>
+    <node id="fitness">
+      <data key="d0">4257</data>
+    </node>
+    <node id="security">
+      <data key="d0">14001</data>
+    </node>
+    <node id="gardening">
+      <data key="d0">1663</data>
+    </node>
+    <node id="webmasters">
+      <data key="d0">16820</data>
+    </node>
+    <node id="japanese">
+      <data key="d0">1762</data>
+    </node>
+    <node id="tex">
+      <data key="d0">18583</data>
+    </node>
+    <node id="answers.onstartups">
+      <data key="d0">14093</data>
+    </node>
+    <node id="stats">
+      <data key="d0">13349</data>
+    </node>
+    <node id="cooking">
+      <data key="d0">9988</data>
+    </node>
+    <node id="dsp">
+      <data key="d0">2186</data>
+    </node>
+    <node id="libraries">
+      <data key="d0">808</data>
+    </node>
+    <node id="gamedev">
+      <data key="d0">19163</data>
+    </node>
+    <node id="electronics">
+      <data key="d0">11656</data>
+    </node>
+    <node id="math">
+      <data key="d0">40838</data>
+    </node>
+    <node id="biology">
+      <data key="d0">1590</data>
+    </node>
+    <node id="linguistics">
+      <data key="d0">1424</data>
+    </node>
+    <node id="french">
+      <data key="d0">1563</data>
+    </node>
+    <node id="homebrew">
+      <data key="d0">2151</data>
+    </node>
+    <node id="drupal">
+      <data key="d0">9851</data>
+    </node>
+    <node id="workplace">
+      <data key="d0">3924</data>
+    </node>
+    <node id="codegolf">
+      <data key="d0">5441</data>
+    </node>
+    <node id="patents">
+      <data key="d0">1835</data>
+    </node>
+    <node id="codereview">
+      <data key="d0">17354</data>
+    </node>
+    <node id="apple">
+      <data key="d0">27745</data>
+    </node>
+    <node id="bricks">
+      <data key="d0">1119</data>
+    </node>
+    <node id="stackapps">
+      <data key="d0">10605</data>
+    </node>
+    <node id="robotics">
+      <data key="d0">446</data>
+    </node>
+    <node id="unix">
+      <data key="d0">23777</data>
+    </node>
+    <node id="rpg">
+      <data key="d0">4071</data>
+    </node>
+    <node id="spanish">
+      <data key="d0">1098</data>
+    </node>
+    <node id="cs">
+      <data key="d0">3555</data>
+    </node>
+    <node id="christianity">
+      <data key="d0">2247</data>
+    </node>
+    <node id="gis">
+      <data key="d0">9995</data>
+    </node>
+    <node id="bitcoin">
+      <data key="d0">2090</data>
+    </node>
+    <node id="sports">
+      <data key="d0">869</data>
+    </node>
+    <node id="music">
+      <data key="d0">3058</data>
+    </node>
+    <node id="cstheory">
+      <data key="d0">9538</data>
+    </node>
+    <node id="expressionengine">
+      <data key="d0">228</data>
+    </node>
+    <node id="wordpress">
+      <data key="d0">18190</data>
+    </node>
+    <node id="pm">
+      <data key="d0">4558</data>
+    </node>
+    <node id="russian">
+      <data key="d0">1076</data>
+    </node>
+    <node id="salesforce">
+      <data key="d0">911</data>
+    </node>
+    <node id="ux">
+      <data key="d0">16979</data>
+    </node>
+    <node id="genealogy">
+      <data key="d0">461</data>
+    </node>
+    <node id="raspberrypi">
+      <data key="d0">2310</data>
+    </node>
+    <node id="movies">
+      <data key="d0">2322</data>
+    </node>
+    <node id="outdoors">
+      <data key="d0">869</data>
+    </node>
+    <node id="smugmug">
+      <data key="d0">777</data>
+    </node>
+    <node id="graphicdesign">
+      <data key="d0">6063</data>
+    </node>
+    <node id="history">
+      <data key="d0">1467</data>
+    </node>
+    <node id="mechanics">
+      <data key="d0">2234</data>
+    </node>
+    <node id="windowsphone">
+      <data key="d0">765</data>
+    </node>
+    <node id="avp">
+      <data key="d0">2878</data>
+    </node>
+    <node id="productivity">
+      <data key="d0">4060</data>
+    </node>
+    <node id="scicomp">
+      <data key="d0">2217</data>
+    </node>
+    <node id="travel">
+      <data key="d0">3417</data>
+    </node>
+    <node id="sharepoint">
+      <data key="d0">8948</data>
+    </node>
+    <node id="writers">
+      <data key="d0">3645</data>
+    </node>
+    <node id="quant">
+      <data key="d0">2798</data>
+    </node>
+    <node id="chess">
+      <data key="d0">731</data>
+    </node>
+    <node id="skeptics">
+      <data key="d0">8025</data>
+    </node>
+    <node id="android">
+      <data key="d0">18143</data>
+    </node>
+    <node id="gaming">
+      <data key="d0">27381</data>
+    </node>
+    <node id="poker">
+      <data key="d0">647</data>
+    </node>
+    <node id="programmers">
+      <data key="d0">61723</data>
+    </node>
+    <node id="philosophy">
+      <data key="d0">2585</data>
+    </node>
+    <node id="parenting">
+      <data key="d0">3214</data>
+    </node>
+    <node id="sqa">
+      <data key="d0">3187</data>
+    </node>
+    <node id="academia">
+      <data key="d0">2041</data>
+    </node>
+    <node id="english">
+      <data key="d0">24576</data>
+    </node>
+    <node id="chemistry">
+      <data key="d0">825</data>
+    </node>
+    <node id="physics">
+      <data key="d0">12052</data>
+    </node>
+    <edge source="mathematica" target="windowsphone">
+      <data key="d1">8.91872306742</data>
+    </edge>
+    <edge source="mathematica" target="gardening">
+      <data key="d1">8.20543974333</data>
+    </edge>
+    <edge source="mathematica" target="chinese">
+      <data key="d1">10.1266391786</data>
+    </edge>
+    <edge source="mathematica" target="bricks">
+      <data key="d1">11.5610201525</data>
+    </edge>
+    <edge source="mathematica" target="robotics">
+      <data key="d1">9.33762413048</data>
+    </edge>
+    <edge source="mathematica" target="biology">
+      <data key="d1">13.096164661</data>
+    </edge>
+    <edge source="mathematica" target="spanish">
+      <data key="d1">9.68394456969</data>
+    </edge>
+    <edge source="mathematica" target="cs">
+      <data key="d1">9.22222063029</data>
+    </edge>
+    <edge source="mathematica" target="islam">
+      <data key="d1">9.92136946551</data>
+    </edge>
+    <edge source="mathematica" target="linguistics">
+      <data key="d1">11.4493603073</data>
+    </edge>
+    <edge source="mathematica" target="scicomp">
+      <data key="d1">14.748031686</data>
+    </edge>
+    <edge source="mathematica" target="dsp">
+      <data key="d1">10.9037406069</data>
+    </edge>
+    <edge source="mathematica" target="sports">
+      <data key="d1">12.5417668768</data>
+    </edge>
+    <edge source="mathematica" target="libraries">
+      <data key="d1">9.54072286473</data>
+    </edge>
+    <edge source="mathematica" target="german">
+      <data key="d1">8.37841565277</data>
+    </edge>
+    <edge source="mathematica" target="chess">
+      <data key="d1">13.6972838411</data>
+    </edge>
+    <edge source="mathematica" target="poker">
+      <data key="d1">16.2973153705</data>
+    </edge>
+    <edge source="mathematica" target="philosophy">
+      <data key="d1">9.15217051489</data>
+    </edge>
+    <edge source="mathematica" target="french">
+      <data key="d1">9.07056612286</data>
+    </edge>
+    <edge source="mathematica" target="martialarts">
+      <data key="d1">14.7488112874</data>
+    </edge>
+    <edge source="mathematica" target="cogsci">
+      <data key="d1">13.0830741066</data>
+    </edge>
+    <edge source="mathematica" target="hermeneutics">
+      <data key="d1">11.6905868446</data>
+    </edge>
+    <edge source="mathematica" target="judaism">
+      <data key="d1">8.29309411375</data>
+    </edge>
+    <edge source="mathematica" target="genealogy">
+      <data key="d1">10.1870475468</data>
+    </edge>
+    <edge source="mathematica" target="crypto">
+      <data key="d1">8.78849884771</data>
+    </edge>
+    <edge source="mathematica" target="movies">
+      <data key="d1">8.12813254483</data>
+    </edge>
+    <edge source="mathematica" target="academia">
+      <data key="d1">14.2832251521</data>
+    </edge>
+    <edge source="mathematica" target="outdoors">
+      <data key="d1">13.0515947986</data>
+    </edge>
+    <edge source="mathematica" target="smugmug">
+      <data key="d1">9.57925327705</data>
+    </edge>
+    <edge source="mathematica" target="chemistry">
+      <data key="d1">16.4327735762</data>
+    </edge>
+    <edge source="mathematica" target="patents">
+      <data key="d1">9.31954327676</data>
+    </edge>
+    <edge source="mathematica" target="history">
+      <data key="d1">11.0533612711</data>
+    </edge>
+    <edge source="chinese" target="mechanics">
+      <data key="d1">11.4424935596</data>
+    </edge>
+    <edge source="chinese" target="windowsphone">
+      <data key="d1">20.0490436174</data>
+    </edge>
+    <edge source="chinese" target="gardening">
+      <data key="d1">16.7547554825</data>
+    </edge>
+    <edge source="chinese" target="bricks">
+      <data key="d1">21.0165577867</data>
+    </edge>
+    <edge source="chinese" target="money">
+      <data key="d1">8.19423047102</data>
+    </edge>
+    <edge source="chinese" target="robotics">
+      <data key="d1">16.0482254965</data>
+    </edge>
+    <edge source="chinese" target="avp">
+      <data key="d1">10.3919947242</data>
+    </edge>
+    <edge source="chinese" target="japanese">
+      <data key="d1">27.2744367486</data>
+    </edge>
+    <edge source="chinese" target="fitness">
+      <data key="d1">9.00723418331</data>
+    </edge>
+    <edge source="chinese" target="spanish">
+      <data key="d1">27.937191926</data>
+    </edge>
+    <edge source="chinese" target="cs">
+      <data key="d1">10.3544427796</data>
+    </edge>
+    <edge source="chinese" target="christianity">
+      <data key="d1">13.7653146599</data>
+    </edge>
+    <edge source="chinese" target="sqa">
+      <data key="d1">8.98338069837</data>
+    </edge>
+    <edge source="chinese" target="islam">
+      <data key="d1">17.7654652904</data>
+    </edge>
+    <edge source="chinese" target="linguistics">
+      <data key="d1">28.3629202018</data>
+    </edge>
+    <edge source="chinese" target="productivity">
+      <data key="d1">11.2072178546</data>
+    </edge>
+    <edge source="chinese" target="scicomp">
+      <data key="d1">15.7964217135</data>
+    </edge>
+    <edge source="chinese" target="travel">
+      <data key="d1">13.0169163785</data>
+    </edge>
+    <edge source="chinese" target="boardgames">
+      <data key="d1">10.2054178426</data>
+    </edge>
+    <edge source="chinese" target="bitcoin">
+      <data key="d1">12.7201109267</data>
+    </edge>
+    <edge source="chinese" target="dsp">
+      <data key="d1">14.3833086245</data>
+    </edge>
+    <edge source="chinese" target="sports">
+      <data key="d1">26.1802672553</data>
+    </edge>
+    <edge source="chinese" target="libraries">
+      <data key="d1">16.7675015155</data>
+    </edge>
+    <edge source="chinese" target="german">
+      <data key="d1">17.0905171238</data>
+    </edge>
+    <edge source="chinese" target="writers">
+      <data key="d1">10.6598207217</data>
+    </edge>
+    <edge source="chinese" target="music">
+      <data key="d1">12.3716629516</data>
+    </edge>
+    <edge source="chinese" target="chess">
+      <data key="d1">24.8281761077</data>
+    </edge>
+    <edge source="chinese" target="codegolf">
+      <data key="d1">8.03380396011</data>
+    </edge>
+    <edge source="chinese" target="biology">
+      <data key="d1">22.5078885894</data>
+    </edge>
+    <edge source="chinese" target="quant">
+      <data key="d1">10.7804811017</data>
+    </edge>
+    <edge source="chinese" target="pm">
+      <data key="d1">9.25365851474</data>
+    </edge>
+    <edge source="chinese" target="poker">
+      <data key="d1">33.5829227518</data>
+    </edge>
+    <edge source="chinese" target="philosophy">
+      <data key="d1">15.1298537086</data>
+    </edge>
+    <edge source="chinese" target="french">
+      <data key="d1">21.5883175996</data>
+    </edge>
+    <edge source="chinese" target="expressionengine">
+      <data key="d1">12.3327998568</data>
+    </edge>
+    <edge source="chinese" target="martialarts">
+      <data key="d1">30.9143738224</data>
+    </edge>
+    <edge source="chinese" target="russian">
+      <data key="d1">15.2044791746</data>
+    </edge>
+    <edge source="chinese" target="homebrew">
+      <data key="d1">10.3390988529</data>
+    </edge>
+    <edge source="chinese" target="cogsci">
+      <data key="d1">24.209108037</data>
+    </edge>
+    <edge source="chinese" target="hermeneutics">
+      <data key="d1">27.7373944991</data>
+    </edge>
+    <edge source="chinese" target="salesforce">
+      <data key="d1">10.6627460293</data>
+    </edge>
+    <edge source="chinese" target="judaism">
+      <data key="d1">15.8962973028</data>
+    </edge>
+    <edge source="chinese" target="genealogy">
+      <data key="d1">16.6350524592</data>
+    </edge>
+    <edge source="chinese" target="parenting">
+      <data key="d1">11.4530317616</data>
+    </edge>
+    <edge source="chinese" target="crypto">
+      <data key="d1">10.8315807679</data>
+    </edge>
+    <edge source="chinese" target="raspberrypi">
+      <data key="d1">8.29952292605</data>
+    </edge>
+    <edge source="chinese" target="movies">
+      <data key="d1">12.9904332999</data>
+    </edge>
+    <edge source="chinese" target="academia">
+      <data key="d1">16.6576020158</data>
+    </edge>
+    <edge source="chinese" target="workplace">
+      <data key="d1">8.59901641391</data>
+    </edge>
+    <edge source="chinese" target="outdoors">
+      <data key="d1">25.8861069491</data>
+    </edge>
+    <edge source="chinese" target="smugmug">
+      <data key="d1">22.3713266619</data>
+    </edge>
+    <edge source="chinese" target="chemistry">
+      <data key="d1">25.0977573284</data>
+    </edge>
+    <edge source="chinese" target="patents">
+      <data key="d1">11.0051221709</data>
+    </edge>
+    <edge source="chinese" target="history">
+      <data key="d1">25.0920545887</data>
+    </edge>
+    <edge source="money" target="mechanics">
+      <data key="d1">14.5971362464</data>
+    </edge>
+    <edge source="money" target="windowsphone">
+      <data key="d1">8.40052433909</data>
+    </edge>
+    <edge source="money" target="cooking">
+      <data key="d1">8.37499359815</data>
+    </edge>
+    <edge source="money" target="gardening">
+      <data key="d1">14.4673308076</data>
+    </edge>
+    <edge source="money" target="bricks">
+      <data key="d1">13.8116435553</data>
+    </edge>
+    <edge source="money" target="avp">
+      <data key="d1">9.39311094647</data>
+    </edge>
+    <edge source="money" target="biology">
+      <data key="d1">9.68686690902</data>
+    </edge>
+    <edge source="money" target="outdoors">
+      <data key="d1">16.3793806884</data>
+    </edge>
+    <edge source="money" target="spanish">
+      <data key="d1">10.8349805864</data>
+    </edge>
+    <edge source="money" target="christianity">
+      <data key="d1">10.1872427974</data>
+    </edge>
+    <edge source="money" target="sqa">
+      <data key="d1">8.61570735123</data>
+    </edge>
+    <edge source="money" target="linguistics">
+      <data key="d1">10.629609986</data>
+    </edge>
+    <edge source="money" target="workplace">
+      <data key="d1">10.3000211706</data>
+    </edge>
+    <edge source="money" target="productivity">
+      <data key="d1">12.7544296125</data>
+    </edge>
+    <edge source="money" target="travel">
+      <data key="d1">13.1028284529</data>
+    </edge>
+    <edge source="money" target="boardgames">
+      <data key="d1">10.9749783536</data>
+    </edge>
+    <edge source="money" target="bitcoin">
+      <data key="d1">9.17367552732</data>
+    </edge>
+    <edge source="money" target="sports">
+      <data key="d1">13.8735799114</data>
+    </edge>
+    <edge source="money" target="german">
+      <data key="d1">8.29379954551</data>
+    </edge>
+    <edge source="money" target="bicycles">
+      <data key="d1">8.58638187525</data>
+    </edge>
+    <edge source="money" target="writers">
+      <data key="d1">11.6421102028</data>
+    </edge>
+    <edge source="money" target="quant">
+      <data key="d1">12.6987468879</data>
+    </edge>
+    <edge source="money" target="chess">
+      <data key="d1">12.3513379193</data>
+    </edge>
+    <edge source="money" target="skeptics">
+      <data key="d1">9.55662646834</data>
+    </edge>
+    <edge source="money" target="music">
+      <data key="d1">9.30914442</data>
+    </edge>
+    <edge source="money" target="pm">
+      <data key="d1">10.4287239979</data>
+    </edge>
+    <edge source="money" target="poker">
+      <data key="d1">16.7458943165</data>
+    </edge>
+    <edge source="money" target="philosophy">
+      <data key="d1">10.6632421023</data>
+    </edge>
+    <edge source="money" target="french">
+      <data key="d1">9.37848230493</data>
+    </edge>
+    <edge source="money" target="japanese">
+      <data key="d1">8.16856644571</data>
+    </edge>
+    <edge source="money" target="parenting">
+      <data key="d1">13.3355251132</data>
+    </edge>
+    <edge source="money" target="martialarts">
+      <data key="d1">13.0532279935</data>
+    </edge>
+    <edge source="money" target="homebrew">
+      <data key="d1">9.70363828442</data>
+    </edge>
+    <edge source="money" target="cogsci">
+      <data key="d1">11.1687042214</data>
+    </edge>
+    <edge source="money" target="hermeneutics">
+      <data key="d1">13.1630842955</data>
+    </edge>
+    <edge source="money" target="codegolf">
+      <data key="d1">8.11156695221</data>
+    </edge>
+    <edge source="money" target="judaism">
+      <data key="d1">8.57378362726</data>
+    </edge>
+    <edge source="money" target="genealogy">
+      <data key="d1">8.87099346003</data>
+    </edge>
+    <edge source="money" target="crypto">
+      <data key="d1">8.60174154906</data>
+    </edge>
+    <edge source="money" target="movies">
+      <data key="d1">10.1326716634</data>
+    </edge>
+    <edge source="money" target="academia">
+      <data key="d1">9.3678937281</data>
+    </edge>
+    <edge source="money" target="diy">
+      <data key="d1">11.1637816795</data>
+    </edge>
+    <edge source="money" target="fitness">
+      <data key="d1">12.8628579745</data>
+    </edge>
+    <edge source="money" target="chemistry">
+      <data key="d1">10.171513918</data>
+    </edge>
+    <edge source="money" target="patents">
+      <data key="d1">9.17499112685</data>
+    </edge>
+    <edge source="money" target="history">
+      <data key="d1">13.7935902612</data>
+    </edge>
+    <edge source="islam" target="mechanics">
+      <data key="d1">14.7927732055</data>
+    </edge>
+    <edge source="islam" target="windowsphone">
+      <data key="d1">31.60885255</data>
+    </edge>
+    <edge source="islam" target="gardening">
+      <data key="d1">18.9025880102</data>
+    </edge>
+    <edge source="islam" target="bricks">
+      <data key="d1">23.7701960865</data>
+    </edge>
+    <edge source="islam" target="robotics">
+      <data key="d1">21.6867912115</data>
+    </edge>
+    <edge source="islam" target="avp">
+      <data key="d1">11.0625492464</data>
+    </edge>
+    <edge source="islam" target="biology">
+      <data key="d1">22.812049246</data>
+    </edge>
+    <edge source="islam" target="fitness">
+      <data key="d1">11.5498168056</data>
+    </edge>
+    <edge source="islam" target="rpg">
+      <data key="d1">9.80060774534</data>
+    </edge>
+    <edge source="islam" target="spanish">
+      <data key="d1">24.2248173232</data>
+    </edge>
+    <edge source="islam" target="cs">
+      <data key="d1">14.3973655391</data>
+    </edge>
+    <edge source="islam" target="christianity">
+      <data key="d1">23.854344331</data>
+    </edge>
+    <edge source="islam" target="sqa">
+      <data key="d1">11.1280616759</data>
+    </edge>
+    <edge source="islam" target="graphicdesign">
+      <data key="d1">8.24238757737</data>
+    </edge>
+    <edge source="islam" target="linguistics">
+      <data key="d1">22.9241871285</data>
+    </edge>
+    <edge source="islam" target="productivity">
+      <data key="d1">11.7131819363</data>
+    </edge>
+    <edge source="islam" target="scicomp">
+      <data key="d1">14.7244215025</data>
+    </edge>
+    <edge source="islam" target="travel">
+      <data key="d1">14.0352740801</data>
+    </edge>
+    <edge source="islam" target="boardgames">
+      <data key="d1">11.0696604347</data>
+    </edge>
+    <edge source="islam" target="bitcoin">
+      <data key="d1">12.5338930865</data>
+    </edge>
+    <edge source="islam" target="dsp">
+      <data key="d1">14.0114264048</data>
+    </edge>
+    <edge source="islam" target="sports">
+      <data key="d1">35.7100011404</data>
+    </edge>
+    <edge source="islam" target="libraries">
+      <data key="d1">25.9364718325</data>
+    </edge>
+    <edge source="islam" target="german">
+      <data key="d1">14.0496368247</data>
+    </edge>
+    <edge source="islam" target="writers">
+      <data key="d1">12.7150836904</data>
+    </edge>
+    <edge source="islam" target="music">
+      <data key="d1">10.2795957688</data>
+    </edge>
+    <edge source="islam" target="chess">
+      <data key="d1">40.7974724774</data>
+    </edge>
+    <edge source="islam" target="skeptics">
+      <data key="d1">9.03954100963</data>
+    </edge>
+    <edge source="islam" target="codegolf">
+      <data key="d1">8.66614699348</data>
+    </edge>
+    <edge source="islam" target="expressionengine">
+      <data key="d1">17.6760030707</data>
+    </edge>
+    <edge source="islam" target="quant">
+      <data key="d1">9.50637934984</data>
+    </edge>
+    <edge source="islam" target="pm">
+      <data key="d1">10.6986742588</data>
+    </edge>
+    <edge source="islam" target="poker">
+      <data key="d1">33.0134190273</data>
+    </edge>
+    <edge source="islam" target="philosophy">
+      <data key="d1">17.9290058226</data>
+    </edge>
+    <edge source="islam" target="french">
+      <data key="d1">20.1119666417</data>
+    </edge>
+    <edge source="islam" target="japanese">
+      <data key="d1">14.6383789335</data>
+    </edge>
+    <edge source="islam" target="parenting">
+      <data key="d1">15.0471513384</data>
+    </edge>
+    <edge source="islam" target="martialarts">
+      <data key="d1">33.0166590518</data>
+    </edge>
+    <edge source="islam" target="russian">
+      <data key="d1">21.3491947869</data>
+    </edge>
+    <edge source="islam" target="homebrew">
+      <data key="d1">10.4921993123</data>
+    </edge>
+    <edge source="islam" target="cogsci">
+      <data key="d1">25.8457172417</data>
+    </edge>
+    <edge source="islam" target="hermeneutics">
+      <data key="d1">38.76079391</data>
+    </edge>
+    <edge source="islam" target="salesforce">
+      <data key="d1">16.8106356317</data>
+    </edge>
+    <edge source="islam" target="judaism">
+      <data key="d1">24.5554324066</data>
+    </edge>
+    <edge source="islam" target="genealogy">
+      <data key="d1">31.4717208687</data>
+    </edge>
+    <edge source="islam" target="crypto">
+      <data key="d1">11.8905240996</data>
+    </edge>
+    <edge source="islam" target="raspberrypi">
+      <data key="d1">10.8167956454</data>
+    </edge>
+    <edge source="islam" target="movies">
+      <data key="d1">18.7447846518</data>
+    </edge>
+    <edge source="islam" target="academia">
+      <data key="d1">18.9560193637</data>
+    </edge>
+    <edge source="islam" target="workplace">
+      <data key="d1">13.4543032548</data>
+    </edge>
+    <edge source="islam" target="outdoors">
+      <data key="d1">31.9998711518</data>
+    </edge>
+    <edge source="islam" target="smugmug">
+      <data key="d1">26.4525822016</data>
+    </edge>
+    <edge source="islam" target="chemistry">
+      <data key="d1">33.7065309465</data>
+    </edge>
+    <edge source="islam" target="patents">
+      <data key="d1">15.8130390414</data>
+    </edge>
+    <edge source="islam" target="history">
+      <data key="d1">29.3949400759</data>
+    </edge>
+    <edge source="german" target="mechanics">
+      <data key="d1">11.5135310077</data>
+    </edge>
+    <edge source="german" target="windowsphone">
+      <data key="d1">13.8790637427</data>
+    </edge>
+    <edge source="german" target="gardening">
+      <data key="d1">15.0171486152</data>
+    </edge>
+    <edge source="german" target="bricks">
+      <data key="d1">19.5112918906</data>
+    </edge>
+    <edge source="german" target="robotics">
+      <data key="d1">11.4000646734</data>
+    </edge>
+    <edge source="german" target="avp">
+      <data key="d1">10.8597231376</data>
+    </edge>
+    <edge source="german" target="japanese">
+      <data key="d1">18.6715354502</data>
+    </edge>
+    <edge source="german" target="fitness">
+      <data key="d1">9.73059452166</data>
+    </edge>
+    <edge source="german" target="rpg">
+      <data key="d1">9.07317124385</data>
+    </edge>
+    <edge source="german" target="spanish">
+      <data key="d1">23.2893317363</data>
+    </edge>
+    <edge source="german" target="cs">
+      <data key="d1">9.75914198628</data>
+    </edge>
+    <edge source="german" target="christianity">
+      <data key="d1">13.8427864554</data>
+    </edge>
+    <edge source="german" target="sqa">
+      <data key="d1">10.4637187128</data>
+    </edge>
+    <edge source="german" target="linguistics">
+      <data key="d1">26.463897653</data>
+    </edge>
+    <edge source="german" target="productivity">
+      <data key="d1">12.081227622</data>
+    </edge>
+    <edge source="german" target="scicomp">
+      <data key="d1">13.6928421475</data>
+    </edge>
+    <edge source="german" target="travel">
+      <data key="d1">14.5296904432</data>
+    </edge>
+    <edge source="german" target="boardgames">
+      <data key="d1">11.7971511127</data>
+    </edge>
+    <edge source="german" target="bitcoin">
+      <data key="d1">13.308524698</data>
+    </edge>
+    <edge source="german" target="dsp">
+      <data key="d1">11.6979351539</data>
+    </edge>
+    <edge source="german" target="sports">
+      <data key="d1">17.2085183927</data>
+    </edge>
+    <edge source="german" target="libraries">
+      <data key="d1">15.916601653</data>
+    </edge>
+    <edge source="german" target="bicycles">
+      <data key="d1">8.24056538787</data>
+    </edge>
+    <edge source="german" target="writers">
+      <data key="d1">12.1849057271</data>
+    </edge>
+    <edge source="german" target="music">
+      <data key="d1">12.5677895298</data>
+    </edge>
+    <edge source="german" target="chess">
+      <data key="d1">21.4800446066</data>
+    </edge>
+    <edge source="german" target="skeptics">
+      <data key="d1">9.00047327031</data>
+    </edge>
+    <edge source="german" target="biology">
+      <data key="d1">16.4590278904</data>
+    </edge>
+    <edge source="german" target="quant">
+      <data key="d1">9.29961126552</data>
+    </edge>
+    <edge source="german" target="pm">
+      <data key="d1">9.97384281465</data>
+    </edge>
+    <edge source="german" target="poker">
+      <data key="d1">23.575404224</data>
+    </edge>
+    <edge source="german" target="philosophy">
+      <data key="d1">15.7930262203</data>
+    </edge>
+    <edge source="german" target="french">
+      <data key="d1">22.8666307966</data>
+    </edge>
+    <edge source="german" target="parenting">
+      <data key="d1">11.7251369813</data>
+    </edge>
+    <edge source="german" target="martialarts">
+      <data key="d1">21.196463858</data>
+    </edge>
+    <edge source="german" target="russian">
+      <data key="d1">14.8708147371</data>
+    </edge>
+    <edge source="german" target="homebrew">
+      <data key="d1">10.289269956</data>
+    </edge>
+    <edge source="german" target="cogsci">
+      <data key="d1">18.5115407325</data>
+    </edge>
+    <edge source="german" target="hermeneutics">
+      <data key="d1">22.8646252519</data>
+    </edge>
+    <edge source="german" target="codegolf">
+      <data key="d1">10.1417032096</data>
+    </edge>
+    <edge source="german" target="judaism">
+      <data key="d1">12.9628137104</data>
+    </edge>
+    <edge source="german" target="genealogy">
+      <data key="d1">16.8680808922</data>
+    </edge>
+    <edge source="german" target="crypto">
+      <data key="d1">12.8138646514</data>
+    </edge>
+    <edge source="german" target="raspberrypi">
+      <data key="d1">8.80420579103</data>
+    </edge>
+    <edge source="german" target="movies">
+      <data key="d1">12.4940365278</data>
+    </edge>
+    <edge source="german" target="academia">
+      <data key="d1">13.4082266264</data>
+    </edge>
+    <edge source="german" target="workplace">
+      <data key="d1">8.49843821043</data>
+    </edge>
+    <edge source="german" target="outdoors">
+      <data key="d1">21.5106479909</data>
+    </edge>
+    <edge source="german" target="smugmug">
+      <data key="d1">13.8571760463</data>
+    </edge>
+    <edge source="german" target="chemistry">
+      <data key="d1">20.663988886</data>
+    </edge>
+    <edge source="german" target="patents">
+      <data key="d1">9.69782068398</data>
+    </edge>
+    <edge source="german" target="history">
+      <data key="d1">22.3242695558</data>
+    </edge>
+    <edge source="bicycles" target="mechanics">
+      <data key="d1">11.614617779</data>
+    </edge>
+    <edge source="bicycles" target="windowsphone">
+      <data key="d1">9.03919688351</data>
+    </edge>
+    <edge source="bicycles" target="gardening">
+      <data key="d1">12.5507139613</data>
+    </edge>
+    <edge source="bicycles" target="bricks">
+      <data key="d1">14.7970521333</data>
+    </edge>
+    <edge source="bicycles" target="avp">
+      <data key="d1">9.16995752723</data>
+    </edge>
+    <edge source="bicycles" target="biology">
+      <data key="d1">10.0147792371</data>
+    </edge>
+    <edge source="bicycles" target="spanish">
+      <data key="d1">10.5155945095</data>
+    </edge>
+    <edge source="bicycles" target="linguistics">
+      <data key="d1">10.4694208054</data>
+    </edge>
+    <edge source="bicycles" target="productivity">
+      <data key="d1">8.00034490743</data>
+    </edge>
+    <edge source="bicycles" target="travel">
+      <data key="d1">9.89571122602</data>
+    </edge>
+    <edge source="bicycles" target="boardgames">
+      <data key="d1">9.32050721933</data>
+    </edge>
+    <edge source="bicycles" target="sports">
+      <data key="d1">13.4326849729</data>
+    </edge>
+    <edge source="bicycles" target="libraries">
+      <data key="d1">8.3226050877</data>
+    </edge>
+    <edge source="bicycles" target="writers">
+      <data key="d1">8.68495947025</data>
+    </edge>
+    <edge source="bicycles" target="music">
+      <data key="d1">8.33975620447</data>
+    </edge>
+    <edge source="bicycles" target="chess">
+      <data key="d1">11.9764055145</data>
+    </edge>
+    <edge source="bicycles" target="poker">
+      <data key="d1">14.0215666247</data>
+    </edge>
+    <edge source="bicycles" target="philosophy">
+      <data key="d1">8.09875340529</data>
+    </edge>
+    <edge source="bicycles" target="fitness">
+      <data key="d1">10.1933569992</data>
+    </edge>
+    <edge source="bicycles" target="french">
+      <data key="d1">8.40187373428</data>
+    </edge>
+    <edge source="bicycles" target="parenting">
+      <data key="d1">9.79040341133</data>
+    </edge>
+    <edge source="bicycles" target="martialarts">
+      <data key="d1">12.8695405218</data>
+    </edge>
+    <edge source="bicycles" target="homebrew">
+      <data key="d1">10.0277451896</data>
+    </edge>
+    <edge source="bicycles" target="cogsci">
+      <data key="d1">10.3604858067</data>
+    </edge>
+    <edge source="bicycles" target="hermeneutics">
+      <data key="d1">11.5772562037</data>
+    </edge>
+    <edge source="bicycles" target="judaism">
+      <data key="d1">8.68716785915</data>
+    </edge>
+    <edge source="bicycles" target="genealogy">
+      <data key="d1">8.66970673647</data>
+    </edge>
+    <edge source="bicycles" target="movies">
+      <data key="d1">8.60623343133</data>
+    </edge>
+    <edge source="bicycles" target="diy">
+      <data key="d1">9.22111771145</data>
+    </edge>
+    <edge source="bicycles" target="outdoors">
+      <data key="d1">18.5429455605</data>
+    </edge>
+    <edge source="bicycles" target="smugmug">
+      <data key="d1">8.24641407441</data>
+    </edge>
+    <edge source="bicycles" target="chemistry">
+      <data key="d1">9.30456780119</data>
+    </edge>
+    <edge source="bicycles" target="patents">
+      <data key="d1">8.60851145342</data>
+    </edge>
+    <edge source="bicycles" target="history">
+      <data key="d1">11.8923412592</data>
+    </edge>
+    <edge source="photo" target="poker">
+      <data key="d1">8.48371839969</data>
+    </edge>
+    <edge source="photo" target="bricks">
+      <data key="d1">9.46202419717</data>
+    </edge>
+    <edge source="photo" target="travel">
+      <data key="d1">8.2688546786</data>
+    </edge>
+    <edge source="photo" target="avp">
+      <data key="d1">8.52514843748</data>
+    </edge>
+    <edge source="photo" target="sports">
+      <data key="d1">8.14576097068</data>
+    </edge>
+    <edge source="photo" target="outdoors">
+      <data key="d1">10.3547808949</data>
+    </edge>
+    <edge source="scifi" target="gardening">
+      <data key="d1">8.59221722056</data>
+    </edge>
+    <edge source="scifi" target="bricks">
+      <data key="d1">12.8622898255</data>
+    </edge>
+    <edge source="scifi" target="biology">
+      <data key="d1">8.63770450352</data>
+    </edge>
+    <edge source="scifi" target="rpg">
+      <data key="d1">10.4701055925</data>
+    </edge>
+    <edge source="scifi" target="linguistics">
+      <data key="d1">9.23059086452</data>
+    </edge>
+    <edge source="scifi" target="travel">
+      <data key="d1">8.44459116599</data>
+    </edge>
+    <edge source="scifi" target="boardgames">
+      <data key="d1">10.8110289712</data>
+    </edge>
+    <edge source="scifi" target="sports">
+      <data key="d1">10.6160301017</data>
+    </edge>
+    <edge source="scifi" target="writers">
+      <data key="d1">9.81934334132</data>
+    </edge>
+    <edge source="scifi" target="chess">
+      <data key="d1">10.1056093915</data>
+    </edge>
+    <edge source="scifi" target="skeptics">
+      <data key="d1">8.74281166018</data>
+    </edge>
+    <edge source="scifi" target="poker">
+      <data key="d1">10.0239203473</data>
+    </edge>
+    <edge source="scifi" target="philosophy">
+      <data key="d1">8.3853221288</data>
+    </edge>
+    <edge source="scifi" target="parenting">
+      <data key="d1">8.39525719622</data>
+    </edge>
+    <edge source="scifi" target="martialarts">
+      <data key="d1">10.9141346458</data>
+    </edge>
+    <edge source="scifi" target="cogsci">
+      <data key="d1">9.10362095325</data>
+    </edge>
+    <edge source="scifi" target="hermeneutics">
+      <data key="d1">10.4344425737</data>
+    </edge>
+    <edge source="scifi" target="movies">
+      <data key="d1">12.6359654206</data>
+    </edge>
+    <edge source="scifi" target="workplace">
+      <data key="d1">8.07825351295</data>
+    </edge>
+    <edge source="scifi" target="outdoors">
+      <data key="d1">11.2545883033</data>
+    </edge>
+    <edge source="scifi" target="chemistry">
+      <data key="d1">8.78602872227</data>
+    </edge>
+    <edge source="scifi" target="patents">
+      <data key="d1">8.01364443907</data>
+    </edge>
+    <edge source="scifi" target="history">
+      <data key="d1">12.4116485825</data>
+    </edge>
+    <edge source="boardgames" target="mechanics">
+      <data key="d1">12.3113702265</data>
+    </edge>
+    <edge source="boardgames" target="windowsphone">
+      <data key="d1">11.8969825256</data>
+    </edge>
+    <edge source="boardgames" target="gardening">
+      <data key="d1">15.2756019807</data>
+    </edge>
+    <edge source="boardgames" target="bricks">
+      <data key="d1">23.7743371155</data>
+    </edge>
+    <edge source="boardgames" target="robotics">
+      <data key="d1">10.7637411506</data>
+    </edge>
+    <edge source="boardgames" target="avp">
+      <data key="d1">11.3635448292</data>
+    </edge>
+    <edge source="boardgames" target="japanese">
+      <data key="d1">12.5442076978</data>
+    </edge>
+    <edge source="boardgames" target="fitness">
+      <data key="d1">10.7601591367</data>
+    </edge>
+    <edge source="boardgames" target="pm">
+      <data key="d1">9.04023586692</data>
+    </edge>
+    <edge source="boardgames" target="rpg">
+      <data key="d1">20.0959743537</data>
+    </edge>
+    <edge source="boardgames" target="spanish">
+      <data key="d1">14.2095107448</data>
+    </edge>
+    <edge source="boardgames" target="christianity">
+      <data key="d1">13.3973927691</data>
+    </edge>
+    <edge source="boardgames" target="sqa">
+      <data key="d1">9.13203972502</data>
+    </edge>
+    <edge source="boardgames" target="linguistics">
+      <data key="d1">15.8026308589</data>
+    </edge>
+    <edge source="boardgames" target="productivity">
+      <data key="d1">10.6171536659</data>
+    </edge>
+    <edge source="boardgames" target="scicomp">
+      <data key="d1">9.7441716235</data>
+    </edge>
+    <edge source="boardgames" target="travel">
+      <data key="d1">12.5565167381</data>
+    </edge>
+    <edge source="boardgames" target="cooking">
+      <data key="d1">8.99196627777</data>
+    </edge>
+    <edge source="boardgames" target="bitcoin">
+      <data key="d1">9.76204370862</data>
+    </edge>
+    <edge source="boardgames" target="dsp">
+      <data key="d1">8.92157067579</data>
+    </edge>
+    <edge source="boardgames" target="sports">
+      <data key="d1">19.9105470776</data>
+    </edge>
+    <edge source="boardgames" target="libraries">
+      <data key="d1">11.2638510298</data>
+    </edge>
+    <edge source="boardgames" target="writers">
+      <data key="d1">14.1307939237</data>
+    </edge>
+    <edge source="boardgames" target="music">
+      <data key="d1">11.5777094767</data>
+    </edge>
+    <edge source="boardgames" target="chess">
+      <data key="d1">21.6170574385</data>
+    </edge>
+    <edge source="boardgames" target="skeptics">
+      <data key="d1">10.306645414</data>
+    </edge>
+    <edge source="boardgames" target="biology">
+      <data key="d1">12.3286582341</data>
+    </edge>
+    <edge source="boardgames" target="quant">
+      <data key="d1">8.22123367309</data>
+    </edge>
+    <edge source="boardgames" target="poker">
+      <data key="d1">28.1335135458</data>
+    </edge>
+    <edge source="boardgames" target="philosophy">
+      <data key="d1">12.5354904193</data>
+    </edge>
+    <edge source="boardgames" target="french">
+      <data key="d1">12.8615688205</data>
+    </edge>
+    <edge source="boardgames" target="parenting">
+      <data key="d1">14.3142575092</data>
+    </edge>
+    <edge source="boardgames" target="martialarts">
+      <data key="d1">19.1182378987</data>
+    </edge>
+    <edge source="boardgames" target="homebrew">
+      <data key="d1">13.8558355498</data>
+    </edge>
+    <edge source="boardgames" target="cogsci">
+      <data key="d1">15.2891010036</data>
+    </edge>
+    <edge source="boardgames" target="hermeneutics">
+      <data key="d1">20.8411997916</data>
+    </edge>
+    <edge source="boardgames" target="codegolf">
+      <data key="d1">10.1832851592</data>
+    </edge>
+    <edge source="boardgames" target="judaism">
+      <data key="d1">11.6849470123</data>
+    </edge>
+    <edge source="boardgames" target="genealogy">
+      <data key="d1">13.4507849917</data>
+    </edge>
+    <edge source="boardgames" target="crypto">
+      <data key="d1">10.3277803541</data>
+    </edge>
+    <edge source="boardgames" target="diy">
+      <data key="d1">9.24327757658</data>
+    </edge>
+    <edge source="boardgames" target="movies">
+      <data key="d1">14.9459706786</data>
+    </edge>
+    <edge source="boardgames" target="academia">
+      <data key="d1">10.6824373734</data>
+    </edge>
+    <edge source="boardgames" target="workplace">
+      <data key="d1">9.4813637327</data>
+    </edge>
+    <edge source="boardgames" target="outdoors">
+      <data key="d1">20.4859964151</data>
+    </edge>
+    <edge source="boardgames" target="smugmug">
+      <data key="d1">11.8419623255</data>
+    </edge>
+    <edge source="boardgames" target="chemistry">
+      <data key="d1">13.4563073082</data>
+    </edge>
+    <edge source="boardgames" target="patents">
+      <data key="d1">10.9551128427</data>
+    </edge>
+    <edge source="boardgames" target="history">
+      <data key="d1">18.9527200889</data>
+    </edge>
+    <edge source="martialarts" target="mechanics">
+      <data key="d1">22.7845491069</data>
+    </edge>
+    <edge source="martialarts" target="windowsphone">
+      <data key="d1">37.2606304767</data>
+    </edge>
+    <edge source="martialarts" target="gardening">
+      <data key="d1">25.2207832524</data>
+    </edge>
+    <edge source="martialarts" target="bricks">
+      <data key="d1">36.3901216835</data>
+    </edge>
+    <edge source="martialarts" target="robotics">
+      <data key="d1">27.3905019039</data>
+    </edge>
+    <edge source="martialarts" target="avp">
+      <data key="d1">18.5350644457</data>
+    </edge>
+    <edge source="martialarts" target="biology">
+      <data key="d1">33.2935283101</data>
+    </edge>
+    <edge source="martialarts" target="fitness">
+      <data key="d1">23.9138748907</data>
+    </edge>
+    <edge source="martialarts" target="cooking">
+      <data key="d1">9.09159170458</data>
+    </edge>
+    <edge source="martialarts" target="rpg">
+      <data key="d1">17.0044039495</data>
+    </edge>
+    <edge source="martialarts" target="spanish">
+      <data key="d1">38.569551922</data>
+    </edge>
+    <edge source="martialarts" target="cs">
+      <data key="d1">16.7234873134</data>
+    </edge>
+    <edge source="martialarts" target="christianity">
+      <data key="d1">21.2029546114</data>
+    </edge>
+    <edge source="martialarts" target="sqa">
+      <data key="d1">16.865742371</data>
+    </edge>
+    <edge source="martialarts" target="graphicdesign">
+      <data key="d1">11.3504408736</data>
+    </edge>
+    <edge source="martialarts" target="linguistics">
+      <data key="d1">35.4589025584</data>
+    </edge>
+    <edge source="martialarts" target="productivity">
+      <data key="d1">19.8587885233</data>
+    </edge>
+    <edge source="martialarts" target="cstheory">
+      <data key="d1">8.62397811396</data>
+    </edge>
+    <edge source="martialarts" target="scicomp">
+      <data key="d1">25.1633505839</data>
+    </edge>
+    <edge source="martialarts" target="travel">
+      <data key="d1">21.3315123305</data>
+    </edge>
+    <edge source="martialarts" target="bitcoin">
+      <data key="d1">20.8473609547</data>
+    </edge>
+    <edge source="martialarts" target="dsp">
+      <data key="d1">23.2848502767</data>
+    </edge>
+    <edge source="martialarts" target="sports">
+      <data key="d1">58.1052672534</data>
+    </edge>
+    <edge source="martialarts" target="libraries">
+      <data key="d1">32.2538979516</data>
+    </edge>
+    <edge source="martialarts" target="writers">
+      <data key="d1">19.7737631578</data>
+    </edge>
+    <edge source="martialarts" target="music">
+      <data key="d1">20.6399105801</data>
+    </edge>
+    <edge source="martialarts" target="chess">
+      <data key="d1">49.5776827439</data>
+    </edge>
+    <edge source="martialarts" target="skeptics">
+      <data key="d1">12.8884968544</data>
+    </edge>
+    <edge source="martialarts" target="codegolf">
+      <data key="d1">13.5460739858</data>
+    </edge>
+    <edge source="martialarts" target="expressionengine">
+      <data key="d1">17.8598886684</data>
+    </edge>
+    <edge source="martialarts" target="quant">
+      <data key="d1">17.4641370252</data>
+    </edge>
+    <edge source="martialarts" target="pm">
+      <data key="d1">13.5794712964</data>
+    </edge>
+    <edge source="martialarts" target="poker">
+      <data key="d1">54.7556030333</data>
+    </edge>
+    <edge source="martialarts" target="philosophy">
+      <data key="d1">27.5671008846</data>
+    </edge>
+    <edge source="martialarts" target="french">
+      <data key="d1">29.9607345415</data>
+    </edge>
+    <edge source="martialarts" target="japanese">
+      <data key="d1">27.039182186</data>
+    </edge>
+    <edge source="martialarts" target="parenting">
+      <data key="d1">19.0046108419</data>
+    </edge>
+    <edge source="martialarts" target="russian">
+      <data key="d1">22.7066242549</data>
+    </edge>
+    <edge source="martialarts" target="homebrew">
+      <data key="d1">18.5523641286</data>
+    </edge>
+    <edge source="martialarts" target="cogsci">
+      <data key="d1">41.2974964824</data>
+    </edge>
+    <edge source="martialarts" target="hermeneutics">
+      <data key="d1">45.1892620807</data>
+    </edge>
+    <edge source="martialarts" target="salesforce">
+      <data key="d1">17.4325060416</data>
+    </edge>
+    <edge source="martialarts" target="judaism">
+      <data key="d1">26.0897971653</data>
+    </edge>
+    <edge source="martialarts" target="genealogy">
+      <data key="d1">29.1491979047</data>
+    </edge>
+    <edge source="martialarts" target="crypto">
+      <data key="d1">20.1941189388</data>
+    </edge>
+    <edge source="martialarts" target="diy">
+      <data key="d1">10.7768107486</data>
+    </edge>
+    <edge source="martialarts" target="raspberrypi">
+      <data key="d1">13.7497948086</data>
+    </edge>
+    <edge source="martialarts" target="movies">
+      <data key="d1">25.2530518846</data>
+    </edge>
+    <edge source="martialarts" target="academia">
+      <data key="d1">24.5400645671</data>
+    </edge>
+    <edge source="martialarts" target="workplace">
+      <data key="d1">18.575376563</data>
+    </edge>
+    <edge source="martialarts" target="outdoors">
+      <data key="d1">52.482176874</data>
+    </edge>
+    <edge source="martialarts" target="smugmug">
+      <data key="d1">38.781472537</data>
+    </edge>
+    <edge source="martialarts" target="chemistry">
+      <data key="d1">42.448084486</data>
+    </edge>
+    <edge source="martialarts" target="patents">
+      <data key="d1">16.4213646655</data>
+    </edge>
+    <edge source="martialarts" target="history">
+      <data key="d1">38.3056262482</data>
+    </edge>
+    <edge source="cogsci" target="mechanics">
+      <data key="d1">16.619773923</data>
+    </edge>
+    <edge source="cogsci" target="windowsphone">
+      <data key="d1">23.5039279047</data>
+    </edge>
+    <edge source="cogsci" target="gardening">
+      <data key="d1">19.9391780485</data>
+    </edge>
+    <edge source="cogsci" target="bricks">
+      <data key="d1">29.2152162599</data>
+    </edge>
+    <edge source="cogsci" target="robotics">
+      <data key="d1">22.5135900188</data>
+    </edge>
+    <edge source="cogsci" target="avp">
+      <data key="d1">15.6594922317</data>
+    </edge>
+    <edge source="cogsci" target="biology">
+      <data key="d1">39.2125687673</data>
+    </edge>
+    <edge source="cogsci" target="fitness">
+      <data key="d1">14.2071599578</data>
+    </edge>
+    <edge source="cogsci" target="rpg">
+      <data key="d1">10.7263425063</data>
+    </edge>
+    <edge source="cogsci" target="spanish">
+      <data key="d1">26.3712369721</data>
+    </edge>
+    <edge source="cogsci" target="cs">
+      <data key="d1">16.6841954122</data>
+    </edge>
+    <edge source="cogsci" target="christianity">
+      <data key="d1">17.1471532015</data>
+    </edge>
+    <edge source="cogsci" target="graphicdesign">
+      <data key="d1">11.1691876116</data>
+    </edge>
+    <edge source="cogsci" target="linguistics">
+      <data key="d1">37.5523092988</data>
+    </edge>
+    <edge source="cogsci" target="stats">
+      <data key="d1">8.13420992079</data>
+    </edge>
+    <edge source="cogsci" target="productivity">
+      <data key="d1">18.9801247507</data>
+    </edge>
+    <edge source="cogsci" target="cstheory">
+      <data key="d1">9.08296724011</data>
+    </edge>
+    <edge source="cogsci" target="scicomp">
+      <data key="d1">25.2788146103</data>
+    </edge>
+    <edge source="cogsci" target="travel">
+      <data key="d1">17.0846539335</data>
+    </edge>
+    <edge source="cogsci" target="bitcoin">
+      <data key="d1">16.98276727</data>
+    </edge>
+    <edge source="cogsci" target="dsp">
+      <data key="d1">20.0825495851</data>
+    </edge>
+    <edge source="cogsci" target="sports">
+      <data key="d1">33.3206193272</data>
+    </edge>
+    <edge source="cogsci" target="libraries">
+      <data key="d1">26.5881195502</data>
+    </edge>
+    <edge source="cogsci" target="writers">
+      <data key="d1">19.2191810669</data>
+    </edge>
+    <edge source="cogsci" target="music">
+      <data key="d1">15.7304409066</data>
+    </edge>
+    <edge source="cogsci" target="chess">
+      <data key="d1">33.8609894611</data>
+    </edge>
+    <edge source="cogsci" target="skeptics">
+      <data key="d1">12.9486987207</data>
+    </edge>
+    <edge source="cogsci" target="codegolf">
+      <data key="d1">11.6735066329</data>
+    </edge>
+    <edge source="cogsci" target="expressionengine">
+      <data key="d1">11.2659804807</data>
+    </edge>
+    <edge source="cogsci" target="quant">
+      <data key="d1">15.3561119346</data>
+    </edge>
+    <edge source="cogsci" target="pm">
+      <data key="d1">12.6541736158</data>
+    </edge>
+    <edge source="cogsci" target="poker">
+      <data key="d1">40.0617442749</data>
+    </edge>
+    <edge source="cogsci" target="philosophy">
+      <data key="d1">30.9845168809</data>
+    </edge>
+    <edge source="cogsci" target="french">
+      <data key="d1">22.4100815703</data>
+    </edge>
+    <edge source="cogsci" target="japanese">
+      <data key="d1">17.0960178463</data>
+    </edge>
+    <edge source="cogsci" target="parenting">
+      <data key="d1">15.9114368207</data>
+    </edge>
+    <edge source="cogsci" target="russian">
+      <data key="d1">17.361565053</data>
+    </edge>
+    <edge source="cogsci" target="homebrew">
+      <data key="d1">12.8101068785</data>
+    </edge>
+    <edge source="cogsci" target="sqa">
+      <data key="d1">13.6283110427</data>
+    </edge>
+    <edge source="cogsci" target="hermeneutics">
+      <data key="d1">33.1122080712</data>
+    </edge>
+    <edge source="cogsci" target="salesforce">
+      <data key="d1">13.328955651</data>
+    </edge>
+    <edge source="cogsci" target="judaism">
+      <data key="d1">19.3616347959</data>
+    </edge>
+    <edge source="cogsci" target="genealogy">
+      <data key="d1">22.287579606</data>
+    </edge>
+    <edge source="cogsci" target="crypto">
+      <data key="d1">16.1245671663</data>
+    </edge>
+    <edge source="cogsci" target="diy">
+      <data key="d1">9.12438410551</data>
+    </edge>
+    <edge source="cogsci" target="raspberrypi">
+      <data key="d1">10.6142295438</data>
+    </edge>
+    <edge source="cogsci" target="movies">
+      <data key="d1">20.4147929123</data>
+    </edge>
+    <edge source="cogsci" target="academia">
+      <data key="d1">30.2045297355</data>
+    </edge>
+    <edge source="cogsci" target="workplace">
+      <data key="d1">16.3054474235</data>
+    </edge>
+    <edge source="cogsci" target="outdoors">
+      <data key="d1">38.6949127671</data>
+    </edge>
+    <edge source="cogsci" target="smugmug">
+      <data key="d1">24.3430592625</data>
+    </edge>
+    <edge source="cogsci" target="chemistry">
+      <data key="d1">39.3434108422</data>
+    </edge>
+    <edge source="cogsci" target="physics">
+      <data key="d1">8.04081610808</data>
+    </edge>
+    <edge source="cogsci" target="patents">
+      <data key="d1">17.942964602</data>
+    </edge>
+    <edge source="cogsci" target="history">
+      <data key="d1">31.517098768</data>
+    </edge>
+    <edge source="hermeneutics" target="mechanics">
+      <data key="d1">26.0983384241</data>
+    </edge>
+    <edge source="hermeneutics" target="windowsphone">
+      <data key="d1">31.7978820628</data>
+    </edge>
+    <edge source="hermeneutics" target="gardening">
+      <data key="d1">32.2731703953</data>
+    </edge>
+    <edge source="hermeneutics" target="bricks">
+      <data key="d1">42.0967747978</data>
+    </edge>
+    <edge source="hermeneutics" target="robotics">
+      <data key="d1">23.3748043992</data>
+    </edge>
+    <edge source="hermeneutics" target="avp">
+      <data key="d1">19.4534347476</data>
+    </edge>
+    <edge source="hermeneutics" target="biology">
+      <data key="d1">30.1122800487</data>
+    </edge>
+    <edge source="hermeneutics" target="fitness">
+      <data key="d1">15.1471839955</data>
+    </edge>
+    <edge source="hermeneutics" target="cooking">
+      <data key="d1">9.39391918885</data>
+    </edge>
+    <edge source="hermeneutics" target="rpg">
+      <data key="d1">14.4165574008</data>
+    </edge>
+    <edge source="hermeneutics" target="spanish">
+      <data key="d1">41.495284555</data>
+    </edge>
+    <edge source="hermeneutics" target="cs">
+      <data key="d1">11.9473657741</data>
+    </edge>
+    <edge source="hermeneutics" target="sports">
+      <data key="d1">40.8777638881</data>
+    </edge>
+    <edge source="hermeneutics" target="sqa">
+      <data key="d1">15.5076855459</data>
+    </edge>
+    <edge source="hermeneutics" target="graphicdesign">
+      <data key="d1">10.2531518114</data>
+    </edge>
+    <edge source="hermeneutics" target="linguistics">
+      <data key="d1">37.9609547098</data>
+    </edge>
+    <edge source="hermeneutics" target="productivity">
+      <data key="d1">16.9282883747</data>
+    </edge>
+    <edge source="hermeneutics" target="scicomp">
+      <data key="d1">21.7702491731</data>
+    </edge>
+    <edge source="hermeneutics" target="travel">
+      <data key="d1">19.4358056674</data>
+    </edge>
+    <edge source="hermeneutics" target="bitcoin">
+      <data key="d1">22.1694051292</data>
+    </edge>
+    <edge source="hermeneutics" target="dsp">
+      <data key="d1">20.3126582907</data>
+    </edge>
+    <edge source="hermeneutics" target="christianity">
+      <data key="d1">70.1093871154</data>
+    </edge>
+    <edge source="hermeneutics" target="libraries">
+      <data key="d1">32.4950067756</data>
+    </edge>
+    <edge source="hermeneutics" target="writers">
+      <data key="d1">19.0675130535</data>
+    </edge>
+    <edge source="hermeneutics" target="music">
+      <data key="d1">20.7073939996</data>
+    </edge>
+    <edge source="hermeneutics" target="chess">
+      <data key="d1">44.3691377621</data>
+    </edge>
+    <edge source="hermeneutics" target="skeptics">
+      <data key="d1">12.0285713188</data>
+    </edge>
+    <edge source="hermeneutics" target="codegolf">
+      <data key="d1">12.134907338</data>
+    </edge>
+    <edge source="hermeneutics" target="expressionengine">
+      <data key="d1">18.6284584766</data>
+    </edge>
+    <edge source="hermeneutics" target="quant">
+      <data key="d1">15.5937229252</data>
+    </edge>
+    <edge source="hermeneutics" target="pm">
+      <data key="d1">13.6386264662</data>
+    </edge>
+    <edge source="hermeneutics" target="poker">
+      <data key="d1">55.5006088997</data>
+    </edge>
+    <edge source="hermeneutics" target="stackapps">
+      <data key="d1">8.22842748605</data>
+    </edge>
+    <edge source="hermeneutics" target="philosophy">
+      <data key="d1">27.4837731673</data>
+    </edge>
+    <edge source="hermeneutics" target="french">
+      <data key="d1">27.1739509448</data>
+    </edge>
+    <edge source="hermeneutics" target="japanese">
+      <data key="d1">24.3240649637</data>
+    </edge>
+    <edge source="hermeneutics" target="parenting">
+      <data key="d1">21.3842099569</data>
+    </edge>
+    <edge source="hermeneutics" target="russian">
+      <data key="d1">21.8895404269</data>
+    </edge>
+    <edge source="hermeneutics" target="homebrew">
+      <data key="d1">20.104658115</data>
+    </edge>
+    <edge source="hermeneutics" target="salesforce">
+      <data key="d1">15.6820352968</data>
+    </edge>
+    <edge source="hermeneutics" target="judaism">
+      <data key="d1">42.2012451282</data>
+    </edge>
+    <edge source="hermeneutics" target="genealogy">
+      <data key="d1">36.8528289169</data>
+    </edge>
+    <edge source="hermeneutics" target="crypto">
+      <data key="d1">17.2092384763</data>
+    </edge>
+    <edge source="hermeneutics" target="diy">
+      <data key="d1">12.0377381669</data>
+    </edge>
+    <edge source="hermeneutics" target="raspberrypi">
+      <data key="d1">12.3691204808</data>
+    </edge>
+    <edge source="hermeneutics" target="movies">
+      <data key="d1">24.7766812062</data>
+    </edge>
+    <edge source="hermeneutics" target="academia">
+      <data key="d1">18.3504960879</data>
+    </edge>
+    <edge source="hermeneutics" target="workplace">
+      <data key="d1">15.3502226647</data>
+    </edge>
+    <edge source="hermeneutics" target="outdoors">
+      <data key="d1">51.0972048601</data>
+    </edge>
+    <edge source="hermeneutics" target="smugmug">
+      <data key="d1">36.773060889</data>
+    </edge>
+    <edge source="hermeneutics" target="chemistry">
+      <data key="d1">36.0375996712</data>
+    </edge>
+    <edge source="hermeneutics" target="patents">
+      <data key="d1">18.7272073029</data>
+    </edge>
+    <edge source="hermeneutics" target="history">
+      <data key="d1">44.7443174416</data>
+    </edge>
+    <edge source="judaism" target="mechanics">
+      <data key="d1">13.7353047691</data>
+    </edge>
+    <edge source="judaism" target="windowsphone">
+      <data key="d1">18.5126219332</data>
+    </edge>
+    <edge source="judaism" target="gardening">
+      <data key="d1">18.5696737597</data>
+    </edge>
+    <edge source="judaism" target="bricks">
+      <data key="d1">22.8512592004</data>
+    </edge>
+    <edge source="judaism" target="robotics">
+      <data key="d1">11.4666184059</data>
+    </edge>
+    <edge source="judaism" target="avp">
+      <data key="d1">11.4135974784</data>
+    </edge>
+    <edge source="judaism" target="biology">
+      <data key="d1">17.6903238678</data>
+    </edge>
+    <edge source="judaism" target="fitness">
+      <data key="d1">9.56452850935</data>
+    </edge>
+    <edge source="judaism" target="rpg">
+      <data key="d1">10.1947885769</data>
+    </edge>
+    <edge source="judaism" target="spanish">
+      <data key="d1">20.0637705833</data>
+    </edge>
+    <edge source="judaism" target="christianity">
+      <data key="d1">20.571296346</data>
+    </edge>
+    <edge source="judaism" target="sqa">
+      <data key="d1">10.3069763234</data>
+    </edge>
+    <edge source="judaism" target="linguistics">
+      <data key="d1">22.2388721169</data>
+    </edge>
+    <edge source="judaism" target="productivity">
+      <data key="d1">9.05967135555</data>
+    </edge>
+    <edge source="judaism" target="scicomp">
+      <data key="d1">12.2436318942</data>
+    </edge>
+    <edge source="judaism" target="travel">
+      <data key="d1">12.3762864292</data>
+    </edge>
+    <edge source="judaism" target="bitcoin">
+      <data key="d1">12.3288304561</data>
+    </edge>
+    <edge source="judaism" target="dsp">
+      <data key="d1">10.8875981578</data>
+    </edge>
+    <edge source="judaism" target="sports">
+      <data key="d1">24.445608364</data>
+    </edge>
+    <edge source="judaism" target="libraries">
+      <data key="d1">18.2577297067</data>
+    </edge>
+    <edge source="judaism" target="writers">
+      <data key="d1">11.9259123119</data>
+    </edge>
+    <edge source="judaism" target="music">
+      <data key="d1">11.513634022</data>
+    </edge>
+    <edge source="judaism" target="chess">
+      <data key="d1">22.0644621878</data>
+    </edge>
+    <edge source="judaism" target="skeptics">
+      <data key="d1">8.65219970569</data>
+    </edge>
+    <edge source="judaism" target="expressionengine">
+      <data key="d1">9.48974863352</data>
+    </edge>
+    <edge source="judaism" target="quant">
+      <data key="d1">11.2478403454</data>
+    </edge>
+    <edge source="judaism" target="pm">
+      <data key="d1">8.97606285045</data>
+    </edge>
+    <edge source="judaism" target="poker">
+      <data key="d1">28.5772506272</data>
+    </edge>
+    <edge source="judaism" target="philosophy">
+      <data key="d1">15.4465808248</data>
+    </edge>
+    <edge source="judaism" target="french">
+      <data key="d1">15.982385938</data>
+    </edge>
+    <edge source="judaism" target="japanese">
+      <data key="d1">14.0657052288</data>
+    </edge>
+    <edge source="judaism" target="parenting">
+      <data key="d1">13.3415869797</data>
+    </edge>
+    <edge source="judaism" target="russian">
+      <data key="d1">12.6134441959</data>
+    </edge>
+    <edge source="judaism" target="homebrew">
+      <data key="d1">11.7048655645</data>
+    </edge>
+    <edge source="judaism" target="salesforce">
+      <data key="d1">9.50016548163</data>
+    </edge>
+    <edge source="judaism" target="genealogy">
+      <data key="d1">22.1870360479</data>
+    </edge>
+    <edge source="judaism" target="crypto">
+      <data key="d1">10.8658515427</data>
+    </edge>
+    <edge source="judaism" target="movies">
+      <data key="d1">14.9089590935</data>
+    </edge>
+    <edge source="judaism" target="academia">
+      <data key="d1">12.6248190364</data>
+    </edge>
+    <edge source="judaism" target="workplace">
+      <data key="d1">9.27341296826</data>
+    </edge>
+    <edge source="judaism" target="outdoors">
+      <data key="d1">25.577349492</data>
+    </edge>
+    <edge source="judaism" target="smugmug">
+      <data key="d1">19.2393078649</data>
+    </edge>
+    <edge source="judaism" target="chemistry">
+      <data key="d1">19.7888708695</data>
+    </edge>
+    <edge source="judaism" target="patents">
+      <data key="d1">13.1845682774</data>
+    </edge>
+    <edge source="judaism" target="history">
+      <data key="d1">24.8049573875</data>
+    </edge>
+    <edge source="crypto" target="mechanics">
+      <data key="d1">11.1749274045</data>
+    </edge>
+    <edge source="crypto" target="windowsphone">
+      <data key="d1">10.7922504093</data>
+    </edge>
+    <edge source="crypto" target="gardening">
+      <data key="d1">12.8251262004</data>
+    </edge>
+    <edge source="crypto" target="bricks">
+      <data key="d1">17.1276858037</data>
+    </edge>
+    <edge source="crypto" target="robotics">
+      <data key="d1">13.2224080126</data>
+    </edge>
+    <edge source="crypto" target="avp">
+      <data key="d1">10.6551107237</data>
+    </edge>
+    <edge source="crypto" target="poker">
+      <data key="d1">20.963749829</data>
+    </edge>
+    <edge source="crypto" target="fitness">
+      <data key="d1">8.54264258964</data>
+    </edge>
+    <edge source="crypto" target="pm">
+      <data key="d1">9.09980933477</data>
+    </edge>
+    <edge source="crypto" target="rpg">
+      <data key="d1">8.59494413581</data>
+    </edge>
+    <edge source="crypto" target="spanish">
+      <data key="d1">13.9642115951</data>
+    </edge>
+    <edge source="crypto" target="cs">
+      <data key="d1">14.1831247467</data>
+    </edge>
+    <edge source="crypto" target="christianity">
+      <data key="d1">10.6728625543</data>
+    </edge>
+    <edge source="crypto" target="sqa">
+      <data key="d1">11.7499785794</data>
+    </edge>
+    <edge source="crypto" target="linguistics">
+      <data key="d1">17.8765594472</data>
+    </edge>
+    <edge source="crypto" target="productivity">
+      <data key="d1">10.4096609551</data>
+    </edge>
+    <edge source="crypto" target="scicomp">
+      <data key="d1">14.629935433</data>
+    </edge>
+    <edge source="crypto" target="travel">
+      <data key="d1">10.9303175787</data>
+    </edge>
+    <edge source="crypto" target="bitcoin">
+      <data key="d1">17.447041182</data>
+    </edge>
+    <edge source="crypto" target="dsp">
+      <data key="d1">14.2529009579</data>
+    </edge>
+    <edge source="crypto" target="sports">
+      <data key="d1">15.7213264736</data>
+    </edge>
+    <edge source="crypto" target="libraries">
+      <data key="d1">11.0694028796</data>
+    </edge>
+    <edge source="crypto" target="writers">
+      <data key="d1">9.92303329811</data>
+    </edge>
+    <edge source="crypto" target="music">
+      <data key="d1">9.32083198362</data>
+    </edge>
+    <edge source="crypto" target="chess">
+      <data key="d1">21.9161563544</data>
+    </edge>
+    <edge source="crypto" target="skeptics">
+      <data key="d1">8.34057963872</data>
+    </edge>
+    <edge source="crypto" target="quant">
+      <data key="d1">9.02775107949</data>
+    </edge>
+    <edge source="crypto" target="cstheory">
+      <data key="d1">9.59370865565</data>
+    </edge>
+    <edge source="crypto" target="biology">
+      <data key="d1">13.4757681997</data>
+    </edge>
+    <edge source="crypto" target="philosophy">
+      <data key="d1">13.3837026352</data>
+    </edge>
+    <edge source="crypto" target="french">
+      <data key="d1">13.4570218635</data>
+    </edge>
+    <edge source="crypto" target="japanese">
+      <data key="d1">11.1562504231</data>
+    </edge>
+    <edge source="crypto" target="parenting">
+      <data key="d1">9.63293975158</data>
+    </edge>
+    <edge source="crypto" target="russian">
+      <data key="d1">8.31233970881</data>
+    </edge>
+    <edge source="crypto" target="homebrew">
+      <data key="d1">8.91021869564</data>
+    </edge>
+    <edge source="crypto" target="smugmug">
+      <data key="d1">10.7520696645</data>
+    </edge>
+    <edge source="crypto" target="codegolf">
+      <data key="d1">10.8384377387</data>
+    </edge>
+    <edge source="crypto" target="genealogy">
+      <data key="d1">12.3657718898</data>
+    </edge>
+    <edge source="crypto" target="raspberrypi">
+      <data key="d1">9.61591513738</data>
+    </edge>
+    <edge source="crypto" target="movies">
+      <data key="d1">11.894282993</data>
+    </edge>
+    <edge source="crypto" target="academia">
+      <data key="d1">12.9058303522</data>
+    </edge>
+    <edge source="crypto" target="workplace">
+      <data key="d1">9.1674014371</data>
+    </edge>
+    <edge source="crypto" target="outdoors">
+      <data key="d1">17.9833878367</data>
+    </edge>
+    <edge source="crypto" target="security">
+      <data key="d1">10.8598898617</data>
+    </edge>
+    <edge source="crypto" target="chemistry">
+      <data key="d1">15.8449858281</data>
+    </edge>
+    <edge source="crypto" target="patents">
+      <data key="d1">11.6765511921</data>
+    </edge>
+    <edge source="crypto" target="history">
+      <data key="d1">16.4145935417</data>
+    </edge>
+    <edge source="diy" target="mechanics">
+      <data key="d1">15.3630181474</data>
+    </edge>
+    <edge source="diy" target="cooking">
+      <data key="d1">8.92722583437</data>
+    </edge>
+    <edge source="diy" target="gardening">
+      <data key="d1">18.2637107164</data>
+    </edge>
+    <edge source="diy" target="bricks">
+      <data key="d1">13.6100668625</data>
+    </edge>
+    <edge source="diy" target="avp">
+      <data key="d1">8.98542656069</data>
+    </edge>
+    <edge source="diy" target="biology">
+      <data key="d1">8.13209359801</data>
+    </edge>
+    <edge source="diy" target="christianity">
+      <data key="d1">8.24532980066</data>
+    </edge>
+    <edge source="diy" target="linguistics">
+      <data key="d1">8.53161542737</data>
+    </edge>
+    <edge source="diy" target="productivity">
+      <data key="d1">8.16489405488</data>
+    </edge>
+    <edge source="diy" target="travel">
+      <data key="d1">9.80292207507</data>
+    </edge>
+    <edge source="diy" target="sports">
+      <data key="d1">11.7835311811</data>
+    </edge>
+    <edge source="diy" target="writers">
+      <data key="d1">8.8207173164</data>
+    </edge>
+    <edge source="diy" target="music">
+      <data key="d1">8.00248468639</data>
+    </edge>
+    <edge source="diy" target="chess">
+      <data key="d1">9.25956213356</data>
+    </edge>
+    <edge source="diy" target="skeptics">
+      <data key="d1">8.20207561154</data>
+    </edge>
+    <edge source="diy" target="poker">
+      <data key="d1">11.8029784989</data>
+    </edge>
+    <edge source="diy" target="outdoors">
+      <data key="d1">16.2273204824</data>
+    </edge>
+    <edge source="diy" target="parenting">
+      <data key="d1">12.5551037234</data>
+    </edge>
+    <edge source="diy" target="homebrew">
+      <data key="d1">10.2472311005</data>
+    </edge>
+    <edge source="diy" target="genealogy">
+      <data key="d1">8.0943271746</data>
+    </edge>
+    <edge source="diy" target="movies">
+      <data key="d1">8.67039721148</data>
+    </edge>
+    <edge source="diy" target="fitness">
+      <data key="d1">9.02033879173</data>
+    </edge>
+    <edge source="diy" target="chemistry">
+      <data key="d1">8.78305801538</data>
+    </edge>
+    <edge source="diy" target="patents">
+      <data key="d1">8.91432596137</data>
+    </edge>
+    <edge source="diy" target="history">
+      <data key="d1">11.0321954365</data>
+    </edge>
+    <edge source="fitness" target="mechanics">
+      <data key="d1">15.8379217</data>
+    </edge>
+    <edge source="fitness" target="windowsphone">
+      <data key="d1">10.0001885399</data>
+    </edge>
+    <edge source="fitness" target="cooking">
+      <data key="d1">8.30006830372</data>
+    </edge>
+    <edge source="fitness" target="gardening">
+      <data key="d1">16.1007244832</data>
+    </edge>
+    <edge source="fitness" target="bricks">
+      <data key="d1">14.8564360063</data>
+    </edge>
+    <edge source="fitness" target="robotics">
+      <data key="d1">8.90625622162</data>
+    </edge>
+    <edge source="fitness" target="avp">
+      <data key="d1">11.2460023739</data>
+    </edge>
+    <edge source="fitness" target="biology">
+      <data key="d1">13.6014901095</data>
+    </edge>
+    <edge source="fitness" target="spanish">
+      <data key="d1">13.8007015553</data>
+    </edge>
+    <edge source="fitness" target="christianity">
+      <data key="d1">10.3774935892</data>
+    </edge>
+    <edge source="fitness" target="sqa">
+      <data key="d1">9.20931050716</data>
+    </edge>
+    <edge source="fitness" target="graphicdesign">
+      <data key="d1">8.1166128914</data>
+    </edge>
+    <edge source="fitness" target="linguistics">
+      <data key="d1">13.5857007163</data>
+    </edge>
+    <edge source="fitness" target="productivity">
+      <data key="d1">15.0560578288</data>
+    </edge>
+    <edge source="fitness" target="scicomp">
+      <data key="d1">9.02483966285</data>
+    </edge>
+    <edge source="fitness" target="travel">
+      <data key="d1">13.7344724924</data>
+    </edge>
+    <edge source="fitness" target="bitcoin">
+      <data key="d1">8.79893291432</data>
+    </edge>
+    <edge source="fitness" target="dsp">
+      <data key="d1">8.24427008011</data>
+    </edge>
+    <edge source="fitness" target="sports">
+      <data key="d1">24.7172049664</data>
+    </edge>
+    <edge source="fitness" target="libraries">
+      <data key="d1">9.01280796684</data>
+    </edge>
+    <edge source="fitness" target="writers">
+      <data key="d1">12.5121067439</data>
+    </edge>
+    <edge source="fitness" target="music">
+      <data key="d1">11.281624633</data>
+    </edge>
+    <edge source="fitness" target="chess">
+      <data key="d1">16.7042505351</data>
+    </edge>
+    <edge source="fitness" target="skeptics">
+      <data key="d1">9.8537084238</data>
+    </edge>
+    <edge source="fitness" target="quant">
+      <data key="d1">10.1216031015</data>
+    </edge>
+    <edge source="fitness" target="pm">
+      <data key="d1">10.3286113788</data>
+    </edge>
+    <edge source="fitness" target="poker">
+      <data key="d1">17.5086525367</data>
+    </edge>
+    <edge source="fitness" target="philosophy">
+      <data key="d1">12.8621678074</data>
+    </edge>
+    <edge source="fitness" target="french">
+      <data key="d1">11.0126836368</data>
+    </edge>
+    <edge source="fitness" target="japanese">
+      <data key="d1">9.64367042385</data>
+    </edge>
+    <edge source="fitness" target="parenting">
+      <data key="d1">12.7709913421</data>
+    </edge>
+    <edge source="fitness" target="homebrew">
+      <data key="d1">11.11422628</data>
+    </edge>
+    <edge source="fitness" target="codegolf">
+      <data key="d1">8.46314713407</data>
+    </edge>
+    <edge source="fitness" target="genealogy">
+      <data key="d1">10.2121064349</data>
+    </edge>
+    <edge source="fitness" target="movies">
+      <data key="d1">12.9884678971</data>
+    </edge>
+    <edge source="fitness" target="academia">
+      <data key="d1">9.87515320473</data>
+    </edge>
+    <edge source="fitness" target="workplace">
+      <data key="d1">9.74789020518</data>
+    </edge>
+    <edge source="fitness" target="outdoors">
+      <data key="d1">21.5852303645</data>
+    </edge>
+    <edge source="fitness" target="smugmug">
+      <data key="d1">9.37239232588</data>
+    </edge>
+    <edge source="fitness" target="chemistry">
+      <data key="d1">14.6226533125</data>
+    </edge>
+    <edge source="fitness" target="patents">
+      <data key="d1">8.85915885296</data>
+    </edge>
+    <edge source="fitness" target="history">
+      <data key="d1">15.4438966479</data>
+    </edge>
+    <edge source="gardening" target="mechanics">
+      <data key="d1">27.2249467181</data>
+    </edge>
+    <edge source="gardening" target="windowsphone">
+      <data key="d1">18.4606723026</data>
+    </edge>
+    <edge source="gardening" target="cooking">
+      <data key="d1">12.1975731672</data>
+    </edge>
+    <edge source="gardening" target="bricks">
+      <data key="d1">30.6259089031</data>
+    </edge>
+    <edge source="gardening" target="avp">
+      <data key="d1">14.9173521567</data>
+    </edge>
+    <edge source="gardening" target="biology">
+      <data key="d1">22.1458404717</data>
+    </edge>
+    <edge source="gardening" target="pm">
+      <data key="d1">11.7738425589</data>
+    </edge>
+    <edge source="gardening" target="rpg">
+      <data key="d1">10.7771146633</data>
+    </edge>
+    <edge source="gardening" target="spanish">
+      <data key="d1">23.8374692082</data>
+    </edge>
+    <edge source="gardening" target="christianity">
+      <data key="d1">18.3522250955</data>
+    </edge>
+    <edge source="gardening" target="sqa">
+      <data key="d1">12.8801854195</data>
+    </edge>
+    <edge source="gardening" target="graphicdesign">
+      <data key="d1">9.72085475726</data>
+    </edge>
+    <edge source="gardening" target="linguistics">
+      <data key="d1">23.934054217</data>
+    </edge>
+    <edge source="gardening" target="productivity">
+      <data key="d1">14.3774989706</data>
+    </edge>
+    <edge source="gardening" target="scicomp">
+      <data key="d1">13.8442551963</data>
+    </edge>
+    <edge source="gardening" target="travel">
+      <data key="d1">18.2402463647</data>
+    </edge>
+    <edge source="gardening" target="bitcoin">
+      <data key="d1">13.6043672155</data>
+    </edge>
+    <edge source="gardening" target="dsp">
+      <data key="d1">13.8683056063</data>
+    </edge>
+    <edge source="gardening" target="sports">
+      <data key="d1">31.2025724719</data>
+    </edge>
+    <edge source="gardening" target="libraries">
+      <data key="d1">18.8764943767</data>
+    </edge>
+    <edge source="gardening" target="writers">
+      <data key="d1">14.7746154297</data>
+    </edge>
+    <edge source="gardening" target="music">
+      <data key="d1">15.270803354</data>
+    </edge>
+    <edge source="gardening" target="chess">
+      <data key="d1">23.9559421973</data>
+    </edge>
+    <edge source="gardening" target="skeptics">
+      <data key="d1">10.9342389519</data>
+    </edge>
+    <edge source="gardening" target="codegolf">
+      <data key="d1">8.89410152068</data>
+    </edge>
+    <edge source="gardening" target="expressionengine">
+      <data key="d1">9.9104661835</data>
+    </edge>
+    <edge source="gardening" target="quant">
+      <data key="d1">12.1135791092</data>
+    </edge>
+    <edge source="gardening" target="workplace">
+      <data key="d1">12.4764788345</data>
+    </edge>
+    <edge source="gardening" target="poker">
+      <data key="d1">30.5585471964</data>
+    </edge>
+    <edge source="gardening" target="robotics">
+      <data key="d1">13.5102319273</data>
+    </edge>
+    <edge source="gardening" target="philosophy">
+      <data key="d1">17.0452350684</data>
+    </edge>
+    <edge source="gardening" target="french">
+      <data key="d1">17.3480713231</data>
+    </edge>
+    <edge source="gardening" target="japanese">
+      <data key="d1">15.1750498088</data>
+    </edge>
+    <edge source="gardening" target="parenting">
+      <data key="d1">20.7984114523</data>
+    </edge>
+    <edge source="gardening" target="russian">
+      <data key="d1">10.6749352293</data>
+    </edge>
+    <edge source="gardening" target="homebrew">
+      <data key="d1">19.6089930623</data>
+    </edge>
+    <edge source="gardening" target="salesforce">
+      <data key="d1">10.3347342199</data>
+    </edge>
+    <edge source="gardening" target="genealogy">
+      <data key="d1">22.0566991416</data>
+    </edge>
+    <edge source="gardening" target="raspberrypi">
+      <data key="d1">10.0263028012</data>
+    </edge>
+    <edge source="gardening" target="movies">
+      <data key="d1">17.597266182</data>
+    </edge>
+    <edge source="gardening" target="academia">
+      <data key="d1">14.1154949512</data>
+    </edge>
+    <edge source="gardening" target="outdoors">
+      <data key="d1">41.1700609004</data>
+    </edge>
+    <edge source="gardening" target="smugmug">
+      <data key="d1">21.5683376014</data>
+    </edge>
+    <edge source="gardening" target="chemistry">
+      <data key="d1">23.7370680953</data>
+    </edge>
+    <edge source="gardening" target="patents">
+      <data key="d1">14.2635101856</data>
+    </edge>
+    <edge source="gardening" target="history">
+      <data key="d1">26.3130646113</data>
+    </edge>
+    <edge source="japanese" target="mechanics">
+      <data key="d1">11.6145855456</data>
+    </edge>
+    <edge source="japanese" target="windowsphone">
+      <data key="d1">15.5649380903</data>
+    </edge>
+    <edge source="japanese" target="bricks">
+      <data key="d1">22.0759165543</data>
+    </edge>
+    <edge source="japanese" target="robotics">
+      <data key="d1">12.7511439813</data>
+    </edge>
+    <edge source="japanese" target="avp">
+      <data key="d1">11.9796731871</data>
+    </edge>
+    <edge source="japanese" target="biology">
+      <data key="d1">14.5304899378</data>
+    </edge>
+    <edge source="japanese" target="rpg">
+      <data key="d1">10.1715900596</data>
+    </edge>
+    <edge source="japanese" target="spanish">
+      <data key="d1">25.573417978</data>
+    </edge>
+    <edge source="japanese" target="christianity">
+      <data key="d1">12.5755816685</data>
+    </edge>
+    <edge source="japanese" target="sqa">
+      <data key="d1">10.0932386358</data>
+    </edge>
+    <edge source="japanese" target="linguistics">
+      <data key="d1">26.9573869071</data>
+    </edge>
+    <edge source="japanese" target="productivity">
+      <data key="d1">11.1183851199</data>
+    </edge>
+    <edge source="japanese" target="scicomp">
+      <data key="d1">12.5052660358</data>
+    </edge>
+    <edge source="japanese" target="travel">
+      <data key="d1">11.6502989493</data>
+    </edge>
+    <edge source="japanese" target="bitcoin">
+      <data key="d1">12.9250232174</data>
+    </edge>
+    <edge source="japanese" target="dsp">
+      <data key="d1">13.0890988781</data>
+    </edge>
+    <edge source="japanese" target="sports">
+      <data key="d1">17.383338188</data>
+    </edge>
+    <edge source="japanese" target="libraries">
+      <data key="d1">13.8568086164</data>
+    </edge>
+    <edge source="japanese" target="writers">
+      <data key="d1">11.9942087882</data>
+    </edge>
+    <edge source="japanese" target="music">
+      <data key="d1">12.4368478801</data>
+    </edge>
+    <edge source="japanese" target="chess">
+      <data key="d1">18.9631838587</data>
+    </edge>
+    <edge source="japanese" target="expressionengine">
+      <data key="d1">9.35363522313</data>
+    </edge>
+    <edge source="japanese" target="quant">
+      <data key="d1">9.71801915427</data>
+    </edge>
+    <edge source="japanese" target="pm">
+      <data key="d1">8.49994670781</data>
+    </edge>
+    <edge source="japanese" target="poker">
+      <data key="d1">26.6441263002</data>
+    </edge>
+    <edge source="japanese" target="philosophy">
+      <data key="d1">14.5750261813</data>
+    </edge>
+    <edge source="japanese" target="french">
+      <data key="d1">21.4900218082</data>
+    </edge>
+    <edge source="japanese" target="parenting">
+      <data key="d1">11.3355349079</data>
+    </edge>
+    <edge source="japanese" target="salesforce">
+      <data key="d1">8.19341482773</data>
+    </edge>
+    <edge source="japanese" target="russian">
+      <data key="d1">13.873979383</data>
+    </edge>
+    <edge source="japanese" target="homebrew">
+      <data key="d1">10.5755652546</data>
+    </edge>
+    <edge source="japanese" target="codegolf">
+      <data key="d1">9.3089385652</data>
+    </edge>
+    <edge source="japanese" target="genealogy">
+      <data key="d1">15.034801953</data>
+    </edge>
+    <edge source="japanese" target="movies">
+      <data key="d1">12.6286160312</data>
+    </edge>
+    <edge source="japanese" target="academia">
+      <data key="d1">11.3196859388</data>
+    </edge>
+    <edge source="japanese" target="outdoors">
+      <data key="d1">18.6103973542</data>
+    </edge>
+    <edge source="japanese" target="smugmug">
+      <data key="d1">16.696900971</data>
+    </edge>
+    <edge source="japanese" target="chemistry">
+      <data key="d1">17.8796154508</data>
+    </edge>
+    <edge source="japanese" target="patents">
+      <data key="d1">9.78181253035</data>
+    </edge>
+    <edge source="japanese" target="history">
+      <data key="d1">19.01969589</data>
+    </edge>
+    <edge source="stats" target="scicomp">
+      <data key="d1">8.49651939756</data>
+    </edge>
+    <edge source="stats" target="quant">
+      <data key="d1">8.48445603221</data>
+    </edge>
+    <edge source="cooking" target="mechanics">
+      <data key="d1">8.95362519177</data>
+    </edge>
+    <edge source="cooking" target="poker">
+      <data key="d1">9.88524157892</data>
+    </edge>
+    <edge source="cooking" target="movies">
+      <data key="d1">8.02020797049</data>
+    </edge>
+    <edge source="cooking" target="bricks">
+      <data key="d1">10.0022920266</data>
+    </edge>
+    <edge source="cooking" target="travel">
+      <data key="d1">9.12934253911</data>
+    </edge>
+    <edge source="cooking" target="chess">
+      <data key="d1">8.27754084655</data>
+    </edge>
+    <edge source="cooking" target="sports">
+      <data key="d1">9.48849586132</data>
+    </edge>
+    <edge source="cooking" target="parenting">
+      <data key="d1">9.40356567271</data>
+    </edge>
+    <edge source="cooking" target="writers">
+      <data key="d1">8.64430196895</data>
+    </edge>
+    <edge source="cooking" target="outdoors">
+      <data key="d1">11.6892496542</data>
+    </edge>
+    <edge source="cooking" target="homebrew">
+      <data key="d1">8.58492064024</data>
+    </edge>
+    <edge source="cooking" target="history">
+      <data key="d1">9.40337948824</data>
+    </edge>
+    <edge source="dsp" target="mechanics">
+      <data key="d1">11.4778260535</data>
+    </edge>
+    <edge source="dsp" target="windowsphone">
+      <data key="d1">14.2312134857</data>
+    </edge>
+    <edge source="dsp" target="bricks">
+      <data key="d1">19.8422715191</data>
+    </edge>
+    <edge source="dsp" target="robotics">
+      <data key="d1">21.8405630613</data>
+    </edge>
+    <edge source="dsp" target="avp">
+      <data key="d1">14.0361530543</data>
+    </edge>
+    <edge source="dsp" target="biology">
+      <data key="d1">18.1087598612</data>
+    </edge>
+    <edge source="dsp" target="spanish">
+      <data key="d1">16.4383408576</data>
+    </edge>
+    <edge source="dsp" target="cs">
+      <data key="d1">11.0005099579</data>
+    </edge>
+    <edge source="dsp" target="christianity">
+      <data key="d1">11.347670229</data>
+    </edge>
+    <edge source="dsp" target="sqa">
+      <data key="d1">9.48396993045</data>
+    </edge>
+    <edge source="dsp" target="linguistics">
+      <data key="d1">18.4090287915</data>
+    </edge>
+    <edge source="dsp" target="productivity">
+      <data key="d1">10.1614627793</data>
+    </edge>
+    <edge source="dsp" target="scicomp">
+      <data key="d1">23.4547446105</data>
+    </edge>
+    <edge source="dsp" target="travel">
+      <data key="d1">10.7321012932</data>
+    </edge>
+    <edge source="dsp" target="bitcoin">
+      <data key="d1">11.5147038352</data>
+    </edge>
+    <edge source="dsp" target="sports">
+      <data key="d1">17.9678659152</data>
+    </edge>
+    <edge source="dsp" target="libraries">
+      <data key="d1">14.1830097923</data>
+    </edge>
+    <edge source="dsp" target="writers">
+      <data key="d1">9.54989326014</data>
+    </edge>
+    <edge source="dsp" target="quant">
+      <data key="d1">12.6967844631</data>
+    </edge>
+    <edge source="dsp" target="chess">
+      <data key="d1">19.988148684</data>
+    </edge>
+    <edge source="dsp" target="music">
+      <data key="d1">12.0857053358</data>
+    </edge>
+    <edge source="dsp" target="electronics">
+      <data key="d1">8.77482470969</data>
+    </edge>
+    <edge source="dsp" target="poker">
+      <data key="d1">22.3618057019</data>
+    </edge>
+    <edge source="dsp" target="philosophy">
+      <data key="d1">13.1888274424</data>
+    </edge>
+    <edge source="dsp" target="french">
+      <data key="d1">15.6720897071</data>
+    </edge>
+    <edge source="dsp" target="parenting">
+      <data key="d1">9.04773645835</data>
+    </edge>
+    <edge source="dsp" target="russian">
+      <data key="d1">10.5173080978</data>
+    </edge>
+    <edge source="dsp" target="homebrew">
+      <data key="d1">9.92283190907</data>
+    </edge>
+    <edge source="dsp" target="codegolf">
+      <data key="d1">8.92505187058</data>
+    </edge>
+    <edge source="dsp" target="genealogy">
+      <data key="d1">11.8078940527</data>
+    </edge>
+    <edge source="dsp" target="raspberrypi">
+      <data key="d1">9.23983179066</data>
+    </edge>
+    <edge source="dsp" target="movies">
+      <data key="d1">11.5980615821</data>
+    </edge>
+    <edge source="dsp" target="academia">
+      <data key="d1">16.0724563197</data>
+    </edge>
+    <edge source="dsp" target="workplace">
+      <data key="d1">8.2502900489</data>
+    </edge>
+    <edge source="dsp" target="outdoors">
+      <data key="d1">19.945979594</data>
+    </edge>
+    <edge source="dsp" target="smugmug">
+      <data key="d1">15.1175916473</data>
+    </edge>
+    <edge source="dsp" target="chemistry">
+      <data key="d1">21.3570340181</data>
+    </edge>
+    <edge source="dsp" target="patents">
+      <data key="d1">10.5387105459</data>
+    </edge>
+    <edge source="dsp" target="history">
+      <data key="d1">17.4788434925</data>
+    </edge>
+    <edge source="libraries" target="mechanics">
+      <data key="d1">14.2252286889</data>
+    </edge>
+    <edge source="libraries" target="windowsphone">
+      <data key="d1">26.3433184495</data>
+    </edge>
+    <edge source="libraries" target="bricks">
+      <data key="d1">29.0922809439</data>
+    </edge>
+    <edge source="libraries" target="robotics">
+      <data key="d1">21.7236963326</data>
+    </edge>
+    <edge source="libraries" target="avp">
+      <data key="d1">10.9074392455</data>
+    </edge>
+    <edge source="libraries" target="biology">
+      <data key="d1">22.1805770907</data>
+    </edge>
+    <edge source="libraries" target="rpg">
+      <data key="d1">8.28221925914</data>
+    </edge>
+    <edge source="libraries" target="spanish">
+      <data key="d1">23.2953998269</data>
+    </edge>
+    <edge source="libraries" target="cs">
+      <data key="d1">10.7925523249</data>
+    </edge>
+    <edge source="libraries" target="christianity">
+      <data key="d1">14.8328277087</data>
+    </edge>
+    <edge source="libraries" target="sqa">
+      <data key="d1">10.5795150938</data>
+    </edge>
+    <edge source="libraries" target="linguistics">
+      <data key="d1">25.854859933</data>
+    </edge>
+    <edge source="libraries" target="productivity">
+      <data key="d1">11.2637900551</data>
+    </edge>
+    <edge source="libraries" target="scicomp">
+      <data key="d1">16.9564375416</data>
+    </edge>
+    <edge source="libraries" target="travel">
+      <data key="d1">12.3626078258</data>
+    </edge>
+    <edge source="libraries" target="bitcoin">
+      <data key="d1">13.1655993889</data>
+    </edge>
+    <edge source="libraries" target="sports">
+      <data key="d1">31.2181265595</data>
+    </edge>
+    <edge source="libraries" target="writers">
+      <data key="d1">13.2904918578</data>
+    </edge>
+    <edge source="libraries" target="music">
+      <data key="d1">11.2792727564</data>
+    </edge>
+    <edge source="libraries" target="chess">
+      <data key="d1">39.762388089</data>
+    </edge>
+    <edge source="libraries" target="expressionengine">
+      <data key="d1">16.9978395866</data>
+    </edge>
+    <edge source="libraries" target="quant">
+      <data key="d1">10.6652634661</data>
+    </edge>
+    <edge source="libraries" target="pm">
+      <data key="d1">9.43794041811</data>
+    </edge>
+    <edge source="libraries" target="poker">
+      <data key="d1">33.5438046123</data>
+    </edge>
+    <edge source="libraries" target="philosophy">
+      <data key="d1">14.0927542754</data>
+    </edge>
+    <edge source="libraries" target="french">
+      <data key="d1">18.1005785079</data>
+    </edge>
+    <edge source="libraries" target="parenting">
+      <data key="d1">12.7816984172</data>
+    </edge>
+    <edge source="libraries" target="russian">
+      <data key="d1">18.3690407726</data>
+    </edge>
+    <edge source="libraries" target="homebrew">
+      <data key="d1">11.3508585691</data>
+    </edge>
+    <edge source="libraries" target="salesforce">
+      <data key="d1">18.2927353795</data>
+    </edge>
+    <edge source="libraries" target="genealogy">
+      <data key="d1">42.8743771611</data>
+    </edge>
+    <edge source="libraries" target="raspberrypi">
+      <data key="d1">11.7439618962</data>
+    </edge>
+    <edge source="libraries" target="movies">
+      <data key="d1">17.1910966775</data>
+    </edge>
+    <edge source="libraries" target="academia">
+      <data key="d1">19.9376913132</data>
+    </edge>
+    <edge source="libraries" target="workplace">
+      <data key="d1">12.3455256936</data>
+    </edge>
+    <edge source="libraries" target="outdoors">
+      <data key="d1">33.8939659789</data>
+    </edge>
+    <edge source="libraries" target="smugmug">
+      <data key="d1">25.9364718325</data>
+    </edge>
+    <edge source="libraries" target="chemistry">
+      <data key="d1">34.2923687369</data>
+    </edge>
+    <edge source="libraries" target="patents">
+      <data key="d1">17.5295431246</data>
+    </edge>
+    <edge source="libraries" target="history">
+      <data key="d1">27.4746266038</data>
+    </edge>
+    <edge source="electronics" target="robotics">
+      <data key="d1">9.8184547076</data>
+    </edge>
+    <edge source="biology" target="mechanics">
+      <data key="d1">15.1631031007</data>
+    </edge>
+    <edge source="biology" target="windowsphone">
+      <data key="d1">19.0507945904</data>
+    </edge>
+    <edge source="biology" target="bricks">
+      <data key="d1">23.9360030575</data>
+    </edge>
+    <edge source="biology" target="robotics">
+      <data key="d1">17.221562738</data>
+    </edge>
+    <edge source="biology" target="avp">
+      <data key="d1">13.8914652908</data>
+    </edge>
+    <edge source="biology" target="rpg">
+      <data key="d1">10.0624802832</data>
+    </edge>
+    <edge source="biology" target="spanish">
+      <data key="d1">25.1112600383</data>
+    </edge>
+    <edge source="biology" target="cs">
+      <data key="d1">13.6281941459</data>
+    </edge>
+    <edge source="biology" target="christianity">
+      <data key="d1">16.2147951287</data>
+    </edge>
+    <edge source="biology" target="sqa">
+      <data key="d1">9.88736869318</data>
+    </edge>
+    <edge source="biology" target="graphicdesign">
+      <data key="d1">8.64046028234</data>
+    </edge>
+    <edge source="biology" target="linguistics">
+      <data key="d1">29.0437115752</data>
+    </edge>
+    <edge source="biology" target="productivity">
+      <data key="d1">13.4853298014</data>
+    </edge>
+    <edge source="biology" target="scicomp">
+      <data key="d1">24.6957325186</data>
+    </edge>
+    <edge source="biology" target="travel">
+      <data key="d1">16.4840477597</data>
+    </edge>
+    <edge source="biology" target="bitcoin">
+      <data key="d1">13.8520438747</data>
+    </edge>
+    <edge source="biology" target="sports">
+      <data key="d1">29.4622822445</data>
+    </edge>
+    <edge source="biology" target="writers">
+      <data key="d1">14.8045714384</data>
+    </edge>
+    <edge source="biology" target="music">
+      <data key="d1">13.9754262456</data>
+    </edge>
+    <edge source="biology" target="chess">
+      <data key="d1">29.3664825474</data>
+    </edge>
+    <edge source="biology" target="skeptics">
+      <data key="d1">12.0988665922</data>
+    </edge>
+    <edge source="biology" target="codegolf">
+      <data key="d1">9.51962481462</data>
+    </edge>
+    <edge source="biology" target="expressionengine">
+      <data key="d1">9.50168542425</data>
+    </edge>
+    <edge source="biology" target="quant">
+      <data key="d1">12.3178000009</data>
+    </edge>
+    <edge source="biology" target="pm">
+      <data key="d1">8.68489448368</data>
+    </edge>
+    <edge source="biology" target="poker">
+      <data key="d1">33.1791325226</data>
+    </edge>
+    <edge source="biology" target="philosophy">
+      <data key="d1">22.627611401</data>
+    </edge>
+    <edge source="biology" target="french">
+      <data key="d1">20.0346129239</data>
+    </edge>
+    <edge source="biology" target="parenting">
+      <data key="d1">14.2775226701</data>
+    </edge>
+    <edge source="biology" target="russian">
+      <data key="d1">14.6426784504</data>
+    </edge>
+    <edge source="biology" target="homebrew">
+      <data key="d1">12.5436222439</data>
+    </edge>
+    <edge source="biology" target="salesforce">
+      <data key="d1">10.1606686964</data>
+    </edge>
+    <edge source="biology" target="genealogy">
+      <data key="d1">20.5061024025</data>
+    </edge>
+    <edge source="biology" target="raspberrypi">
+      <data key="d1">9.463544066</data>
+    </edge>
+    <edge source="biology" target="movies">
+      <data key="d1">19.8470723027</data>
+    </edge>
+    <edge source="biology" target="academia">
+      <data key="d1">28.5621908116</data>
+    </edge>
+    <edge source="biology" target="workplace">
+      <data key="d1">12.2964541701</data>
+    </edge>
+    <edge source="biology" target="outdoors">
+      <data key="d1">36.7145363354</data>
+    </edge>
+    <edge source="biology" target="smugmug">
+      <data key="d1">20.5308443214</data>
+    </edge>
+    <edge source="biology" target="chemistry">
+      <data key="d1">58.4864074709</data>
+    </edge>
+    <edge source="biology" target="physics">
+      <data key="d1">9.80471416315</data>
+    </edge>
+    <edge source="biology" target="patents">
+      <data key="d1">13.9524377496</data>
+    </edge>
+    <edge source="biology" target="history">
+      <data key="d1">35.5761190638</data>
+    </edge>
+    <edge source="linguistics" target="mechanics">
+      <data key="d1">17.1275807741</data>
+    </edge>
+    <edge source="linguistics" target="windowsphone">
+      <data key="d1">19.5468789014</data>
+    </edge>
+    <edge source="linguistics" target="bricks">
+      <data key="d1">29.2810149763</data>
+    </edge>
+    <edge source="linguistics" target="robotics">
+      <data key="d1">16.7638591475</data>
+    </edge>
+    <edge source="linguistics" target="avp">
+      <data key="d1">15.8928758267</data>
+    </edge>
+    <edge source="linguistics" target="rpg">
+      <data key="d1">10.8033597465</data>
+    </edge>
+    <edge source="linguistics" target="spanish">
+      <data key="d1">38.8534273245</data>
+    </edge>
+    <edge source="linguistics" target="cs">
+      <data key="d1">14.1034442706</data>
+    </edge>
+    <edge source="linguistics" target="christianity">
+      <data key="d1">20.5516250131</data>
+    </edge>
+    <edge source="linguistics" target="sqa">
+      <data key="d1">13.6619619557</data>
+    </edge>
+    <edge source="linguistics" target="graphicdesign">
+      <data key="d1">10.4093658672</data>
+    </edge>
+    <edge source="linguistics" target="productivity">
+      <data key="d1">15.4906608042</data>
+    </edge>
+    <edge source="linguistics" target="cstheory">
+      <data key="d1">9.66021182862</data>
+    </edge>
+    <edge source="linguistics" target="scicomp">
+      <data key="d1">20.8297254869</data>
+    </edge>
+    <edge source="linguistics" target="travel">
+      <data key="d1">19.242263361</data>
+    </edge>
+    <edge source="linguistics" target="bitcoin">
+      <data key="d1">17.8867970808</data>
+    </edge>
+    <edge source="linguistics" target="sports">
+      <data key="d1">29.8601631088</data>
+    </edge>
+    <edge source="linguistics" target="writers">
+      <data key="d1">20.7534763644</data>
+    </edge>
+    <edge source="linguistics" target="music">
+      <data key="d1">18.5529156348</data>
+    </edge>
+    <edge source="linguistics" target="chess">
+      <data key="d1">34.2939428058</data>
+    </edge>
+    <edge source="linguistics" target="skeptics">
+      <data key="d1">12.4405836746</data>
+    </edge>
+    <edge source="linguistics" target="expressionengine">
+      <data key="d1">10.6093257195</data>
+    </edge>
+    <edge source="linguistics" target="quant">
+      <data key="d1">14.3824649529</data>
+    </edge>
+    <edge source="linguistics" target="pm">
+      <data key="d1">12.0130966482</data>
+    </edge>
+    <edge source="linguistics" target="poker">
+      <data key="d1">35.0076444003</data>
+    </edge>
+    <edge source="linguistics" target="philosophy">
+      <data key="d1">29.9441549127</data>
+    </edge>
+    <edge source="linguistics" target="french">
+      <data key="d1">34.1882790765</data>
+    </edge>
+    <edge source="linguistics" target="parenting">
+      <data key="d1">15.394535538</data>
+    </edge>
+    <edge source="linguistics" target="salesforce">
+      <data key="d1">11.1037429544</data>
+    </edge>
+    <edge source="linguistics" target="russian">
+      <data key="d1">21.4588761173</data>
+    </edge>
+    <edge source="linguistics" target="homebrew">
+      <data key="d1">14.3125682332</data>
+    </edge>
+    <edge source="linguistics" target="codegolf">
+      <data key="d1">12.1247410939</data>
+    </edge>
+    <edge source="linguistics" target="genealogy">
+      <data key="d1">21.9425375954</data>
+    </edge>
+    <edge source="linguistics" target="raspberrypi">
+      <data key="d1">9.42438804173</data>
+    </edge>
+    <edge source="linguistics" target="movies">
+      <data key="d1">21.1189631541</data>
+    </edge>
+    <edge source="linguistics" target="academia">
+      <data key="d1">20.5788123662</data>
+    </edge>
+    <edge source="linguistics" target="workplace">
+      <data key="d1">11.376193856</data>
+    </edge>
+    <edge source="linguistics" target="outdoors">
+      <data key="d1">33.4028943251</data>
+    </edge>
+    <edge source="linguistics" target="smugmug">
+      <data key="d1">22.3581578167</data>
+    </edge>
+    <edge source="linguistics" target="chemistry">
+      <data key="d1">29.8534150494</data>
+    </edge>
+    <edge source="linguistics" target="patents">
+      <data key="d1">16.1781048128</data>
+    </edge>
+    <edge source="linguistics" target="history">
+      <data key="d1">38.9738383003</data>
+    </edge>
+    <edge source="french" target="mechanics">
+      <data key="d1">12.2862218915</data>
+    </edge>
+    <edge source="french" target="windowsphone">
+      <data key="d1">17.2847640912</data>
+    </edge>
+    <edge source="french" target="bricks">
+      <data key="d1">25.9608478459</data>
+    </edge>
+    <edge source="french" target="robotics">
+      <data key="d1">14.3746101696</data>
+    </edge>
+    <edge source="french" target="avp">
+      <data key="d1">12.8783995515</data>
+    </edge>
+    <edge source="french" target="poker">
+      <data key="d1">30.0364366865</data>
+    </edge>
+    <edge source="french" target="rpg">
+      <data key="d1">9.79338730496</data>
+    </edge>
+    <edge source="french" target="spanish">
+      <data key="d1">33.9384153355</data>
+    </edge>
+    <edge source="french" target="cs">
+      <data key="d1">11.0458062815</data>
+    </edge>
+    <edge source="french" target="christianity">
+      <data key="d1">15.8707659121</data>
+    </edge>
+    <edge source="french" target="sqa">
+      <data key="d1">11.4411658367</data>
+    </edge>
+    <edge source="french" target="graphicdesign">
+      <data key="d1">8.82276373193</data>
+    </edge>
+    <edge source="french" target="productivity">
+      <data key="d1">13.2248183832</data>
+    </edge>
+    <edge source="french" target="scicomp">
+      <data key="d1">16.7181028007</data>
+    </edge>
+    <edge source="french" target="travel">
+      <data key="d1">16.0065827574</data>
+    </edge>
+    <edge source="french" target="bitcoin">
+      <data key="d1">14.378908797</data>
+    </edge>
+    <edge source="french" target="sports">
+      <data key="d1">23.9769820953</data>
+    </edge>
+    <edge source="french" target="writers">
+      <data key="d1">14.6205954396</data>
+    </edge>
+    <edge source="french" target="music">
+      <data key="d1">14.8719984752</data>
+    </edge>
+    <edge source="french" target="chess">
+      <data key="d1">27.681202535</data>
+    </edge>
+    <edge source="french" target="skeptics">
+      <data key="d1">9.7114821525</data>
+    </edge>
+    <edge source="french" target="expressionengine">
+      <data key="d1">9.66582202467</data>
+    </edge>
+    <edge source="french" target="quant">
+      <data key="d1">12.0293601544</data>
+    </edge>
+    <edge source="french" target="pm">
+      <data key="d1">10.1535664445</data>
+    </edge>
+    <edge source="french" target="philosophy">
+      <data key="d1">18.523297829</data>
+    </edge>
+    <edge source="french" target="parenting">
+      <data key="d1">12.5917604562</data>
+    </edge>
+    <edge source="french" target="salesforce">
+      <data key="d1">9.89635106009</data>
+    </edge>
+    <edge source="french" target="russian">
+      <data key="d1">17.5023570153</data>
+    </edge>
+    <edge source="french" target="homebrew">
+      <data key="d1">11.3631928253</data>
+    </edge>
+    <edge source="french" target="codegolf">
+      <data key="d1">10.4205025868</data>
+    </edge>
+    <edge source="french" target="genealogy">
+      <data key="d1">21.2949247998</data>
+    </edge>
+    <edge source="french" target="raspberrypi">
+      <data key="d1">9.62702179458</data>
+    </edge>
+    <edge source="french" target="movies">
+      <data key="d1">16.7386516246</data>
+    </edge>
+    <edge source="french" target="academia">
+      <data key="d1">16.9818130124</data>
+    </edge>
+    <edge source="french" target="workplace">
+      <data key="d1">9.85392531678</data>
+    </edge>
+    <edge source="french" target="outdoors">
+      <data key="d1">25.5908174286</data>
+    </edge>
+    <edge source="french" target="smugmug">
+      <data key="d1">19.5962751894</data>
+    </edge>
+    <edge source="french" target="chemistry">
+      <data key="d1">23.5558479226</data>
+    </edge>
+    <edge source="french" target="patents">
+      <data key="d1">10.8088647382</data>
+    </edge>
+    <edge source="french" target="history">
+      <data key="d1">25.2651901221</data>
+    </edge>
+    <edge source="homebrew" target="mechanics">
+      <data key="d1">16.2261580569</data>
+    </edge>
+    <edge source="homebrew" target="windowsphone">
+      <data key="d1">13.7015779255</data>
+    </edge>
+    <edge source="homebrew" target="bricks">
+      <data key="d1">19.3845491986</data>
+    </edge>
+    <edge source="homebrew" target="avp">
+      <data key="d1">12.0388690684</data>
+    </edge>
+    <edge source="homebrew" target="rpg">
+      <data key="d1">10.0843411592</data>
+    </edge>
+    <edge source="homebrew" target="spanish">
+      <data key="d1">14.3192720123</data>
+    </edge>
+    <edge source="homebrew" target="christianity">
+      <data key="d1">10.1717599808</data>
+    </edge>
+    <edge source="homebrew" target="sqa">
+      <data key="d1">9.7753256379</data>
+    </edge>
+    <edge source="homebrew" target="productivity">
+      <data key="d1">8.46224301677</data>
+    </edge>
+    <edge source="homebrew" target="scicomp">
+      <data key="d1">8.73344262783</data>
+    </edge>
+    <edge source="homebrew" target="travel">
+      <data key="d1">10.4806846072</data>
+    </edge>
+    <edge source="homebrew" target="bitcoin">
+      <data key="d1">11.075168999</data>
+    </edge>
+    <edge source="homebrew" target="sports">
+      <data key="d1">17.4226048419</data>
+    </edge>
+    <edge source="homebrew" target="writers">
+      <data key="d1">10.9034676187</data>
+    </edge>
+    <edge source="homebrew" target="music">
+      <data key="d1">10.4257224118</data>
+    </edge>
+    <edge source="homebrew" target="chess">
+      <data key="d1">17.9235757746</data>
+    </edge>
+    <edge source="homebrew" target="expressionengine">
+      <data key="d1">8.3005721533</data>
+    </edge>
+    <edge source="homebrew" target="quant">
+      <data key="d1">10.0417434715</data>
+    </edge>
+    <edge source="homebrew" target="pm">
+      <data key="d1">8.8471822141</data>
+    </edge>
+    <edge source="homebrew" target="poker">
+      <data key="d1">23.6256922304</data>
+    </edge>
+    <edge source="homebrew" target="robotics">
+      <data key="d1">9.79232727295</data>
+    </edge>
+    <edge source="homebrew" target="philosophy">
+      <data key="d1">11.1507522478</data>
+    </edge>
+    <edge source="homebrew" target="parenting">
+      <data key="d1">11.3238383212</data>
+    </edge>
+    <edge source="homebrew" target="genealogy">
+      <data key="d1">11.3684458926</data>
+    </edge>
+    <edge source="homebrew" target="raspberrypi">
+      <data key="d1">8.00370853383</data>
+    </edge>
+    <edge source="homebrew" target="movies">
+      <data key="d1">10.7209536578</data>
+    </edge>
+    <edge source="homebrew" target="academia">
+      <data key="d1">8.05999852854</data>
+    </edge>
+    <edge source="homebrew" target="outdoors">
+      <data key="d1">22.2808311921</data>
+    </edge>
+    <edge source="homebrew" target="smugmug">
+      <data key="d1">14.8014954584</data>
+    </edge>
+    <edge source="homebrew" target="chemistry">
+      <data key="d1">13.234478678</data>
+    </edge>
+    <edge source="homebrew" target="patents">
+      <data key="d1">9.36150044907</data>
+    </edge>
+    <edge source="homebrew" target="history">
+      <data key="d1">15.0838775389</data>
+    </edge>
+    <edge source="workplace" target="mechanics">
+      <data key="d1">12.2881416566</data>
+    </edge>
+    <edge source="workplace" target="windowsphone">
+      <data key="d1">12.4135632574</data>
+    </edge>
+    <edge source="workplace" target="bricks">
+      <data key="d1">14.1203687762</data>
+    </edge>
+    <edge source="workplace" target="avp">
+      <data key="d1">8.20751824626</data>
+    </edge>
+    <edge source="workplace" target="rpg">
+      <data key="d1">8.93870646183</data>
+    </edge>
+    <edge source="workplace" target="spanish">
+      <data key="d1">11.8466675115</data>
+    </edge>
+    <edge source="workplace" target="cs">
+      <data key="d1">9.51781341981</data>
+    </edge>
+    <edge source="workplace" target="christianity">
+      <data key="d1">11.3291818018</data>
+    </edge>
+    <edge source="workplace" target="sqa">
+      <data key="d1">9.38988210899</data>
+    </edge>
+    <edge source="workplace" target="productivity">
+      <data key="d1">12.2847102961</data>
+    </edge>
+    <edge source="workplace" target="scicomp">
+      <data key="d1">8.53087519432</data>
+    </edge>
+    <edge source="workplace" target="travel">
+      <data key="d1">13.9424882692</data>
+    </edge>
+    <edge source="workplace" target="bitcoin">
+      <data key="d1">8.01833033376</data>
+    </edge>
+    <edge source="workplace" target="sports">
+      <data key="d1">18.825434991</data>
+    </edge>
+    <edge source="workplace" target="writers">
+      <data key="d1">10.9685982222</data>
+    </edge>
+    <edge source="workplace" target="music">
+      <data key="d1">8.63776626739</data>
+    </edge>
+    <edge source="workplace" target="chess">
+      <data key="d1">17.6851428858</data>
+    </edge>
+    <edge source="workplace" target="skeptics">
+      <data key="d1">10.3717061235</data>
+    </edge>
+    <edge source="workplace" target="pm">
+      <data key="d1">11.2226299806</data>
+    </edge>
+    <edge source="workplace" target="poker">
+      <data key="d1">16.7743446976</data>
+    </edge>
+    <edge source="workplace" target="robotics">
+      <data key="d1">9.66206236886</data>
+    </edge>
+    <edge source="workplace" target="philosophy">
+      <data key="d1">10.4652615359</data>
+    </edge>
+    <edge source="workplace" target="parenting">
+      <data key="d1">12.5139841177</data>
+    </edge>
+    <edge source="workplace" target="russian">
+      <data key="d1">8.00981378534</data>
+    </edge>
+    <edge source="workplace" target="codegolf">
+      <data key="d1">9.3280169199</data>
+    </edge>
+    <edge source="workplace" target="genealogy">
+      <data key="d1">12.4635714144</data>
+    </edge>
+    <edge source="workplace" target="raspberrypi">
+      <data key="d1">8.1528782804</data>
+    </edge>
+    <edge source="workplace" target="movies">
+      <data key="d1">14.4687434424</data>
+    </edge>
+    <edge source="workplace" target="academia">
+      <data key="d1">13.8020194824</data>
+    </edge>
+    <edge source="workplace" target="outdoors">
+      <data key="d1">19.4682547223</data>
+    </edge>
+    <edge source="workplace" target="smugmug">
+      <data key="d1">9.34611905483</data>
+    </edge>
+    <edge source="workplace" target="chemistry">
+      <data key="d1">13.9289852655</data>
+    </edge>
+    <edge source="workplace" target="patents">
+      <data key="d1">13.3074944379</data>
+    </edge>
+    <edge source="workplace" target="history">
+      <data key="d1">16.4281161426</data>
+    </edge>
+    <edge source="codegolf" target="mechanics">
+      <data key="d1">9.27428718949</data>
+    </edge>
+    <edge source="codegolf" target="windowsphone">
+      <data key="d1">8.87731806317</data>
+    </edge>
+    <edge source="codegolf" target="bricks">
+      <data key="d1">13.9894302009</data>
+    </edge>
+    <edge source="codegolf" target="robotics">
+      <data key="d1">9.1618820894</data>
+    </edge>
+    <edge source="codegolf" target="avp">
+      <data key="d1">8.23886970457</data>
+    </edge>
+    <edge source="codegolf" target="pm">
+      <data key="d1">8.43457782673</data>
+    </edge>
+    <edge source="codegolf" target="rpg">
+      <data key="d1">8.35502178728</data>
+    </edge>
+    <edge source="codegolf" target="spanish">
+      <data key="d1">11.216894663</data>
+    </edge>
+    <edge source="codegolf" target="cs">
+      <data key="d1">9.76200251722</data>
+    </edge>
+    <edge source="codegolf" target="christianity">
+      <data key="d1">8.58030928861</data>
+    </edge>
+    <edge source="codegolf" target="sqa">
+      <data key="d1">8.81249668766</data>
+    </edge>
+    <edge source="codegolf" target="productivity">
+      <data key="d1">9.52586555463</data>
+    </edge>
+    <edge source="codegolf" target="scicomp">
+      <data key="d1">9.60499712461</data>
+    </edge>
+    <edge source="codegolf" target="travel">
+      <data key="d1">9.24673845816</data>
+    </edge>
+    <edge source="codegolf" target="bitcoin">
+      <data key="d1">8.45382586054</data>
+    </edge>
+    <edge source="codegolf" target="sports">
+      <data key="d1">12.5833139639</data>
+    </edge>
+    <edge source="codegolf" target="writers">
+      <data key="d1">10.3420105287</data>
+    </edge>
+    <edge source="codegolf" target="music">
+      <data key="d1">9.50418990132</data>
+    </edge>
+    <edge source="codegolf" target="chess">
+      <data key="d1">15.273745899</data>
+    </edge>
+    <edge source="codegolf" target="skeptics">
+      <data key="d1">9.49520077455</data>
+    </edge>
+    <edge source="codegolf" target="cstheory">
+      <data key="d1">8.55015012836</data>
+    </edge>
+    <edge source="codegolf" target="poker">
+      <data key="d1">14.499216408</data>
+    </edge>
+    <edge source="codegolf" target="philosophy">
+      <data key="d1">10.4417551103</data>
+    </edge>
+    <edge source="codegolf" target="parenting">
+      <data key="d1">8.9533454251</data>
+    </edge>
+    <edge source="codegolf" target="genealogy">
+      <data key="d1">8.11472187748</data>
+    </edge>
+    <edge source="codegolf" target="movies">
+      <data key="d1">11.0791518792</data>
+    </edge>
+    <edge source="codegolf" target="academia">
+      <data key="d1">9.30533779988</data>
+    </edge>
+    <edge source="codegolf" target="outdoors">
+      <data key="d1">12.1859461545</data>
+    </edge>
+    <edge source="codegolf" target="chemistry">
+      <data key="d1">10.4640189805</data>
+    </edge>
+    <edge source="codegolf" target="patents">
+      <data key="d1">9.69133529008</data>
+    </edge>
+    <edge source="codegolf" target="history">
+      <data key="d1">11.8085776566</data>
+    </edge>
+    <edge source="patents" target="mechanics">
+      <data key="d1">13.291376034</data>
+    </edge>
+    <edge source="patents" target="windowsphone">
+      <data key="d1">16.0610867126</data>
+    </edge>
+    <edge source="patents" target="bricks">
+      <data key="d1">21.5026948448</data>
+    </edge>
+    <edge source="patents" target="robotics">
+      <data key="d1">19.1310590047</data>
+    </edge>
+    <edge source="patents" target="avp">
+      <data key="d1">10.6729771848</data>
+    </edge>
+    <edge source="patents" target="pm">
+      <data key="d1">8.79827246283</data>
+    </edge>
+    <edge source="patents" target="rpg">
+      <data key="d1">8.50939729876</data>
+    </edge>
+    <edge source="patents" target="spanish">
+      <data key="d1">12.7442821479</data>
+    </edge>
+    <edge source="patents" target="cs">
+      <data key="d1">9.84052165848</data>
+    </edge>
+    <edge source="patents" target="christianity">
+      <data key="d1">12.9106977635</data>
+    </edge>
+    <edge source="patents" target="sqa">
+      <data key="d1">8.40662073187</data>
+    </edge>
+    <edge source="patents" target="productivity">
+      <data key="d1">9.41511979705</data>
+    </edge>
+    <edge source="patents" target="scicomp">
+      <data key="d1">11.238051765</data>
+    </edge>
+    <edge source="patents" target="travel">
+      <data key="d1">12.5851798867</data>
+    </edge>
+    <edge source="patents" target="bitcoin">
+      <data key="d1">11.1044355501</data>
+    </edge>
+    <edge source="patents" target="sports">
+      <data key="d1">21.0120229648</data>
+    </edge>
+    <edge source="patents" target="writers">
+      <data key="d1">11.3297857914</data>
+    </edge>
+    <edge source="patents" target="music">
+      <data key="d1">9.76572371036</data>
+    </edge>
+    <edge source="patents" target="chess">
+      <data key="d1">18.9091282518</data>
+    </edge>
+    <edge source="patents" target="skeptics">
+      <data key="d1">10.3984278693</data>
+    </edge>
+    <edge source="patents" target="expressionengine">
+      <data key="d1">8.23306802428</data>
+    </edge>
+    <edge source="patents" target="quant">
+      <data key="d1">8.35558232525</data>
+    </edge>
+    <edge source="patents" target="poker">
+      <data key="d1">19.2540655046</data>
+    </edge>
+    <edge source="patents" target="philosophy">
+      <data key="d1">11.486628263</data>
+    </edge>
+    <edge source="patents" target="parenting">
+      <data key="d1">12.7960236974</data>
+    </edge>
+    <edge source="patents" target="russian">
+      <data key="d1">9.83293761332</data>
+    </edge>
+    <edge source="patents" target="salesforce">
+      <data key="d1">10.8645935089</data>
+    </edge>
+    <edge source="patents" target="genealogy">
+      <data key="d1">21.4699450903</data>
+    </edge>
+    <edge source="patents" target="raspberrypi">
+      <data key="d1">11.5982252262</data>
+    </edge>
+    <edge source="patents" target="movies">
+      <data key="d1">14.6984536022</data>
+    </edge>
+    <edge source="patents" target="academia">
+      <data key="d1">13.9629547946</data>
+    </edge>
+    <edge source="patents" target="outdoors">
+      <data key="d1">21.0120229648</data>
+    </edge>
+    <edge source="patents" target="smugmug">
+      <data key="d1">11.859779281</data>
+    </edge>
+    <edge source="patents" target="chemistry">
+      <data key="d1">17.7888702832</data>
+    </edge>
+    <edge source="patents" target="history">
+      <data key="d1">19.1936555167</data>
+    </edge>
+    <edge source="bricks" target="mechanics">
+      <data key="d1">22.7980691611</data>
+    </edge>
+    <edge source="bricks" target="windowsphone">
+      <data key="d1">27.4352976222</data>
+    </edge>
+    <edge source="bricks" target="robotics">
+      <data key="d1">29.4898692378</data>
+    </edge>
+    <edge source="bricks" target="avp">
+      <data key="d1">20.0302457831</data>
+    </edge>
+    <edge source="bricks" target="pm">
+      <data key="d1">13.0158156161</data>
+    </edge>
+    <edge source="bricks" target="rpg">
+      <data key="d1">17.3224487861</data>
+    </edge>
+    <edge source="bricks" target="spanish">
+      <data key="d1">28.2898396793</data>
+    </edge>
+    <edge source="bricks" target="cs">
+      <data key="d1">11.5714445161</data>
+    </edge>
+    <edge source="bricks" target="christianity">
+      <data key="d1">21.9189347091</data>
+    </edge>
+    <edge source="bricks" target="sqa">
+      <data key="d1">15.6295972271</data>
+    </edge>
+    <edge source="bricks" target="graphicdesign">
+      <data key="d1">13.4312139868</data>
+    </edge>
+    <edge source="bricks" target="productivity">
+      <data key="d1">16.1287114199</data>
+    </edge>
+    <edge source="bricks" target="scicomp">
+      <data key="d1">19.4385951759</data>
+    </edge>
+    <edge source="bricks" target="travel">
+      <data key="d1">21.1292739896</data>
+    </edge>
+    <edge source="bricks" target="bitcoin">
+      <data key="d1">22.6282134168</data>
+    </edge>
+    <edge source="bricks" target="sports">
+      <data key="d1">35.422789335</data>
+    </edge>
+    <edge source="bricks" target="writers">
+      <data key="d1">19.0398707449</data>
+    </edge>
+    <edge source="bricks" target="music">
+      <data key="d1">17.6615849899</data>
+    </edge>
+    <edge source="bricks" target="chess">
+      <data key="d1">34.453629572</data>
+    </edge>
+    <edge source="bricks" target="skeptics">
+      <data key="d1">12.5884427295</data>
+    </edge>
+    <edge source="bricks" target="stackapps">
+      <data key="d1">9.86894609798</data>
+    </edge>
+    <edge source="bricks" target="expressionengine">
+      <data key="d1">13.5010543562</data>
+    </edge>
+    <edge source="bricks" target="quant">
+      <data key="d1">14.6020890704</data>
+    </edge>
+    <edge source="bricks" target="poker">
+      <data key="d1">39.7917825172</data>
+    </edge>
+    <edge source="bricks" target="philosophy">
+      <data key="d1">18.836427938</data>
+    </edge>
+    <edge source="bricks" target="parenting">
+      <data key="d1">22.5508927375</data>
+    </edge>
+    <edge source="bricks" target="salesforce">
+      <data key="d1">13.5158743939</data>
+    </edge>
+    <edge source="bricks" target="russian">
+      <data key="d1">16.6447604905</data>
+    </edge>
+    <edge source="bricks" target="genealogy">
+      <data key="d1">31.5654704095</data>
+    </edge>
+    <edge source="bricks" target="raspberrypi">
+      <data key="d1">15.506287695</data>
+    </edge>
+    <edge source="bricks" target="movies">
+      <data key="d1">24.9469799309</data>
+    </edge>
+    <edge source="bricks" target="academia">
+      <data key="d1">17.6870968208</data>
+    </edge>
+    <edge source="bricks" target="outdoors">
+      <data key="d1">43.4734232747</data>
+    </edge>
+    <edge source="bricks" target="smugmug">
+      <data key="d1">30.6131313236</data>
+    </edge>
+    <edge source="bricks" target="chemistry">
+      <data key="d1">27.4752035096</data>
+    </edge>
+    <edge source="bricks" target="history">
+      <data key="d1">31.4748506463</data>
+    </edge>
+    <edge source="stackapps" target="poker">
+      <data key="d1">9.1732037103</data>
+    </edge>
+    <edge source="stackapps" target="outdoors">
+      <data key="d1">8.25687592267</data>
+    </edge>
+    <edge source="robotics" target="mechanics">
+      <data key="d1">12.8856331622</data>
+    </edge>
+    <edge source="robotics" target="windowsphone">
+      <data key="d1">21.1091854978</data>
+    </edge>
+    <edge source="robotics" target="avp">
+      <data key="d1">12.1978781354</data>
+    </edge>
+    <edge source="robotics" target="rpg">
+      <data key="d1">8.45084338199</data>
+    </edge>
+    <edge source="robotics" target="spanish">
+      <data key="d1">16.62555237</data>
+    </edge>
+    <edge source="robotics" target="cs">
+      <data key="d1">13.4299496068</data>
+    </edge>
+    <edge source="robotics" target="christianity">
+      <data key="d1">11.2487561891</data>
+    </edge>
+    <edge source="robotics" target="sqa">
+      <data key="d1">10.1339986858</data>
+    </edge>
+    <edge source="robotics" target="productivity">
+      <data key="d1">10.0301409353</data>
+    </edge>
+    <edge source="robotics" target="scicomp">
+      <data key="d1">16.4680708184</data>
+    </edge>
+    <edge source="robotics" target="travel">
+      <data key="d1">10.0683006755</data>
+    </edge>
+    <edge source="robotics" target="bitcoin">
+      <data key="d1">11.0859452443</data>
+    </edge>
+    <edge source="robotics" target="sports">
+      <data key="d1">25.046496927</data>
+    </edge>
+    <edge source="robotics" target="writers">
+      <data key="d1">9.82375943457</data>
+    </edge>
+    <edge source="robotics" target="music">
+      <data key="d1">10.1023002226</data>
+    </edge>
+    <edge source="robotics" target="chess">
+      <data key="d1">34.5772300369</data>
+    </edge>
+    <edge source="robotics" target="expressionengine">
+      <data key="d1">27.7148631107</data>
+    </edge>
+    <edge source="robotics" target="quant">
+      <data key="d1">9.28451215955</data>
+    </edge>
+    <edge source="robotics" target="pm">
+      <data key="d1">8.01002918045</data>
+    </edge>
+    <edge source="robotics" target="poker">
+      <data key="d1">24.9590833166</data>
+    </edge>
+    <edge source="robotics" target="philosophy">
+      <data key="d1">10.321150827</data>
+    </edge>
+    <edge source="robotics" target="parenting">
+      <data key="d1">9.17505113559</data>
+    </edge>
+    <edge source="robotics" target="russian">
+      <data key="d1">15.660443096</data>
+    </edge>
+    <edge source="robotics" target="salesforce">
+      <data key="d1">16.1847499175</data>
+    </edge>
+    <edge source="robotics" target="genealogy">
+      <data key="d1">48.736476562</data>
+    </edge>
+    <edge source="robotics" target="raspberrypi">
+      <data key="d1">19.7563382059</data>
+    </edge>
+    <edge source="robotics" target="movies">
+      <data key="d1">13.0020345458</data>
+    </edge>
+    <edge source="robotics" target="academia">
+      <data key="d1">18.2321523126</data>
+    </edge>
+    <edge source="robotics" target="outdoors">
+      <data key="d1">25.8544484408</data>
+    </edge>
+    <edge source="robotics" target="smugmug">
+      <data key="d1">17.1687097091</data>
+    </edge>
+    <edge source="robotics" target="chemistry">
+      <data key="d1">25.5312678353</data>
+    </edge>
+    <edge source="robotics" target="history">
+      <data key="d1">16.7510874516</data>
+    </edge>
+    <edge source="rpg" target="mechanics">
+      <data key="d1">8.81445831566</data>
+    </edge>
+    <edge source="rpg" target="windowsphone">
+      <data key="d1">9.14995143394</data>
+    </edge>
+    <edge source="rpg" target="avp">
+      <data key="d1">8.36550917189</data>
+    </edge>
+    <edge source="rpg" target="spanish">
+      <data key="d1">10.508185983</data>
+    </edge>
+    <edge source="rpg" target="christianity">
+      <data key="d1">9.79043058257</data>
+    </edge>
+    <edge source="rpg" target="travel">
+      <data key="d1">9.09442442016</data>
+    </edge>
+    <edge source="rpg" target="bitcoin">
+      <data key="d1">8.57528310291</data>
+    </edge>
+    <edge source="rpg" target="sports">
+      <data key="d1">12.2151313608</data>
+    </edge>
+    <edge source="rpg" target="writers">
+      <data key="d1">11.8387039514</data>
+    </edge>
+    <edge source="rpg" target="music">
+      <data key="d1">8.20009626385</data>
+    </edge>
+    <edge source="rpg" target="skeptics">
+      <data key="d1">8.58819309285</data>
+    </edge>
+    <edge source="rpg" target="chess">
+      <data key="d1">14.4159086609</data>
+    </edge>
+    <edge source="rpg" target="poker">
+      <data key="d1">15.2175424089</data>
+    </edge>
+    <edge source="rpg" target="philosophy">
+      <data key="d1">9.5517581307</data>
+    </edge>
+    <edge source="rpg" target="parenting">
+      <data key="d1">10.2432253756</data>
+    </edge>
+    <edge source="rpg" target="genealogy">
+      <data key="d1">11.6798145286</data>
+    </edge>
+    <edge source="rpg" target="movies">
+      <data key="d1">11.3292907481</data>
+    </edge>
+    <edge source="rpg" target="academia">
+      <data key="d1">8.29122131649</data>
+    </edge>
+    <edge source="rpg" target="outdoors">
+      <data key="d1">13.0117703626</data>
+    </edge>
+    <edge source="rpg" target="smugmug">
+      <data key="d1">8.1176751022</data>
+    </edge>
+    <edge source="rpg" target="chemistry">
+      <data key="d1">9.41686310414</data>
+    </edge>
+    <edge source="rpg" target="history">
+      <data key="d1">14.8386760428</data>
+    </edge>
+    <edge source="spanish" target="mechanics">
+      <data key="d1">16.7234440254</data>
+    </edge>
+    <edge source="spanish" target="windowsphone">
+      <data key="d1">24.2320142386</data>
+    </edge>
+    <edge source="spanish" target="avp">
+      <data key="d1">15.4586442467</data>
+    </edge>
+    <edge source="spanish" target="cs">
+      <data key="d1">11.0707508089</data>
+    </edge>
+    <edge source="spanish" target="christianity">
+      <data key="d1">19.4189593411</data>
+    </edge>
+    <edge source="spanish" target="sqa">
+      <data key="d1">13.1544551722</data>
+    </edge>
+    <edge source="spanish" target="graphicdesign">
+      <data key="d1">9.40762551798</data>
+    </edge>
+    <edge source="spanish" target="productivity">
+      <data key="d1">15.3835183989</data>
+    </edge>
+    <edge source="spanish" target="scicomp">
+      <data key="d1">17.7521511618</data>
+    </edge>
+    <edge source="spanish" target="travel">
+      <data key="d1">18.8625782477</data>
+    </edge>
+    <edge source="spanish" target="bitcoin">
+      <data key="d1">16.3746699088</data>
+    </edge>
+    <edge source="spanish" target="sports">
+      <data key="d1">34.1311685018</data>
+    </edge>
+    <edge source="spanish" target="writers">
+      <data key="d1">15.3354361715</data>
+    </edge>
+    <edge source="spanish" target="music">
+      <data key="d1">16.9735037603</data>
+    </edge>
+    <edge source="spanish" target="chess">
+      <data key="d1">34.7224390074</data>
+    </edge>
+    <edge source="spanish" target="skeptics">
+      <data key="d1">9.98616811081</data>
+    </edge>
+    <edge source="spanish" target="quant">
+      <data key="d1">11.8235494778</data>
+    </edge>
+    <edge source="spanish" target="pm">
+      <data key="d1">11.1999556815</data>
+    </edge>
+    <edge source="spanish" target="poker">
+      <data key="d1">39.230452727</data>
+    </edge>
+    <edge source="spanish" target="philosophy">
+      <data key="d1">19.5276648593</data>
+    </edge>
+    <edge source="spanish" target="parenting">
+      <data key="d1">13.8425569826</data>
+    </edge>
+    <edge source="spanish" target="russian">
+      <data key="d1">21.733975596</data>
+    </edge>
+    <edge source="spanish" target="expressionengine">
+      <data key="d1">13.7592712428</data>
+    </edge>
+    <edge source="spanish" target="salesforce">
+      <data key="d1">12.8352128108</data>
+    </edge>
+    <edge source="spanish" target="genealogy">
+      <data key="d1">27.8387148394</data>
+    </edge>
+    <edge source="spanish" target="raspberrypi">
+      <data key="d1">9.0125663347</data>
+    </edge>
+    <edge source="spanish" target="movies">
+      <data key="d1">21.0025239689</data>
+    </edge>
+    <edge source="spanish" target="academia">
+      <data key="d1">16.7677903524</data>
+    </edge>
+    <edge source="spanish" target="outdoors">
+      <data key="d1">36.1002743769</data>
+    </edge>
+    <edge source="spanish" target="smugmug">
+      <data key="d1">26.0600307568</data>
+    </edge>
+    <edge source="spanish" target="chemistry">
+      <data key="d1">32.1489352542</data>
+    </edge>
+    <edge source="spanish" target="history">
+      <data key="d1">33.2432587974</data>
+    </edge>
+    <edge source="cs" target="windowsphone">
+      <data key="d1">11.9749093149</data>
+    </edge>
+    <edge source="cs" target="poker">
+      <data key="d1">14.9757552438</data>
+    </edge>
+    <edge source="cs" target="christianity">
+      <data key="d1">8.78102624096</data>
+    </edge>
+    <edge source="cs" target="sqa">
+      <data key="d1">8.09815128884</data>
+    </edge>
+    <edge source="cs" target="productivity">
+      <data key="d1">9.02542426195</data>
+    </edge>
+    <edge source="cs" target="scicomp">
+      <data key="d1">18.0778189505</data>
+    </edge>
+    <edge source="cs" target="travel">
+      <data key="d1">8.7388653654</data>
+    </edge>
+    <edge source="cs" target="bitcoin">
+      <data key="d1">8.13413455003</data>
+    </edge>
+    <edge source="cs" target="sports">
+      <data key="d1">16.0153944508</data>
+    </edge>
+    <edge source="cs" target="cstheory">
+      <data key="d1">13.8619300575</data>
+    </edge>
+    <edge source="cs" target="chess">
+      <data key="d1">20.7258045834</data>
+    </edge>
+    <edge source="cs" target="philosophy">
+      <data key="d1">11.4152279596</data>
+    </edge>
+    <edge source="cs" target="russian">
+      <data key="d1">8.18630757245</data>
+    </edge>
+    <edge source="cs" target="genealogy">
+      <data key="d1">9.36257875163</data>
+    </edge>
+    <edge source="cs" target="movies">
+      <data key="d1">11.4563179082</data>
+    </edge>
+    <edge source="cs" target="academia">
+      <data key="d1">18.9893456987</data>
+    </edge>
+    <edge source="cs" target="outdoors">
+      <data key="d1">14.4949456106</data>
+    </edge>
+    <edge source="cs" target="smugmug">
+      <data key="d1">8.5023812239</data>
+    </edge>
+    <edge source="cs" target="chemistry">
+      <data key="d1">16.3357023399</data>
+    </edge>
+    <edge source="cs" target="history">
+      <data key="d1">14.7708443708</data>
+    </edge>
+    <edge source="christianity" target="mechanics">
+      <data key="d1">15.345774073</data>
+    </edge>
+    <edge source="christianity" target="windowsphone">
+      <data key="d1">15.8487377506</data>
+    </edge>
+    <edge source="christianity" target="avp">
+      <data key="d1">12.2992828365</data>
+    </edge>
+    <edge source="christianity" target="pm">
+      <data key="d1">8.22460067179</data>
+    </edge>
+    <edge source="christianity" target="sqa">
+      <data key="d1">9.0515956219</data>
+    </edge>
+    <edge source="christianity" target="productivity">
+      <data key="d1">10.9840071381</data>
+    </edge>
+    <edge source="christianity" target="scicomp">
+      <data key="d1">10.5604019914</data>
+    </edge>
+    <edge source="christianity" target="travel">
+      <data key="d1">13.417999794</data>
+    </edge>
+    <edge source="christianity" target="bitcoin">
+      <data key="d1">12.0022613884</data>
+    </edge>
+    <edge source="christianity" target="sports">
+      <data key="d1">22.9325908525</data>
+    </edge>
+    <edge source="christianity" target="writers">
+      <data key="d1">12.8845492512</data>
+    </edge>
+    <edge source="christianity" target="music">
+      <data key="d1">13.170347179</data>
+    </edge>
+    <edge source="christianity" target="chess">
+      <data key="d1">22.495802581</data>
+    </edge>
+    <edge source="christianity" target="skeptics">
+      <data key="d1">10.2978488729</data>
+    </edge>
+    <edge source="christianity" target="quant">
+      <data key="d1">8.31774539828</data>
+    </edge>
+    <edge source="christianity" target="poker">
+      <data key="d1">21.108562404</data>
+    </edge>
+    <edge source="christianity" target="philosophy">
+      <data key="d1">18.814892498</data>
+    </edge>
+    <edge source="christianity" target="parenting">
+      <data key="d1">16.5202252661</data>
+    </edge>
+    <edge source="christianity" target="russian">
+      <data key="d1">9.45469341195</data>
+    </edge>
+    <edge source="christianity" target="genealogy">
+      <data key="d1">17.2310122825</data>
+    </edge>
+    <edge source="christianity" target="movies">
+      <data key="d1">16.0245524035</data>
+    </edge>
+    <edge source="christianity" target="academia">
+      <data key="d1">11.4710491009</data>
+    </edge>
+    <edge source="christianity" target="outdoors">
+      <data key="d1">25.6588429119</data>
+    </edge>
+    <edge source="christianity" target="smugmug">
+      <data key="d1">14.1691218207</data>
+    </edge>
+    <edge source="christianity" target="chemistry">
+      <data key="d1">17.3988337312</data>
+    </edge>
+    <edge source="christianity" target="history">
+      <data key="d1">25.4590117733</data>
+    </edge>
+    <edge source="bitcoin" target="mechanics">
+      <data key="d1">12.0050372023</data>
+    </edge>
+    <edge source="bitcoin" target="windowsphone">
+      <data key="d1">12.5346492792</data>
+    </edge>
+    <edge source="bitcoin" target="avp">
+      <data key="d1">11.0887466708</data>
+    </edge>
+    <edge source="bitcoin" target="sqa">
+      <data key="d1">9.12038799969</data>
+    </edge>
+    <edge source="bitcoin" target="productivity">
+      <data key="d1">10.148463832</data>
+    </edge>
+    <edge source="bitcoin" target="scicomp">
+      <data key="d1">11.5564399065</data>
+    </edge>
+    <edge source="bitcoin" target="travel">
+      <data key="d1">11.181211169</data>
+    </edge>
+    <edge source="bitcoin" target="sports">
+      <data key="d1">14.4828208192</data>
+    </edge>
+    <edge source="bitcoin" target="writers">
+      <data key="d1">10.3996000289</data>
+    </edge>
+    <edge source="bitcoin" target="quant">
+      <data key="d1">11.0309561512</data>
+    </edge>
+    <edge source="bitcoin" target="chess">
+      <data key="d1">19.8814477121</data>
+    </edge>
+    <edge source="bitcoin" target="music">
+      <data key="d1">9.21115342611</data>
+    </edge>
+    <edge source="bitcoin" target="poker">
+      <data key="d1">24.7783934686</data>
+    </edge>
+    <edge source="bitcoin" target="philosophy">
+      <data key="d1">13.4468662601</data>
+    </edge>
+    <edge source="bitcoin" target="parenting">
+      <data key="d1">9.83626523315</data>
+    </edge>
+    <edge source="bitcoin" target="russian">
+      <data key="d1">9.60794409562</data>
+    </edge>
+    <edge source="bitcoin" target="genealogy">
+      <data key="d1">16.5753572948</data>
+    </edge>
+    <edge source="bitcoin" target="raspberrypi">
+      <data key="d1">10.1831307608</data>
+    </edge>
+    <edge source="bitcoin" target="movies">
+      <data key="d1">11.2274383987</data>
+    </edge>
+    <edge source="bitcoin" target="academia">
+      <data key="d1">11.0113838558</data>
+    </edge>
+    <edge source="bitcoin" target="outdoors">
+      <data key="d1">20.1725004267</data>
+    </edge>
+    <edge source="bitcoin" target="smugmug">
+      <data key="d1">14.655013455</data>
+    </edge>
+    <edge source="bitcoin" target="chemistry">
+      <data key="d1">16.7081177323</data>
+    </edge>
+    <edge source="bitcoin" target="history">
+      <data key="d1">18.3838318607</data>
+    </edge>
+    <edge source="sports" target="mechanics">
+      <data key="d1">23.0660392326</data>
+    </edge>
+    <edge source="sports" target="windowsphone">
+      <data key="d1">36.270158021</data>
+    </edge>
+    <edge source="sports" target="avp">
+      <data key="d1">15.9013167628</data>
+    </edge>
+    <edge source="sports" target="sqa">
+      <data key="d1">14.472650147</data>
+    </edge>
+    <edge source="sports" target="graphicdesign">
+      <data key="d1">10.460326905</data>
+    </edge>
+    <edge source="sports" target="productivity">
+      <data key="d1">16.8635003146</data>
+    </edge>
+    <edge source="sports" target="scicomp">
+      <data key="d1">20.4797669229</data>
+    </edge>
+    <edge source="sports" target="travel">
+      <data key="d1">23.6223552918</data>
+    </edge>
+    <edge source="sports" target="writers">
+      <data key="d1">17.2017199657</data>
+    </edge>
+    <edge source="sports" target="music">
+      <data key="d1">19.0896379246</data>
+    </edge>
+    <edge source="sports" target="chess">
+      <data key="d1">49.7879396574</data>
+    </edge>
+    <edge source="sports" target="skeptics">
+      <data key="d1">11.9890943506</data>
+    </edge>
+    <edge source="sports" target="expressionengine">
+      <data key="d1">15.8046655765</data>
+    </edge>
+    <edge source="sports" target="quant">
+      <data key="d1">13.7802223518</data>
+    </edge>
+    <edge source="sports" target="pm">
+      <data key="d1">13.0445704034</data>
+    </edge>
+    <edge source="sports" target="poker">
+      <data key="d1">57.3658062439</data>
+    </edge>
+    <edge source="sports" target="philosophy">
+      <data key="d1">22.7220344868</data>
+    </edge>
+    <edge source="sports" target="parenting">
+      <data key="d1">18.1630718025</data>
+    </edge>
+    <edge source="sports" target="russian">
+      <data key="d1">19.0889808394</data>
+    </edge>
+    <edge source="sports" target="salesforce">
+      <data key="d1">18.1953164178</data>
+    </edge>
+    <edge source="sports" target="genealogy">
+      <data key="d1">32.0481591777</data>
+    </edge>
+    <edge source="sports" target="raspberrypi">
+      <data key="d1">11.5435635327</data>
+    </edge>
+    <edge source="sports" target="movies">
+      <data key="d1">34.1413447595</data>
+    </edge>
+    <edge source="sports" target="academia">
+      <data key="d1">24.7175367566</data>
+    </edge>
+    <edge source="sports" target="outdoors">
+      <data key="d1">58.0535011739</data>
+    </edge>
+    <edge source="sports" target="smugmug">
+      <data key="d1">33.3911698975</data>
+    </edge>
+    <edge source="sports" target="chemistry">
+      <data key="d1">38.436946682</data>
+    </edge>
+    <edge source="sports" target="history">
+      <data key="d1">41.7579303166</data>
+    </edge>
+    <edge source="music" target="mechanics">
+      <data key="d1">13.5220114785</data>
+    </edge>
+    <edge source="music" target="windowsphone">
+      <data key="d1">12.0471280729</data>
+    </edge>
+    <edge source="music" target="avp">
+      <data key="d1">22.1666319355</data>
+    </edge>
+    <edge source="music" target="sqa">
+      <data key="d1">8.93233876259</data>
+    </edge>
+    <edge source="music" target="graphicdesign">
+      <data key="d1">8.78250141554</data>
+    </edge>
+    <edge source="music" target="productivity">
+      <data key="d1">11.5515934946</data>
+    </edge>
+    <edge source="music" target="scicomp">
+      <data key="d1">10.4386707389</data>
+    </edge>
+    <edge source="music" target="travel">
+      <data key="d1">11.8073842307</data>
+    </edge>
+    <edge source="music" target="writers">
+      <data key="d1">13.091543017</data>
+    </edge>
+    <edge source="music" target="quant">
+      <data key="d1">8.60047831512</data>
+    </edge>
+    <edge source="music" target="chess">
+      <data key="d1">18.9111894168</data>
+    </edge>
+    <edge source="music" target="skeptics">
+      <data key="d1">9.44254648957</data>
+    </edge>
+    <edge source="music" target="pm">
+      <data key="d1">8.55959286183</data>
+    </edge>
+    <edge source="music" target="poker">
+      <data key="d1">20.4168097867</data>
+    </edge>
+    <edge source="music" target="philosophy">
+      <data key="d1">13.9042965592</data>
+    </edge>
+    <edge source="music" target="parenting">
+      <data key="d1">11.4061638849</data>
+    </edge>
+    <edge source="music" target="russian">
+      <data key="d1">8.85060849597</data>
+    </edge>
+    <edge source="music" target="genealogy">
+      <data key="d1">10.8842274238</data>
+    </edge>
+    <edge source="music" target="movies">
+      <data key="d1">13.3623507114</data>
+    </edge>
+    <edge source="music" target="academia">
+      <data key="d1">10.7869311873</data>
+    </edge>
+    <edge source="music" target="outdoors">
+      <data key="d1">19.5609870091</data>
+    </edge>
+    <edge source="music" target="smugmug">
+      <data key="d1">10.9385442155</data>
+    </edge>
+    <edge source="music" target="chemistry">
+      <data key="d1">16.756459956</data>
+    </edge>
+    <edge source="music" target="history">
+      <data key="d1">18.078904194</data>
+    </edge>
+    <edge source="cstheory" target="poker">
+      <data key="d1">8.67709686755</data>
+    </edge>
+    <edge source="cstheory" target="scicomp">
+      <data key="d1">10.5141767049</data>
+    </edge>
+    <edge source="cstheory" target="philosophy">
+      <data key="d1">8.66176592622</data>
+    </edge>
+    <edge source="cstheory" target="academia">
+      <data key="d1">9.9570401958</data>
+    </edge>
+    <edge source="cstheory" target="chess">
+      <data key="d1">9.4315817585</data>
+    </edge>
+    <edge source="expressionengine" target="windowsphone">
+      <data key="d1">19.7486010779</data>
+    </edge>
+    <edge source="expressionengine" target="chess">
+      <data key="d1">18.7883096935</data>
+    </edge>
+    <edge source="expressionengine" target="poker">
+      <data key="d1">25.4731147808</data>
+    </edge>
+    <edge source="expressionengine" target="russian">
+      <data key="d1">14.0405946325</data>
+    </edge>
+    <edge source="expressionengine" target="salesforce">
+      <data key="d1">15.0760201822</data>
+    </edge>
+    <edge source="expressionengine" target="genealogy">
+      <data key="d1">32.7715397496</data>
+    </edge>
+    <edge source="expressionengine" target="outdoors">
+      <data key="d1">15.8046655765</data>
+    </edge>
+    <edge source="expressionengine" target="smugmug">
+      <data key="d1">19.4436033778</data>
+    </edge>
+    <edge source="expressionengine" target="chemistry">
+      <data key="d1">16.6475810739</data>
+    </edge>
+    <edge source="expressionengine" target="history">
+      <data key="d1">10.2983502553</data>
+    </edge>
+    <edge source="pm" target="mechanics">
+      <data key="d1">11.0401987828</data>
+    </edge>
+    <edge source="pm" target="windowsphone">
+      <data key="d1">9.87863327282</data>
+    </edge>
+    <edge source="pm" target="avp">
+      <data key="d1">9.28590903561</data>
+    </edge>
+    <edge source="pm" target="productivity">
+      <data key="d1">13.9941037466</data>
+    </edge>
+    <edge source="pm" target="scicomp">
+      <data key="d1">8.08798668314</data>
+    </edge>
+    <edge source="pm" target="travel">
+      <data key="d1">10.6359504776</data>
+    </edge>
+    <edge source="pm" target="writers">
+      <data key="d1">11.4785062035</data>
+    </edge>
+    <edge source="pm" target="quant">
+      <data key="d1">8.71658272489</data>
+    </edge>
+    <edge source="pm" target="chess">
+      <data key="d1">14.285380885</data>
+    </edge>
+    <edge source="pm" target="poker">
+      <data key="d1">15.7153134628</data>
+    </edge>
+    <edge source="pm" target="philosophy">
+      <data key="d1">10.7370859831</data>
+    </edge>
+    <edge source="pm" target="parenting">
+      <data key="d1">11.5001105846</data>
+    </edge>
+    <edge source="pm" target="sqa">
+      <data key="d1">15.0897341974</data>
+    </edge>
+    <edge source="pm" target="genealogy">
+      <data key="d1">8.79258751269</data>
+    </edge>
+    <edge source="pm" target="movies">
+      <data key="d1">9.49748093196</data>
+    </edge>
+    <edge source="pm" target="academia">
+      <data key="d1">8.34784332332</data>
+    </edge>
+    <edge source="pm" target="outdoors">
+      <data key="d1">14.3094984425</data>
+    </edge>
+    <edge source="pm" target="smugmug">
+      <data key="d1">8.66504196166</data>
+    </edge>
+    <edge source="pm" target="chemistry">
+      <data key="d1">9.41001050434</data>
+    </edge>
+    <edge source="pm" target="history">
+      <data key="d1">13.9557044507</data>
+    </edge>
+    <edge source="russian" target="windowsphone">
+      <data key="d1">18.2602813616</data>
+    </edge>
+    <edge source="russian" target="avp">
+      <data key="d1">8.39295637202</data>
+    </edge>
+    <edge source="russian" target="sqa">
+      <data key="d1">8.30973150683</data>
+    </edge>
+    <edge source="russian" target="productivity">
+      <data key="d1">8.09990774992</data>
+    </edge>
+    <edge source="russian" target="scicomp">
+      <data key="d1">9.97643924188</data>
+    </edge>
+    <edge source="russian" target="travel">
+      <data key="d1">10.2203067322</data>
+    </edge>
+    <edge source="russian" target="writers">
+      <data key="d1">8.22370181692</data>
+    </edge>
+    <edge source="russian" target="chess">
+      <data key="d1">25.0813457656</data>
+    </edge>
+    <edge source="russian" target="poker">
+      <data key="d1">27.4380483559</data>
+    </edge>
+    <edge source="russian" target="philosophy">
+      <data key="d1">9.7945924083</data>
+    </edge>
+    <edge source="russian" target="parenting">
+      <data key="d1">8.23992355702</data>
+    </edge>
+    <edge source="russian" target="salesforce">
+      <data key="d1">11.1809145961</data>
+    </edge>
+    <edge source="russian" target="genealogy">
+      <data key="d1">21.4637526309</data>
+    </edge>
+    <edge source="russian" target="raspberrypi">
+      <data key="d1">8.18896546452</data>
+    </edge>
+    <edge source="russian" target="movies">
+      <data key="d1">10.1519732861</data>
+    </edge>
+    <edge source="russian" target="academia">
+      <data key="d1">10.2663757288</data>
+    </edge>
+    <edge source="russian" target="outdoors">
+      <data key="d1">20.7634528429</data>
+    </edge>
+    <edge source="russian" target="smugmug">
+      <data key="d1">18.7273638482</data>
+    </edge>
+    <edge source="russian" target="chemistry">
+      <data key="d1">23.9873696068</data>
+    </edge>
+    <edge source="russian" target="history">
+      <data key="d1">18.4493256855</data>
+    </edge>
+    <edge source="salesforce" target="windowsphone">
+      <data key="d1">18.4223054461</data>
+    </edge>
+    <edge source="salesforce" target="chess">
+      <data key="d1">21.1600502147</data>
+    </edge>
+    <edge source="salesforce" target="poker">
+      <data key="d1">19.1258073656</data>
+    </edge>
+    <edge source="salesforce" target="genealogy">
+      <data key="d1">23.8600093816</data>
+    </edge>
+    <edge source="salesforce" target="academia">
+      <data key="d1">8.92594943074</data>
+    </edge>
+    <edge source="salesforce" target="outdoors">
+      <data key="d1">17.7997660609</data>
+    </edge>
+    <edge source="salesforce" target="smugmug">
+      <data key="d1">17.6954059281</data>
+    </edge>
+    <edge source="salesforce" target="chemistry">
+      <data key="d1">17.0825014137</data>
+    </edge>
+    <edge source="salesforce" target="history">
+      <data key="d1">11.715516706</data>
+    </edge>
+    <edge source="genealogy" target="mechanics">
+      <data key="d1">16.4191095221</data>
+    </edge>
+    <edge source="genealogy" target="windowsphone">
+      <data key="d1">27.525756738</data>
+    </edge>
+    <edge source="genealogy" target="avp">
+      <data key="d1">12.509043096</data>
+    </edge>
+    <edge source="genealogy" target="sqa">
+      <data key="d1">10.2305311641</data>
+    </edge>
+    <edge source="genealogy" target="productivity">
+      <data key="d1">11.0422330979</data>
+    </edge>
+    <edge source="genealogy" target="scicomp">
+      <data key="d1">13.4811205465</data>
+    </edge>
+    <edge source="genealogy" target="travel">
+      <data key="d1">15.1080224753</data>
+    </edge>
+    <edge source="genealogy" target="writers">
+      <data key="d1">11.7403765298</data>
+    </edge>
+    <edge source="genealogy" target="chess">
+      <data key="d1">33.452157476</data>
+    </edge>
+    <edge source="genealogy" target="quant">
+      <data key="d1">10.1962526689</data>
+    </edge>
+    <edge source="genealogy" target="poker">
+      <data key="d1">31.4960421367</data>
+    </edge>
+    <edge source="genealogy" target="philosophy">
+      <data key="d1">14.1896675715</data>
+    </edge>
+    <edge source="genealogy" target="parenting">
+      <data key="d1">15.4282261581</data>
+    </edge>
+    <edge source="genealogy" target="raspberrypi">
+      <data key="d1">12.9383741349</data>
+    </edge>
+    <edge source="genealogy" target="movies">
+      <data key="d1">19.5997980274</data>
+    </edge>
+    <edge source="genealogy" target="academia">
+      <data key="d1">17.9717249743</data>
+    </edge>
+    <edge source="genealogy" target="outdoors">
+      <data key="d1">46.1180827191</data>
+    </edge>
+    <edge source="genealogy" target="smugmug">
+      <data key="d1">26.2264340572</data>
+    </edge>
+    <edge source="genealogy" target="chemistry">
+      <data key="d1">33.7573943338</data>
+    </edge>
+    <edge source="genealogy" target="history">
+      <data key="d1">28.2448147015</data>
+    </edge>
+    <edge source="raspberrypi" target="mechanics">
+      <data key="d1">9.70878241424</data>
+    </edge>
+    <edge source="raspberrypi" target="windowsphone">
+      <data key="d1">13.9988903036</data>
+    </edge>
+    <edge source="raspberrypi" target="scicomp">
+      <data key="d1">8.98834214951</data>
+    </edge>
+    <edge source="raspberrypi" target="chess">
+      <data key="d1">16.5044320477</data>
+    </edge>
+    <edge source="raspberrypi" target="poker">
+      <data key="d1">15.085377065</data>
+    </edge>
+    <edge source="raspberrypi" target="academia">
+      <data key="d1">8.63432321394</data>
+    </edge>
+    <edge source="raspberrypi" target="outdoors">
+      <data key="d1">15.131427874</data>
+    </edge>
+    <edge source="raspberrypi" target="smugmug">
+      <data key="d1">10.8167956454</data>
+    </edge>
+    <edge source="raspberrypi" target="chemistry">
+      <data key="d1">14.1309857012</data>
+    </edge>
+    <edge source="raspberrypi" target="history">
+      <data key="d1">9.42536141432</data>
+    </edge>
+    <edge source="movies" target="mechanics">
+      <data key="d1">15.2726736282</data>
+    </edge>
+    <edge source="movies" target="windowsphone">
+      <data key="d1">17.6285374902</data>
+    </edge>
+    <edge source="movies" target="avp">
+      <data key="d1">13.2140527893</data>
+    </edge>
+    <edge source="movies" target="sqa">
+      <data key="d1">10.451836528</data>
+    </edge>
+    <edge source="movies" target="graphicdesign">
+      <data key="d1">8.69694869106</data>
+    </edge>
+    <edge source="movies" target="productivity">
+      <data key="d1">13.4526148471</data>
+    </edge>
+    <edge source="movies" target="scicomp">
+      <data key="d1">13.8690550701</data>
+    </edge>
+    <edge source="movies" target="travel">
+      <data key="d1">17.8784943651</data>
+    </edge>
+    <edge source="movies" target="writers">
+      <data key="d1">15.3172403526</data>
+    </edge>
+    <edge source="movies" target="chess">
+      <data key="d1">25.4588878638</data>
+    </edge>
+    <edge source="movies" target="skeptics">
+      <data key="d1">11.679317969</data>
+    </edge>
+    <edge source="movies" target="quant">
+      <data key="d1">9.20583901138</data>
+    </edge>
+    <edge source="movies" target="poker">
+      <data key="d1">30.8485782789</data>
+    </edge>
+    <edge source="movies" target="philosophy">
+      <data key="d1">17.528972056</data>
+    </edge>
+    <edge source="movies" target="parenting">
+      <data key="d1">15.3572315242</data>
+    </edge>
+    <edge source="movies" target="academia">
+      <data key="d1">15.3293132473</data>
+    </edge>
+    <edge source="movies" target="outdoors">
+      <data key="d1">27.7786395998</data>
+    </edge>
+    <edge source="movies" target="smugmug">
+      <data key="d1">15.4470910556</data>
+    </edge>
+    <edge source="movies" target="chemistry">
+      <data key="d1">23.2119760917</data>
+    </edge>
+    <edge source="movies" target="history">
+      <data key="d1">30.0604416896</data>
+    </edge>
+    <edge source="outdoors" target="mechanics">
+      <data key="d1">30.0019810997</data>
+    </edge>
+    <edge source="outdoors" target="windowsphone">
+      <data key="d1">32.5018299149</data>
+    </edge>
+    <edge source="outdoors" target="avp">
+      <data key="d1">20.1583621953</data>
+    </edge>
+    <edge source="outdoors" target="sqa">
+      <data key="d1">16.7340017324</data>
+    </edge>
+    <edge source="outdoors" target="graphicdesign">
+      <data key="d1">12.1244698218</data>
+    </edge>
+    <edge source="outdoors" target="productivity">
+      <data key="d1">18.6386056109</data>
+    </edge>
+    <edge source="outdoors" target="scicomp">
+      <data key="d1">22.2676830829</data>
+    </edge>
+    <edge source="outdoors" target="travel">
+      <data key="d1">29.4224871715</data>
+    </edge>
+    <edge source="outdoors" target="writers">
+      <data key="d1">20.2663942125</data>
+    </edge>
+    <edge source="outdoors" target="chess">
+      <data key="d1">43.3795909886</data>
+    </edge>
+    <edge source="outdoors" target="skeptics">
+      <data key="d1">13.7852133544</data>
+    </edge>
+    <edge source="outdoors" target="quant">
+      <data key="d1">15.8408163484</data>
+    </edge>
+    <edge source="outdoors" target="poker">
+      <data key="d1">52.9102096424</data>
+    </edge>
+    <edge source="outdoors" target="philosophy">
+      <data key="d1">24.2554233172</data>
+    </edge>
+    <edge source="outdoors" target="parenting">
+      <data key="d1">21.1902504363</data>
+    </edge>
+    <edge source="outdoors" target="academia">
+      <data key="d1">26.1299674284</data>
+    </edge>
+    <edge source="outdoors" target="smugmug">
+      <data key="d1">39.420131129</data>
+    </edge>
+    <edge source="outdoors" target="chemistry">
+      <data key="d1">41.4944310772</data>
+    </edge>
+    <edge source="outdoors" target="history">
+      <data key="d1">41.7579303166</data>
+    </edge>
+    <edge source="smugmug" target="mechanics">
+      <data key="d1">15.153572552</data>
+    </edge>
+    <edge source="smugmug" target="windowsphone">
+      <data key="d1">32.1356667592</data>
+    </edge>
+    <edge source="smugmug" target="avp">
+      <data key="d1">12.6029042047</data>
+    </edge>
+    <edge source="smugmug" target="sqa">
+      <data key="d1">10.748695937</data>
+    </edge>
+    <edge source="smugmug" target="productivity">
+      <data key="d1">10.522010892</data>
+    </edge>
+    <edge source="smugmug" target="scicomp">
+      <data key="d1">15.9969023731</data>
+    </edge>
+    <edge source="smugmug" target="travel">
+      <data key="d1">12.3840653648</data>
+    </edge>
+    <edge source="smugmug" target="writers">
+      <data key="d1">10.9460285683</data>
+    </edge>
+    <edge source="smugmug" target="quant">
+      <data key="d1">11.5228840604</data>
+    </edge>
+    <edge source="smugmug" target="chess">
+      <data key="d1">34.7329833253</data>
+    </edge>
+    <edge source="smugmug" target="poker">
+      <data key="d1">49.2086811917</data>
+    </edge>
+    <edge source="smugmug" target="philosophy">
+      <data key="d1">12.4723518766</data>
+    </edge>
+    <edge source="smugmug" target="parenting">
+      <data key="d1">12.7900786376</data>
+    </edge>
+    <edge source="smugmug" target="academia">
+      <data key="d1">15.0068486629</data>
+    </edge>
+    <edge source="smugmug" target="chemistry">
+      <data key="d1">31.264028704</data>
+    </edge>
+    <edge source="smugmug" target="history">
+      <data key="d1">22.8016824888</data>
+    </edge>
+    <edge source="graphicdesign" target="mechanics">
+      <data key="d1">8.71586605341</data>
+    </edge>
+    <edge source="graphicdesign" target="windowsphone">
+      <data key="d1">8.10162574019</data>
+    </edge>
+    <edge source="graphicdesign" target="avp">
+      <data key="d1">11.4493875232</data>
+    </edge>
+    <edge source="graphicdesign" target="productivity">
+      <data key="d1">8.33235245846</data>
+    </edge>
+    <edge source="graphicdesign" target="travel">
+      <data key="d1">8.02605087321</data>
+    </edge>
+    <edge source="graphicdesign" target="writers">
+      <data key="d1">10.6271325296</data>
+    </edge>
+    <edge source="graphicdesign" target="chess">
+      <data key="d1">10.1741346505</data>
+    </edge>
+    <edge source="graphicdesign" target="poker">
+      <data key="d1">11.8143491281</data>
+    </edge>
+    <edge source="graphicdesign" target="philosophy">
+      <data key="d1">8.85106529729</data>
+    </edge>
+    <edge source="graphicdesign" target="chemistry">
+      <data key="d1">10.0165554606</data>
+    </edge>
+    <edge source="graphicdesign" target="history">
+      <data key="d1">10.5267289462</data>
+    </edge>
+    <edge source="history" target="mechanics">
+      <data key="d1">19.8742151261</data>
+    </edge>
+    <edge source="history" target="windowsphone">
+      <data key="d1">22.3222707852</data>
+    </edge>
+    <edge source="history" target="avp">
+      <data key="d1">15.9462104213</data>
+    </edge>
+    <edge source="history" target="sqa">
+      <data key="d1">14.0652369063</data>
+    </edge>
+    <edge source="history" target="productivity">
+      <data key="d1">17.6128077139</data>
+    </edge>
+    <edge source="history" target="scicomp">
+      <data key="d1">19.3526385165</data>
+    </edge>
+    <edge source="history" target="travel">
+      <data key="d1">23.9881118885</data>
+    </edge>
+    <edge source="history" target="writers">
+      <data key="d1">21.7263212719</data>
+    </edge>
+    <edge source="history" target="chess">
+      <data key="d1">37.66883195</data>
+    </edge>
+    <edge source="history" target="skeptics">
+      <data key="d1">15.0816145863</data>
+    </edge>
+    <edge source="history" target="quant">
+      <data key="d1">13.6557369101</data>
+    </edge>
+    <edge source="history" target="poker">
+      <data key="d1">40.2499523257</data>
+    </edge>
+    <edge source="history" target="philosophy">
+      <data key="d1">30.3050731832</data>
+    </edge>
+    <edge source="history" target="parenting">
+      <data key="d1">19.5259097787</data>
+    </edge>
+    <edge source="history" target="academia">
+      <data key="d1">20.9168754907</data>
+    </edge>
+    <edge source="history" target="chemistry">
+      <data key="d1">34.4118097127</data>
+    </edge>
+    <edge source="history" target="physics">
+      <data key="d1">9.06819098607</data>
+    </edge>
+    <edge source="mechanics" target="windowsphone">
+      <data key="d1">16.673881955</data>
+    </edge>
+    <edge source="mechanics" target="avp">
+      <data key="d1">14.5138369491</data>
+    </edge>
+    <edge source="mechanics" target="sqa">
+      <data key="d1">11.2593849398</data>
+    </edge>
+    <edge source="mechanics" target="productivity">
+      <data key="d1">11.8765191774</data>
+    </edge>
+    <edge source="mechanics" target="scicomp">
+      <data key="d1">10.3057280177</data>
+    </edge>
+    <edge source="mechanics" target="travel">
+      <data key="d1">15.7112435348</data>
+    </edge>
+    <edge source="mechanics" target="writers">
+      <data key="d1">13.0748931896</data>
+    </edge>
+    <edge source="mechanics" target="chess">
+      <data key="d1">20.5174397172</data>
+    </edge>
+    <edge source="mechanics" target="skeptics">
+      <data key="d1">10.6721749122</data>
+    </edge>
+    <edge source="mechanics" target="quant">
+      <data key="d1">10.9210790032</data>
+    </edge>
+    <edge source="mechanics" target="poker">
+      <data key="d1">25.9976283349</data>
+    </edge>
+    <edge source="mechanics" target="philosophy">
+      <data key="d1">13.5561456582</data>
+    </edge>
+    <edge source="mechanics" target="parenting">
+      <data key="d1">16.8780340208</data>
+    </edge>
+    <edge source="mechanics" target="academia">
+      <data key="d1">10.5076401539</data>
+    </edge>
+    <edge source="mechanics" target="chemistry">
+      <data key="d1">18.3495987629</data>
+    </edge>
+    <edge source="windowsphone" target="avp">
+      <data key="d1">12.2316814055</data>
+    </edge>
+    <edge source="windowsphone" target="sqa">
+      <data key="d1">11.1741806481</data>
+    </edge>
+    <edge source="windowsphone" target="productivity">
+      <data key="d1">11.7960967835</data>
+    </edge>
+    <edge source="windowsphone" target="scicomp">
+      <data key="d1">14.4014893824</data>
+    </edge>
+    <edge source="windowsphone" target="travel">
+      <data key="d1">14.495022389</data>
+    </edge>
+    <edge source="windowsphone" target="writers">
+      <data key="d1">10.7808300385</data>
+    </edge>
+    <edge source="windowsphone" target="chess">
+      <data key="d1">34.1578838193</data>
+    </edge>
+    <edge source="windowsphone" target="skeptics">
+      <data key="d1">8.31421139006</data>
+    </edge>
+    <edge source="windowsphone" target="quant">
+      <data key="d1">9.8017944657</data>
+    </edge>
+    <edge source="windowsphone" target="poker">
+      <data key="d1">41.7559293269</data>
+    </edge>
+    <edge source="windowsphone" target="philosophy">
+      <data key="d1">13.6180963578</data>
+    </edge>
+    <edge source="windowsphone" target="parenting">
+      <data key="d1">12.608627695</data>
+    </edge>
+    <edge source="windowsphone" target="academia">
+      <data key="d1">15.843917982</data>
+    </edge>
+    <edge source="windowsphone" target="chemistry">
+      <data key="d1">30.2659552387</data>
+    </edge>
+    <edge source="avp" target="sqa">
+      <data key="d1">9.69583957412</data>
+    </edge>
+    <edge source="avp" target="productivity">
+      <data key="d1">10.6661130643</data>
+    </edge>
+    <edge source="avp" target="scicomp">
+      <data key="d1">9.61921258529</data>
+    </edge>
+    <edge source="avp" target="travel">
+      <data key="d1">11.8453284003</data>
+    </edge>
+    <edge source="avp" target="writers">
+      <data key="d1">14.1491370608</data>
+    </edge>
+    <edge source="avp" target="chess">
+      <data key="d1">15.0332590557</data>
+    </edge>
+    <edge source="avp" target="skeptics">
+      <data key="d1">8.59593972103</data>
+    </edge>
+    <edge source="avp" target="quant">
+      <data key="d1">9.25504194647</data>
+    </edge>
+    <edge source="avp" target="poker">
+      <data key="d1">19.6757241687</data>
+    </edge>
+    <edge source="avp" target="philosophy">
+      <data key="d1">13.3428271298</data>
+    </edge>
+    <edge source="avp" target="parenting">
+      <data key="d1">11.0362332879</data>
+    </edge>
+    <edge source="avp" target="academia">
+      <data key="d1">9.32919537937</data>
+    </edge>
+    <edge source="avp" target="chemistry">
+      <data key="d1">16.6175020532</data>
+    </edge>
+    <edge source="productivity" target="sqa">
+      <data key="d1">12.8506873676</data>
+    </edge>
+    <edge source="productivity" target="scicomp">
+      <data key="d1">11.4457460377</data>
+    </edge>
+    <edge source="productivity" target="travel">
+      <data key="d1">13.6334528459</data>
+    </edge>
+    <edge source="productivity" target="writers">
+      <data key="d1">14.4734634799</data>
+    </edge>
+    <edge source="productivity" target="chess">
+      <data key="d1">16.4596699305</data>
+    </edge>
+    <edge source="productivity" target="skeptics">
+      <data key="d1">9.82244838328</data>
+    </edge>
+    <edge source="productivity" target="quant">
+      <data key="d1">9.17931817942</data>
+    </edge>
+    <edge source="productivity" target="poker">
+      <data key="d1">19.0734652546</data>
+    </edge>
+    <edge source="productivity" target="philosophy">
+      <data key="d1">15.4256650246</data>
+    </edge>
+    <edge source="productivity" target="parenting">
+      <data key="d1">13.9906078241</data>
+    </edge>
+    <edge source="productivity" target="academia">
+      <data key="d1">14.0576859117</data>
+    </edge>
+    <edge source="productivity" target="chemistry">
+      <data key="d1">13.0884430512</data>
+    </edge>
+    <edge source="scicomp" target="poker">
+      <data key="d1">26.1969786649</data>
+    </edge>
+    <edge source="scicomp" target="sqa">
+      <data key="d1">9.83886840696</data>
+    </edge>
+    <edge source="scicomp" target="travel">
+      <data key="d1">10.9953966008</data>
+    </edge>
+    <edge source="scicomp" target="writers">
+      <data key="d1">10.1526169214</data>
+    </edge>
+    <edge source="scicomp" target="quant">
+      <data key="d1">15.295693038</data>
+    </edge>
+    <edge source="scicomp" target="chess">
+      <data key="d1">24.5392104414</data>
+    </edge>
+    <edge source="scicomp" target="philosophy">
+      <data key="d1">16.1735518313</data>
+    </edge>
+    <edge source="scicomp" target="parenting">
+      <data key="d1">10.5472589896</data>
+    </edge>
+    <edge source="scicomp" target="academia">
+      <data key="d1">26.505134371</data>
+    </edge>
+    <edge source="scicomp" target="chemistry">
+      <data key="d1">29.447520947</data>
+    </edge>
+    <edge source="scicomp" target="physics">
+      <data key="d1">8.59051286704</data>
+    </edge>
+    <edge source="travel" target="sqa">
+      <data key="d1">9.97797397038</data>
+    </edge>
+    <edge source="travel" target="writers">
+      <data key="d1">12.6966398541</data>
+    </edge>
+    <edge source="travel" target="chess">
+      <data key="d1">19.4316319745</data>
+    </edge>
+    <edge source="travel" target="skeptics">
+      <data key="d1">11.3053785498</data>
+    </edge>
+    <edge source="travel" target="quant">
+      <data key="d1">9.79306040959</data>
+    </edge>
+    <edge source="travel" target="poker">
+      <data key="d1">22.9459313126</data>
+    </edge>
+    <edge source="travel" target="philosophy">
+      <data key="d1">14.1451417393</data>
+    </edge>
+    <edge source="travel" target="parenting">
+      <data key="d1">14.2567025045</data>
+    </edge>
+    <edge source="travel" target="academia">
+      <data key="d1">14.8620919669</data>
+    </edge>
+    <edge source="travel" target="chemistry">
+      <data key="d1">15.3292212733</data>
+    </edge>
+    <edge source="writers" target="sqa">
+      <data key="d1">10.6477398967</data>
+    </edge>
+    <edge source="writers" target="chess">
+      <data key="d1">17.0409195739</data>
+    </edge>
+    <edge source="writers" target="skeptics">
+      <data key="d1">10.6303266285</data>
+    </edge>
+    <edge source="writers" target="quant">
+      <data key="d1">9.36471426288</data>
+    </edge>
+    <edge source="writers" target="poker">
+      <data key="d1">19.2533418988</data>
+    </edge>
+    <edge source="writers" target="philosophy">
+      <data key="d1">17.0490121069</data>
+    </edge>
+    <edge source="writers" target="parenting">
+      <data key="d1">12.9907073221</data>
+    </edge>
+    <edge source="writers" target="academia">
+      <data key="d1">12.6696871877</data>
+    </edge>
+    <edge source="writers" target="chemistry">
+      <data key="d1">15.9323516648</data>
+    </edge>
+    <edge source="quant" target="sqa">
+      <data key="d1">8.9546855715</data>
+    </edge>
+    <edge source="quant" target="chess">
+      <data key="d1">14.0851888539</data>
+    </edge>
+    <edge source="quant" target="poker">
+      <data key="d1">23.5248493901</data>
+    </edge>
+    <edge source="quant" target="philosophy">
+      <data key="d1">11.3431315267</data>
+    </edge>
+    <edge source="quant" target="parenting">
+      <data key="d1">9.36695926462</data>
+    </edge>
+    <edge source="quant" target="academia">
+      <data key="d1">11.0764499315</data>
+    </edge>
+    <edge source="quant" target="chemistry">
+      <data key="d1">14.1082002296</data>
+    </edge>
+    <edge source="chess" target="sqa">
+      <data key="d1">15.8607054909</data>
+    </edge>
+    <edge source="chess" target="skeptics">
+      <data key="d1">12.2239903516</data>
+    </edge>
+    <edge source="chess" target="poker">
+      <data key="d1">59.5882712382</data>
+    </edge>
+    <edge source="chess" target="philosophy">
+      <data key="d1">23.862970362</data>
+    </edge>
+    <edge source="chess" target="parenting">
+      <data key="d1">18.1265683565</data>
+    </edge>
+    <edge source="chess" target="academia">
+      <data key="d1">25.3959768655</data>
+    </edge>
+    <edge source="chess" target="chemistry">
+      <data key="d1">51.4048153215</data>
+    </edge>
+    <edge source="chess" target="physics">
+      <data key="d1">8.6371350005</data>
+    </edge>
+    <edge source="skeptics" target="poker">
+      <data key="d1">12.9063781556</data>
+    </edge>
+    <edge source="skeptics" target="philosophy">
+      <data key="d1">12.4534102207</data>
+    </edge>
+    <edge source="skeptics" target="parenting">
+      <data key="d1">11.9830169411</data>
+    </edge>
+    <edge source="skeptics" target="academia">
+      <data key="d1">9.3106681869</data>
+    </edge>
+    <edge source="skeptics" target="chemistry">
+      <data key="d1">11.2095787029</data>
+    </edge>
+    <edge source="poker" target="sqa">
+      <data key="d1">17.3124463807</data>
+    </edge>
+    <edge source="poker" target="philosophy">
+      <data key="d1">23.5909620059</data>
+    </edge>
+    <edge source="poker" target="parenting">
+      <data key="d1">21.6846428252</data>
+    </edge>
+    <edge source="poker" target="academia">
+      <data key="d1">23.4762023041</data>
+    </edge>
+    <edge source="poker" target="chemistry">
+      <data key="d1">43.412362887</data>
+    </edge>
+    <edge source="philosophy" target="sqa">
+      <data key="d1">11.0989060369</data>
+    </edge>
+    <edge source="philosophy" target="parenting">
+      <data key="d1">13.1163427895</data>
+    </edge>
+    <edge source="philosophy" target="academia">
+      <data key="d1">16.9747120206</data>
+    </edge>
+    <edge source="philosophy" target="chemistry">
+      <data key="d1">23.9338763261</data>
+    </edge>
+    <edge source="philosophy" target="physics">
+      <data key="d1">8.21187481584</data>
+    </edge>
+    <edge source="parenting" target="sqa">
+      <data key="d1">10.4859098168</data>
+    </edge>
+    <edge source="parenting" target="academia">
+      <data key="d1">10.9794072174</data>
+    </edge>
+    <edge source="parenting" target="chemistry">
+      <data key="d1">13.1088046614</data>
+    </edge>
+    <edge source="sqa" target="academia">
+      <data key="d1">8.61723421045</data>
+    </edge>
+    <edge source="sqa" target="chemistry">
+      <data key="d1">10.8379043653</data>
+    </edge>
+    <edge source="academia" target="chemistry">
+      <data key="d1">30.8710263834</data>
+    </edge>
+    <edge source="chemistry" target="physics">
+      <data key="d1">13.069981092</data>
+    </edge>
+  </graph>
+</graphml>

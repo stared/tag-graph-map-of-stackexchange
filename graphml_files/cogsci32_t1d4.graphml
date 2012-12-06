@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="utf-8"?><graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="weight" attr.type="double" for="edge" id="d1" />
+  <key attr.name="weight" attr.type="int" for="node" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="emotion">
+      <data key="d0">30</data>
+    </node>
+    <node id="motivation">
+      <data key="d0">24</data>
+    </node>
+    <node id="computational-modeling">
+      <data key="d0">26</data>
+    </node>
+    <node id="consciousness">
+      <data key="d0">16</data>
+    </node>
+    <node id="intelligence">
+      <data key="d0">35</data>
+    </node>
+    <node id="sensation">
+      <data key="d0">14</data>
+    </node>
+    <node id="sleep">
+      <data key="d0">15</data>
+    </node>
+    <node id="learning">
+      <data key="d0">43</data>
+    </node>
+    <node id="measurement">
+      <data key="d0">44</data>
+    </node>
+    <node id="cognitive-psychology">
+      <data key="d0">70</data>
+    </node>
+    <node id="methodology">
+      <data key="d0">36</data>
+    </node>
+    <node id="memory">
+      <data key="d0">45</data>
+    </node>
+    <node id="test">
+      <data key="d0">17</data>
+    </node>
+    <node id="performance">
+      <data key="d0">26</data>
+    </node>
+    <node id="reference-request">
+      <data key="d0">59</data>
+    </node>
+    <node id="personality">
+      <data key="d0">14</data>
+    </node>
+    <node id="cognitive-modeling">
+      <data key="d0">31</data>
+    </node>
+    <node id="perception">
+      <data key="d0">52</data>
+    </node>
+    <node id="experimental-psychology">
+      <data key="d0">35</data>
+    </node>
+    <node id="decision-making">
+      <data key="d0">27</data>
+    </node>
+    <node id="evolution">
+      <data key="d0">15</data>
+    </node>
+    <node id="philosophy-of-mind">
+      <data key="d0">19</data>
+    </node>
+    <node id="neural-network">
+      <data key="d0">17</data>
+    </node>
+    <node id="io-psychology">
+      <data key="d0">26</data>
+    </node>
+    <node id="social-psychology">
+      <data key="d0">49</data>
+    </node>
+    <node id="theoretical-neuroscience">
+      <data key="d0">20</data>
+    </node>
+    <node id="neurobiology">
+      <data key="d0">68</data>
+    </node>
+    <node id="language">
+      <data key="d0">15</data>
+    </node>
+    <node id="developmental-psychology">
+      <data key="d0">31</data>
+    </node>
+    <node id="terminology">
+      <data key="d0">54</data>
+    </node>
+    <node id="abnormal-psychology">
+      <data key="d0">25</data>
+    </node>
+    <node id="vision">
+      <data key="d0">29</data>
+    </node>
+    <edge source="emotion" target="social-psychology">
+      <data key="d1">1.5156462585</data>
+    </edge>
+    <edge source="emotion" target="motivation">
+      <data key="d1">2.32083333333</data>
+    </edge>
+    <edge source="emotion" target="language">
+      <data key="d1">2.47555555556</data>
+    </edge>
+    <edge source="emotion" target="experimental-psychology">
+      <data key="d1">1.59142857143</data>
+    </edge>
+    <edge source="emotion" target="test">
+      <data key="d1">2.18431372549</data>
+    </edge>
+    <edge source="emotion" target="abnormal-psychology">
+      <data key="d1">2.228</data>
+    </edge>
+    <edge source="motivation" target="evolution">
+      <data key="d1">1.54722222222</data>
+    </edge>
+    <edge source="motivation" target="io-psychology">
+      <data key="d1">6.2483974359</data>
+    </edge>
+    <edge source="motivation" target="performance">
+      <data key="d1">3.57051282051</data>
+    </edge>
+    <edge source="motivation" target="reference-request">
+      <data key="d1">1.57344632768</data>
+    </edge>
+    <edge source="motivation" target="terminology">
+      <data key="d1">1.71913580247</data>
+    </edge>
+    <edge source="motivation" target="personality">
+      <data key="d1">1.65773809524</data>
+    </edge>
+    <edge source="computational-modeling" target="theoretical-neuroscience">
+      <data key="d1">10.7115384615</data>
+    </edge>
+    <edge source="computational-modeling" target="neural-network">
+      <data key="d1">10.0814479638</data>
+    </edge>
+    <edge source="computational-modeling" target="neurobiology">
+      <data key="d1">2.20531674208</data>
+    </edge>
+    <edge source="computational-modeling" target="evolution">
+      <data key="d1">1.42820512821</data>
+    </edge>
+    <edge source="computational-modeling" target="developmental-psychology">
+      <data key="d1">2.07320099256</data>
+    </edge>
+    <edge source="computational-modeling" target="cognitive-modeling">
+      <data key="d1">6.21960297767</data>
+    </edge>
+    <edge source="computational-modeling" target="learning">
+      <data key="d1">1.4946332737</data>
+    </edge>
+    <edge source="computational-modeling" target="vision">
+      <data key="d1">1.4774535809</data>
+    </edge>
+    <edge source="consciousness" target="philosophy-of-mind">
+      <data key="d1">7.32894736842</data>
+    </edge>
+    <edge source="consciousness" target="theoretical-neuroscience">
+      <data key="d1">1.740625</data>
+    </edge>
+    <edge source="consciousness" target="neurobiology">
+      <data key="d1">3.07169117647</data>
+    </edge>
+    <edge source="consciousness" target="language">
+      <data key="d1">4.64166666667</data>
+    </edge>
+    <edge source="consciousness" target="personality">
+      <data key="d1">2.48660714286</data>
+    </edge>
+    <edge source="intelligence" target="test">
+      <data key="d1">3.74453781513</data>
+    </edge>
+    <edge source="intelligence" target="performance">
+      <data key="d1">3.06043956044</data>
+    </edge>
+    <edge source="intelligence" target="philosophy-of-mind">
+      <data key="d1">2.51278195489</data>
+    </edge>
+    <edge source="intelligence" target="developmental-psychology">
+      <data key="d1">1.5400921659</data>
+    </edge>
+    <edge source="intelligence" target="measurement">
+      <data key="d1">2.53181818182</data>
+    </edge>
+    <edge source="sensation" target="philosophy-of-mind">
+      <data key="d1">2.09398496241</data>
+    </edge>
+    <edge source="sensation" target="perception">
+      <data key="d1">6.12087912088</data>
+    </edge>
+    <edge source="sensation" target="vision">
+      <data key="d1">9.60344827586</data>
+    </edge>
+    <edge source="sleep" target="performance">
+      <data key="d1">2.85641025641</data>
+    </edge>
+    <edge source="sleep" target="cognitive-psychology">
+      <data key="d1">1.59142857143</data>
+    </edge>
+    <edge source="sleep" target="experimental-psychology">
+      <data key="d1">2.1219047619</data>
+    </edge>
+    <edge source="learning" target="performance">
+      <data key="d1">1.4946332737</data>
+    </edge>
+    <edge source="learning" target="theoretical-neuroscience">
+      <data key="d1">2.59069767442</data>
+    </edge>
+    <edge source="learning" target="language">
+      <data key="d1">2.59069767442</data>
+    </edge>
+    <edge source="learning" target="memory">
+      <data key="d1">1.43927648579</data>
+    </edge>
+    <edge source="measurement" target="experimental-psychology">
+      <data key="d1">1.80844155844</data>
+    </edge>
+    <edge source="measurement" target="methodology">
+      <data key="d1">3.51641414141</data>
+    </edge>
+    <edge source="measurement" target="neural-network">
+      <data key="d1">1.48930481283</data>
+    </edge>
+    <edge source="measurement" target="io-psychology">
+      <data key="d1">1.94755244755</data>
+    </edge>
+    <edge source="measurement" target="test">
+      <data key="d1">6.70187165775</data>
+    </edge>
+    <edge source="measurement" target="personality">
+      <data key="d1">3.61688311688</data>
+    </edge>
+    <edge source="cognitive-psychology" target="performance">
+      <data key="d1">1.53021978022</data>
+    </edge>
+    <edge source="cognitive-psychology" target="cognitive-modeling">
+      <data key="d1">1.79677419355</data>
+    </edge>
+    <edge source="cognitive-psychology" target="language">
+      <data key="d1">1.59142857143</data>
+    </edge>
+    <edge source="cognitive-psychology" target="memory">
+      <data key="d1">1.76825396825</data>
+    </edge>
+    <edge source="methodology" target="test">
+      <data key="d1">4.55065359477</data>
+    </edge>
+    <edge source="methodology" target="experimental-psychology">
+      <data key="d1">5.74682539683</data>
+    </edge>
+    <edge source="memory" target="language">
+      <data key="d1">1.65037037037</data>
+    </edge>
+    <edge source="test" target="experimental-psychology">
+      <data key="d1">2.80840336134</data>
+    </edge>
+    <edge source="test" target="personality">
+      <data key="d1">2.34033613445</data>
+    </edge>
+    <edge source="performance" target="io-psychology">
+      <data key="d1">5.76775147929</data>
+    </edge>
+    <edge source="reference-request" target="cognitive-modeling">
+      <data key="d1">2.13176599235</data>
+    </edge>
+    <edge source="reference-request" target="decision-making">
+      <data key="d1">1.74827369743</data>
+    </edge>
+    <edge source="reference-request" target="vision">
+      <data key="d1">1.95324371712</data>
+    </edge>
+    <edge source="reference-request" target="experimental-psychology">
+      <data key="d1">1.61840193705</data>
+    </edge>
+    <edge source="personality" target="social-psychology">
+      <data key="d1">2.43586005831</data>
+    </edge>
+    <edge source="personality" target="language">
+      <data key="d1">2.65238095238</data>
+    </edge>
+    <edge source="personality" target="io-psychology">
+      <data key="d1">1.53021978022</data>
+    </edge>
+    <edge source="personality" target="abnormal-psychology">
+      <data key="d1">1.59142857143</data>
+    </edge>
+    <edge source="cognitive-modeling" target="theoretical-neuroscience">
+      <data key="d1">2.69516129032</data>
+    </edge>
+    <edge source="cognitive-modeling" target="philosophy-of-mind">
+      <data key="d1">1.89134125637</data>
+    </edge>
+    <edge source="cognitive-modeling" target="neural-network">
+      <data key="d1">2.11385199241</data>
+    </edge>
+    <edge source="cognitive-modeling" target="vision">
+      <data key="d1">2.47830923248</data>
+    </edge>
+    <edge source="perception" target="vision">
+      <data key="d1">7.38726790451</data>
+    </edge>
+    <edge source="decision-making" target="terminology">
+      <data key="d1">1.91015089163</data>
+    </edge>
+    <edge source="evolution" target="social-psychology">
+      <data key="d1">2.27346938776</data>
+    </edge>
+    <edge source="evolution" target="neurobiology">
+      <data key="d1">1.63823529412</data>
+    </edge>
+    <edge source="evolution" target="developmental-psychology">
+      <data key="d1">2.39569892473</data>
+    </edge>
+    <edge source="evolution" target="philosophy-of-mind">
+      <data key="d1">3.90877192982</data>
+    </edge>
+    <edge source="evolution" target="neural-network">
+      <data key="d1">2.18431372549</data>
+    </edge>
+    <edge source="philosophy-of-mind" target="language">
+      <data key="d1">3.90877192982</data>
+    </edge>
+    <edge source="philosophy-of-mind" target="neurobiology">
+      <data key="d1">2.15557275542</data>
+    </edge>
+    <edge source="philosophy-of-mind" target="theoretical-neuroscience">
+      <data key="d1">1.46578947368</data>
+    </edge>
+    <edge source="philosophy-of-mind" target="vision">
+      <data key="d1">3.03266787659</data>
+    </edge>
+    <edge source="neural-network" target="neurobiology">
+      <data key="d1">3.37283737024</data>
+    </edge>
+    <edge source="neural-network" target="developmental-psychology">
+      <data key="d1">3.17077798861</data>
+    </edge>
+    <edge source="neural-network" target="theoretical-neuroscience">
+      <data key="d1">16.3823529412</data>
+    </edge>
+    <edge source="io-psychology" target="social-psychology">
+      <data key="d1">1.74882260597</data>
+    </edge>
+    <edge source="social-psychology" target="terminology">
+      <data key="d1">2.31557067271</data>
+    </edge>
+    <edge source="theoretical-neuroscience" target="neurobiology">
+      <data key="d1">5.73382352941</data>
+    </edge>
+    <edge source="theoretical-neuroscience" target="developmental-psychology">
+      <data key="d1">3.5935483871</data>
+    </edge>
+    <edge source="language" target="developmental-psychology">
+      <data key="d1">2.39569892473</data>
+    </edge>
+    <edge source="terminology" target="abnormal-psychology">
+      <data key="d1">1.65037037037</data>
+    </edge>
+  </graph>
+</graphml>
