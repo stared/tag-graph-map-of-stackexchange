@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="utf-8"?><graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="weight" attr.type="double" for="edge" id="d1" />
+  <key attr.name="weight" attr.type="int" for="node" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="etiquette">
+      <data key="d0">34</data>
+    </node>
+    <node id="phd-thesis">
+      <data key="d0">21</data>
+    </node>
+    <node id="professors">
+      <data key="d0">71</data>
+    </node>
+    <node id="books">
+      <data key="d0">19</data>
+    </node>
+    <node id="tools">
+      <data key="d0">20</data>
+    </node>
+    <node id="career-path">
+      <data key="d0">51</data>
+    </node>
+    <node id="writing">
+      <data key="d0">32</data>
+    </node>
+    <node id="research">
+      <data key="d0">91</data>
+    </node>
+    <node id="undergraduate">
+      <data key="d0">25</data>
+    </node>
+    <node id="cv">
+      <data key="d0">21</data>
+    </node>
+    <node id="conference">
+      <data key="d0">45</data>
+    </node>
+    <node id="funding">
+      <data key="d0">24</data>
+    </node>
+    <node id="publishing">
+      <data key="d0">161</data>
+    </node>
+    <node id="job-search">
+      <data key="d0">30</data>
+    </node>
+    <node id="postdocs">
+      <data key="d0">32</data>
+    </node>
+    <node id="application">
+      <data key="d0">35</data>
+    </node>
+    <node id="citations">
+      <data key="d0">49</data>
+    </node>
+    <node id="papers">
+      <data key="d0">55</data>
+    </node>
+    <node id="teaching">
+      <data key="d0">35</data>
+    </node>
+    <node id="scientific-productivity">
+      <data key="d0">26</data>
+    </node>
+    <node id="phd">
+      <data key="d0">156</data>
+    </node>
+    <node id="job">
+      <data key="d0">43</data>
+    </node>
+    <node id="advisor">
+      <data key="d0">34</data>
+    </node>
+    <node id="ethics">
+      <data key="d0">25</data>
+    </node>
+    <node id="journals">
+      <data key="d0">74</data>
+    </node>
+    <node id="masters">
+      <data key="d0">30</data>
+    </node>
+    <node id="career">
+      <data key="d0">31</data>
+    </node>
+    <node id="graduate-school">
+      <data key="d0">126</data>
+    </node>
+    <node id="university">
+      <data key="d0">39</data>
+    </node>
+    <node id="graduate-admissions">
+      <data key="d0">87</data>
+    </node>
+    <node id="publications">
+      <data key="d0">65</data>
+    </node>
+    <node id="peer-review">
+      <data key="d0">38</data>
+    </node>
+    <edge source="etiquette" target="publishing">
+      <data key="d1">1.72798684691</data>
+    </edge>
+    <edge source="etiquette" target="peer-review">
+      <data key="d1">1.62693498452</data>
+    </edge>
+    <edge source="etiquette" target="postdocs">
+      <data key="d1">1.93198529412</data>
+    </edge>
+    <edge source="etiquette" target="job">
+      <data key="d1">1.43775649795</data>
+    </edge>
+    <edge source="etiquette" target="advisor">
+      <data key="d1">4.54584775087</data>
+    </edge>
+    <edge source="etiquette" target="ethics">
+      <data key="d1">2.47294117647</data>
+    </edge>
+    <edge source="etiquette" target="research">
+      <data key="d1">1.35875888817</data>
+    </edge>
+    <edge source="phd-thesis" target="application">
+      <data key="d1">2.85986394558</data>
+    </edge>
+    <edge source="phd-thesis" target="books">
+      <data key="d1">2.63408521303</data>
+    </edge>
+    <edge source="phd-thesis" target="funding">
+      <data key="d1">4.17063492063</data>
+    </edge>
+    <edge source="phd-thesis" target="publications">
+      <data key="d1">1.53992673993</data>
+    </edge>
+    <edge source="phd-thesis" target="postdocs">
+      <data key="d1">1.56398809524</data>
+    </edge>
+    <edge source="professors" target="teaching">
+      <data key="d1">2.11468812877</data>
+    </edge>
+    <edge source="professors" target="university">
+      <data key="d1">4.55471289274</data>
+    </edge>
+    <edge source="professors" target="job-search">
+      <data key="d1">1.48028169014</data>
+    </edge>
+    <edge source="professors" target="job">
+      <data key="d1">1.37700622339</data>
+    </edge>
+    <edge source="professors" target="career-path">
+      <data key="d1">1.74150787075</data>
+    </edge>
+    <edge source="books" target="publishing">
+      <data key="d1">2.06145799281</data>
+    </edge>
+    <edge source="books" target="peer-review">
+      <data key="d1">1.45567867036</data>
+    </edge>
+    <edge source="books" target="writing">
+      <data key="d1">1.72861842105</data>
+    </edge>
+    <edge source="books" target="publications">
+      <data key="d1">2.55303643725</data>
+    </edge>
+    <edge source="books" target="papers">
+      <data key="d1">2.01148325359</data>
+    </edge>
+    <edge source="books" target="ethics">
+      <data key="d1">2.21263157895</data>
+    </edge>
+    <edge source="tools" target="journals">
+      <data key="d1">3.55067567568</data>
+    </edge>
+    <edge source="tools" target="scientific-productivity">
+      <data key="d1">8.08461538462</data>
+    </edge>
+    <edge source="career-path" target="masters">
+      <data key="d1">2.06078431373</data>
+    </edge>
+    <edge source="career-path" target="funding">
+      <data key="d1">1.71732026144</data>
+    </edge>
+    <edge source="career-path" target="graduate-admissions">
+      <data key="d1">1.65810232139</data>
+    </edge>
+    <edge source="career-path" target="career">
+      <data key="d1">5.98292220114</data>
+    </edge>
+    <edge source="career-path" target="undergraduate">
+      <data key="d1">3.29725490196</data>
+    </edge>
+    <edge source="career-path" target="university">
+      <data key="d1">1.58521870287</data>
+    </edge>
+    <edge source="career-path" target="postdocs">
+      <data key="d1">3.86397058824</data>
+    </edge>
+    <edge source="career-path" target="application">
+      <data key="d1">1.76638655462</data>
+    </edge>
+    <edge source="career-path" target="job">
+      <data key="d1">2.8755129959</data>
+    </edge>
+    <edge source="career-path" target="phd">
+      <data key="d1">1.32101558572</data>
+    </edge>
+    <edge source="career-path" target="job-search">
+      <data key="d1">2.06078431373</data>
+    </edge>
+    <edge source="writing" target="conference">
+      <data key="d1">1.45972222222</data>
+    </edge>
+    <edge source="writing" target="funding">
+      <data key="d1">1.36848958333</data>
+    </edge>
+    <edge source="writing" target="publishing">
+      <data key="d1">1.63198757764</data>
+    </edge>
+    <edge source="writing" target="citations">
+      <data key="d1">2.01084183673</data>
+    </edge>
+    <edge source="writing" target="papers">
+      <data key="d1">3.58295454545</data>
+    </edge>
+    <edge source="writing" target="ethics">
+      <data key="d1">2.6275</data>
+    </edge>
+    <edge source="research" target="career">
+      <data key="d1">1.4902516838</data>
+    </edge>
+    <edge source="research" target="undergraduate">
+      <data key="d1">1.38593406593</data>
+    </edge>
+    <edge source="research" target="publications">
+      <data key="d1">1.42147083686</data>
+    </edge>
+    <edge source="research" target="teaching">
+      <data key="d1">1.31993720565</data>
+    </edge>
+    <edge source="undergraduate" target="career">
+      <data key="d1">2.71225806452</data>
+    </edge>
+    <edge source="undergraduate" target="university">
+      <data key="d1">4.31179487179</data>
+    </edge>
+    <edge source="undergraduate" target="graduate-admissions">
+      <data key="d1">3.38252873563</data>
+    </edge>
+    <edge source="undergraduate" target="graduate-school">
+      <data key="d1">1.3346031746</data>
+    </edge>
+    <edge source="undergraduate" target="teaching">
+      <data key="d1">2.40228571429</data>
+    </edge>
+    <edge source="cv" target="peer-review">
+      <data key="d1">1.31704260652</data>
+    </edge>
+    <edge source="cv" target="postdocs">
+      <data key="d1">1.56398809524</data>
+    </edge>
+    <edge source="cv" target="application">
+      <data key="d1">2.85986394558</data>
+    </edge>
+    <edge source="cv" target="job">
+      <data key="d1">3.49169435216</data>
+    </edge>
+    <edge source="cv" target="advisor">
+      <data key="d1">1.47198879552</data>
+    </edge>
+    <edge source="cv" target="job-search">
+      <data key="d1">3.33650793651</data>
+    </edge>
+    <edge source="conference" target="funding">
+      <data key="d1">1.9462962963</data>
+    </edge>
+    <edge source="conference" target="publishing">
+      <data key="d1">1.59572118703</data>
+    </edge>
+    <edge source="conference" target="peer-review">
+      <data key="d1">2.45847953216</data>
+    </edge>
+    <edge source="conference" target="publications">
+      <data key="d1">1.43726495726</data>
+    </edge>
+    <edge source="conference" target="papers">
+      <data key="d1">1.69858585859</data>
+    </edge>
+    <edge source="conference" target="journals">
+      <data key="d1">2.52492492492</data>
+    </edge>
+    <edge source="funding" target="career">
+      <data key="d1">1.4126344086</data>
+    </edge>
+    <edge source="funding" target="graduate-school">
+      <data key="d1">1.39021164021</data>
+    </edge>
+    <edge source="funding" target="university">
+      <data key="d1">2.24572649573</data>
+    </edge>
+    <edge source="funding" target="papers">
+      <data key="d1">1.59242424242</data>
+    </edge>
+    <edge source="funding" target="postdocs">
+      <data key="d1">2.73697916667</data>
+    </edge>
+    <edge source="funding" target="application">
+      <data key="d1">2.50238095238</data>
+    </edge>
+    <edge source="funding" target="job">
+      <data key="d1">2.03682170543</data>
+    </edge>
+    <edge source="funding" target="advisor">
+      <data key="d1">2.57598039216</data>
+    </edge>
+    <edge source="funding" target="ethics">
+      <data key="d1">1.75166666667</data>
+    </edge>
+    <edge source="funding" target="phd">
+      <data key="d1">1.68429487179</data>
+    </edge>
+    <edge source="funding" target="job-search">
+      <data key="d1">1.45972222222</data>
+    </edge>
+    <edge source="publishing" target="citations">
+      <data key="d1">1.73190518443</data>
+    </edge>
+    <edge source="publishing" target="peer-review">
+      <data key="d1">2.74861065708</data>
+    </edge>
+    <edge source="publishing" target="publications">
+      <data key="d1">2.91247013856</data>
+    </edge>
+    <edge source="publishing" target="papers">
+      <data key="d1">2.25511010728</data>
+    </edge>
+    <edge source="publishing" target="ethics">
+      <data key="d1">1.82782608696</data>
+    </edge>
+    <edge source="publishing" target="journals">
+      <data key="d1">4.05791505792</data>
+    </edge>
+    <edge source="job-search" target="career">
+      <data key="d1">3.39032258065</data>
+    </edge>
+    <edge source="job-search" target="university">
+      <data key="d1">2.69487179487</data>
+    </edge>
+    <edge source="job-search" target="postdocs">
+      <data key="d1">5.47395833333</data>
+    </edge>
+    <edge source="job-search" target="job">
+      <data key="d1">8.96201550388</data>
+    </edge>
+    <edge source="job-search" target="phd">
+      <data key="d1">1.57200854701</data>
+    </edge>
+    <edge source="postdocs" target="career">
+      <data key="d1">8.47580645161</data>
+    </edge>
+    <edge source="postdocs" target="phd">
+      <data key="d1">1.89483173077</data>
+    </edge>
+    <edge source="postdocs" target="application">
+      <data key="d1">1.87678571429</data>
+    </edge>
+    <edge source="postdocs" target="job">
+      <data key="d1">6.87427325581</data>
+    </edge>
+    <edge source="application" target="masters">
+      <data key="d1">2.0019047619</data>
+    </edge>
+    <edge source="application" target="career">
+      <data key="d1">1.93732718894</data>
+    </edge>
+    <edge source="application" target="phd">
+      <data key="d1">2.30989010989</data>
+    </edge>
+    <edge source="application" target="graduate-admissions">
+      <data key="d1">3.10640394089</data>
+    </edge>
+    <edge source="application" target="advisor">
+      <data key="d1">2.64957983193</data>
+    </edge>
+    <edge source="application" target="ethics">
+      <data key="d1">2.40228571429</data>
+    </edge>
+    <edge source="citations" target="publications">
+      <data key="d1">1.64992150706</data>
+    </edge>
+    <edge source="citations" target="papers">
+      <data key="d1">1.94990723562</data>
+    </edge>
+    <edge source="citations" target="ethics">
+      <data key="d1">2.57387755102</data>
+    </edge>
+    <edge source="citations" target="journals">
+      <data key="d1">2.60865968009</data>
+    </edge>
+    <edge source="papers" target="peer-review">
+      <data key="d1">2.01148325359</data>
+    </edge>
+    <edge source="papers" target="publications">
+      <data key="d1">3.82181818182</data>
+    </edge>
+    <edge source="papers" target="journals">
+      <data key="d1">2.32407862408</data>
+    </edge>
+    <edge source="teaching" target="university">
+      <data key="d1">2.30989010989</data>
+    </edge>
+    <edge source="teaching" target="job">
+      <data key="d1">2.0950166113</data>
+    </edge>
+    <edge source="scientific-productivity" target="university">
+      <data key="d1">2.07297830375</data>
+    </edge>
+    <edge source="phd" target="masters">
+      <data key="d1">2.69487179487</data>
+    </edge>
+    <edge source="phd" target="graduate-admissions">
+      <data key="d1">1.93597111701</data>
+    </edge>
+    <edge source="phd" target="career">
+      <data key="d1">1.95595533499</data>
+    </edge>
+    <edge source="phd" target="job">
+      <data key="d1">1.72346451998</data>
+    </edge>
+    <edge source="phd" target="graduate-school">
+      <data key="d1">1.60409035409</data>
+    </edge>
+    <edge source="phd" target="advisor">
+      <data key="d1">3.36858974359</data>
+    </edge>
+    <edge source="job" target="career">
+      <data key="d1">7.88447111778</data>
+    </edge>
+    <edge source="job" target="university">
+      <data key="d1">3.1335718545</data>
+    </edge>
+    <edge source="job" target="advisor">
+      <data key="d1">2.15663474692</data>
+    </edge>
+    <edge source="advisor" target="graduate-admissions">
+      <data key="d1">1.77653820149</data>
+    </edge>
+    <edge source="advisor" target="graduate-school">
+      <data key="d1">4.17063492063</data>
+    </edge>
+    <edge source="ethics" target="publications">
+      <data key="d1">3.23384615385</data>
+    </edge>
+    <edge source="ethics" target="journals">
+      <data key="d1">2.27243243243</data>
+    </edge>
+    <edge source="journals" target="peer-review">
+      <data key="d1">2.99004267425</data>
+    </edge>
+    <edge source="journals" target="publications">
+      <data key="d1">4.80706860707</data>
+    </edge>
+    <edge source="masters" target="graduate-admissions">
+      <data key="d1">2.81877394636</data>
+    </edge>
+    <edge source="masters" target="graduate-school">
+      <data key="d1">1.9462962963</data>
+    </edge>
+    <edge source="career" target="university">
+      <data key="d1">1.73862696443</data>
+    </edge>
+    <edge source="graduate-school" target="graduate-admissions">
+      <data key="d1">1.72577996716</data>
+    </edge>
+  </graph>
+</graphml>

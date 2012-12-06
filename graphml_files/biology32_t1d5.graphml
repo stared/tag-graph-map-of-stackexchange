@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="utf-8"?><graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="weight" attr.type="double" for="edge" id="d1" />
+  <key attr.name="weight" attr.type="int" for="node" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="botany">
+      <data key="d0">62</data>
+    </node>
+    <node id="senescence">
+      <data key="d0">24</data>
+    </node>
+    <node id="endocrinology">
+      <data key="d0">26</data>
+    </node>
+    <node id="human-biology">
+      <data key="d0">229</data>
+    </node>
+    <node id="molecular-genetics">
+      <data key="d0">30</data>
+    </node>
+    <node id="dna-sequencing">
+      <data key="d0">26</data>
+    </node>
+    <node id="neuroscience">
+      <data key="d0">92</data>
+    </node>
+    <node id="zoology">
+      <data key="d0">90</data>
+    </node>
+    <node id="genomics">
+      <data key="d0">25</data>
+    </node>
+    <node id="genetics">
+      <data key="d0">118</data>
+    </node>
+    <node id="biochemistry">
+      <data key="d0">118</data>
+    </node>
+    <node id="microbiology">
+      <data key="d0">41</data>
+    </node>
+    <node id="human-anatomy">
+      <data key="d0">30</data>
+    </node>
+    <node id="metabolism">
+      <data key="d0">40</data>
+    </node>
+    <node id="homework">
+      <data key="d0">49</data>
+    </node>
+    <node id="eyes">
+      <data key="d0">22</data>
+    </node>
+    <node id="reproduction">
+      <data key="d0">27</data>
+    </node>
+    <node id="pharmacology">
+      <data key="d0">29</data>
+    </node>
+    <node id="rna">
+      <data key="d0">25</data>
+    </node>
+    <node id="entomology">
+      <data key="d0">28</data>
+    </node>
+    <node id="plant-physiology">
+      <data key="d0">48</data>
+    </node>
+    <node id="molecular-biology">
+      <data key="d0">77</data>
+    </node>
+    <node id="bioinformatics">
+      <data key="d0">69</data>
+    </node>
+    <node id="dna">
+      <data key="d0">81</data>
+    </node>
+    <node id="physiology">
+      <data key="d0">70</data>
+    </node>
+    <node id="evolution">
+      <data key="d0">134</data>
+    </node>
+    <node id="immunology">
+      <data key="d0">30</data>
+    </node>
+    <node id="enzymes">
+      <data key="d0">23</data>
+    </node>
+    <node id="structural-biology">
+      <data key="d0">24</data>
+    </node>
+    <node id="proteins">
+      <data key="d0">52</data>
+    </node>
+    <node id="cell-biology">
+      <data key="d0">81</data>
+    </node>
+    <node id="bacteriology">
+      <data key="d0">26</data>
+    </node>
+    <edge source="botany" target="plant-physiology">
+      <data key="d1">10.4899193548</data>
+    </edge>
+    <edge source="senescence" target="human-biology">
+      <data key="d1">1.54912663755</data>
+    </edge>
+    <edge source="senescence" target="immunology">
+      <data key="d1">1.97083333333</data>
+    </edge>
+    <edge source="senescence" target="reproduction">
+      <data key="d1">2.18981481481</data>
+    </edge>
+    <edge source="senescence" target="pharmacology">
+      <data key="d1">6.11637931034</data>
+    </edge>
+    <edge source="senescence" target="molecular-biology">
+      <data key="d1">1.53571428571</data>
+    </edge>
+    <edge source="endocrinology" target="neuroscience">
+      <data key="d1">2.96613712375</data>
+    </edge>
+    <edge source="endocrinology" target="rna">
+      <data key="d1">2.18307692308</data>
+    </edge>
+    <edge source="endocrinology" target="human-biology">
+      <data key="d1">3.57490762513</data>
+    </edge>
+    <edge source="endocrinology" target="physiology">
+      <data key="d1">4.67802197802</data>
+    </edge>
+    <edge source="endocrinology" target="reproduction">
+      <data key="d1">2.02136752137</data>
+    </edge>
+    <edge source="human-biology" target="eyes">
+      <data key="d1">2.53493449782</data>
+    </edge>
+    <edge source="human-biology" target="metabolism">
+      <data key="d1">2.32368995633</data>
+    </edge>
+    <edge source="human-biology" target="reproduction">
+      <data key="d1">1.6065016982</data>
+    </edge>
+    <edge source="human-biology" target="neuroscience">
+      <data key="d1">2.0879532941</data>
+    </edge>
+    <edge source="human-biology" target="physiology">
+      <data key="d1">1.94747348721</data>
+    </edge>
+    <edge source="molecular-genetics" target="genomics">
+      <data key="d1">1.892</data>
+    </edge>
+    <edge source="molecular-genetics" target="genetics">
+      <data key="d1">2.80593220339</data>
+    </edge>
+    <edge source="molecular-genetics" target="structural-biology">
+      <data key="d1">1.97083333333</data>
+    </edge>
+    <edge source="molecular-genetics" target="rna">
+      <data key="d1">7.568</data>
+    </edge>
+    <edge source="molecular-genetics" target="microbiology">
+      <data key="d1">3.46097560976</data>
+    </edge>
+    <edge source="molecular-genetics" target="molecular-biology">
+      <data key="d1">3.68571428571</data>
+    </edge>
+    <edge source="molecular-genetics" target="dna-sequencing">
+      <data key="d1">1.81923076923</data>
+    </edge>
+    <edge source="molecular-genetics" target="reproduction">
+      <data key="d1">1.75185185185</data>
+    </edge>
+    <edge source="molecular-genetics" target="bacteriology">
+      <data key="d1">1.81923076923</data>
+    </edge>
+    <edge source="molecular-genetics" target="dna">
+      <data key="d1">4.08765432099</data>
+    </edge>
+    <edge source="dna-sequencing" target="genomics">
+      <data key="d1">6.54923076923</data>
+    </edge>
+    <edge source="dna-sequencing" target="dna">
+      <data key="d1">2.69515669516</data>
+    </edge>
+    <edge source="dna-sequencing" target="pharmacology">
+      <data key="d1">1.88196286472</data>
+    </edge>
+    <edge source="dna-sequencing" target="rna">
+      <data key="d1">2.18307692308</data>
+    </edge>
+    <edge source="dna-sequencing" target="bioinformatics">
+      <data key="d1">6.32775919732</data>
+    </edge>
+    <edge source="dna-sequencing" target="bacteriology">
+      <data key="d1">4.19822485207</data>
+    </edge>
+    <edge source="neuroscience" target="eyes">
+      <data key="d1">2.10326086957</data>
+    </edge>
+    <edge source="neuroscience" target="pharmacology">
+      <data key="d1">2.12743628186</data>
+    </edge>
+    <edge source="neuroscience" target="human-anatomy">
+      <data key="d1">1.54239130435</data>
+    </edge>
+    <edge source="neuroscience" target="physiology">
+      <data key="d1">1.98307453416</data>
+    </edge>
+    <edge source="zoology" target="evolution">
+      <data key="d1">2.00024875622</data>
+    </edge>
+    <edge source="zoology" target="entomology">
+      <data key="d1">5.63095238095</data>
+    </edge>
+    <edge source="zoology" target="physiology">
+      <data key="d1">2.25238095238</data>
+    </edge>
+    <edge source="zoology" target="reproduction">
+      <data key="d1">2.91975308642</data>
+    </edge>
+    <edge source="genomics" target="genetics">
+      <data key="d1">3.84813559322</data>
+    </edge>
+    <edge source="genomics" target="entomology">
+      <data key="d1">2.02714285714</data>
+    </edge>
+    <edge source="genomics" target="bioinformatics">
+      <data key="d1">6.58086956522</data>
+    </edge>
+    <edge source="genomics" target="dna">
+      <data key="d1">2.80296296296</data>
+    </edge>
+    <edge source="genetics" target="homework">
+      <data key="d1">1.71791767554</data>
+    </edge>
+    <edge source="genetics" target="reproduction">
+      <data key="d1">2.67231638418</data>
+    </edge>
+    <edge source="biochemistry" target="dna">
+      <data key="d1">1.63308223478</data>
+    </edge>
+    <edge source="biochemistry" target="enzymes">
+      <data key="d1">5.22844509948</data>
+    </edge>
+    <edge source="biochemistry" target="structural-biology">
+      <data key="d1">3.0063559322</data>
+    </edge>
+    <edge source="biochemistry" target="rna">
+      <data key="d1">2.40508474576</data>
+    </edge>
+    <edge source="biochemistry" target="proteins">
+      <data key="d1">2.77509778357</data>
+    </edge>
+    <edge source="biochemistry" target="metabolism">
+      <data key="d1">4.20889830508</data>
+    </edge>
+    <edge source="microbiology" target="bacteriology">
+      <data key="d1">13.3114446529</data>
+    </edge>
+    <edge source="human-anatomy" target="reproduction">
+      <data key="d1">1.75185185185</data>
+    </edge>
+    <edge source="human-anatomy" target="eyes">
+      <data key="d1">4.3</data>
+    </edge>
+    <edge source="human-anatomy" target="metabolism">
+      <data key="d1">2.365</data>
+    </edge>
+    <edge source="human-anatomy" target="pharmacology">
+      <data key="d1">3.26206896552</data>
+    </edge>
+    <edge source="metabolism" target="pharmacology">
+      <data key="d1">2.44655172414</data>
+    </edge>
+    <edge source="metabolism" target="enzymes">
+      <data key="d1">3.0847826087</data>
+    </edge>
+    <edge source="metabolism" target="physiology">
+      <data key="d1">1.52035714286</data>
+    </edge>
+    <edge source="homework" target="rna">
+      <data key="d1">2.31673469388</data>
+    </edge>
+    <edge source="reproduction" target="evolution">
+      <data key="d1">1.5688225539</data>
+    </edge>
+    <edge source="reproduction" target="physiology">
+      <data key="d1">3.00317460317</data>
+    </edge>
+    <edge source="pharmacology" target="immunology">
+      <data key="d1">1.63103448276</data>
+    </edge>
+    <edge source="pharmacology" target="enzymes">
+      <data key="d1">2.12743628186</data>
+    </edge>
+    <edge source="pharmacology" target="bacteriology">
+      <data key="d1">1.88196286472</data>
+    </edge>
+    <edge source="pharmacology" target="physiology">
+      <data key="d1">2.09704433498</data>
+    </edge>
+    <edge source="rna" target="dna">
+      <data key="d1">6.30666666667</data>
+    </edge>
+    <edge source="rna" target="molecular-biology">
+      <data key="d1">5.16</data>
+    </edge>
+    <edge source="rna" target="structural-biology">
+      <data key="d1">4.73</data>
+    </edge>
+    <edge source="entomology" target="evolution">
+      <data key="d1">1.51279317697</data>
+    </edge>
+    <edge source="entomology" target="physiology">
+      <data key="d1">2.17193877551</data>
+    </edge>
+    <edge source="molecular-biology" target="enzymes">
+      <data key="d1">1.60248447205</data>
+    </edge>
+    <edge source="molecular-biology" target="proteins">
+      <data key="d1">2.12637362637</data>
+    </edge>
+    <edge source="bioinformatics" target="proteins">
+      <data key="d1">2.76839464883</data>
+    </edge>
+    <edge source="bioinformatics" target="dna">
+      <data key="d1">2.79280730005</data>
+    </edge>
+    <edge source="bioinformatics" target="structural-biology">
+      <data key="d1">5.14130434783</data>
+    </edge>
+    <edge source="immunology" target="enzymes">
+      <data key="d1">2.05652173913</data>
+    </edge>
+    <edge source="immunology" target="bacteriology">
+      <data key="d1">1.81923076923</data>
+    </edge>
+    <edge source="immunology" target="cell-biology">
+      <data key="d1">1.75185185185</data>
+    </edge>
+    <edge source="enzymes" target="proteins">
+      <data key="d1">3.55936454849</data>
+    </edge>
+    <edge source="structural-biology" target="proteins">
+      <data key="d1">9.09615384615</data>
+    </edge>
+  </graph>
+</graphml>
