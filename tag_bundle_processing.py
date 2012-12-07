@@ -7,7 +7,10 @@ except:
 
 
 def oe_ratio(n, nx, ny, nxy):
-        return float(n) * float(nxy) / (float(nx) * float(ny))
+    return float(n) * float(nxy) / (float(nx) * float(ny))
+
+def cooccurrences(n, nx, ny, nxy):
+    return float(nxy)
 
 
 class Bundle():
