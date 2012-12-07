@@ -58,7 +58,10 @@ E.g. (on Gephi 0.8.1 beta):
 
 ## Beta sites and other tags
 
-First, obtain tag bundles with SE API, e.g. [se-api-py](https://github.com/stared/se-api-py).
+First, obtain tag bundles with SE API, e.g. [se-api-py](https://github.com/stared/se-api-py), e.g. doing:
+
+	x = se.fetch("questions", site="biology", filter="!nR5-WLw0-5")  # filter says that we ask only for the 'tags' field
+	t = [y['tags'] for y in x]
 
 You need to have list of list with tags per post, e.g.
 
