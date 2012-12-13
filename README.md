@@ -6,7 +6,7 @@ on [StackExchange sites](http://stackexchange.com/sites),
 e.g. [StackOverflow](http://stackoverflow.com). Started as [an entry for StackExchange visualization competition at Kaggle](https://www.kaggle.com/c/predict-closed-questions-on-stack-overflow/prospector#211).
 
 If you like pictures, visit [wiki for this GitHub project](https://github.com/stared/tag-graph-map-of-stackexchange/wiki).
-However,  
+However,  if you want to read the documentation - read below.
 
 
 Current state:
