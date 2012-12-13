@@ -3,19 +3,23 @@ tag-graph-map-of-stackexchange
 
 Generates map in form of a graph from tags
 on [StackExchange sites](http://stackexchange.com/sites),
-e.g. [StackOverflow](http://stackoverflow.com).
+e.g. [StackOverflow](http://stackoverflow.com). Started as [an entry for StackExchange visualization competition at Kaggle](https://www.kaggle.com/c/predict-closed-questions-on-stack-overflow/prospector#211).
 
-Started as [an entry for StackExchange visualization competition at Kaggle](https://www.kaggle.com/c/predict-closed-questions-on-stack-overflow/prospector#211).
+If you like pictures, visit [wiki for this GitHub project](https://github.com/stared/tag-graph-map-of-stackexchange/wiki).
+However,  
+
 
 Current state:
 
 * with queries from [SE Data Explorer](http://data.stackexchange.com) (but it works for any other csv tables for any other tags, as long as it is in the same form)
-* some other stuff
+* with API scrapers to get tags from beta sites and to make a map of the StackExchange network
 
 To do:
 
 * interactive d3js graphs
-* plots for beta sites and for Area51 
+* plots for Area51
+* automated plots
+* [any comments and suggestions are welcome!](https://github.com/stared/tag-graph-map-of-stackexchange/issues)
 
 ==============================
 
