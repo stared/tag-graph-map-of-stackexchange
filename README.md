@@ -1,29 +1,31 @@
 tag-graph-map-of-stackexchange
 ==============================
 
-Generates map in form of a graph from tags
-on [StackExchange sites](http://stackexchange.com/sites),
-e.g. [StackOverflow](http://stackoverflow.com). Started as [an entry for StackExchange visualization competition at Kaggle](https://www.kaggle.com/c/predict-closed-questions-on-stack-overflow/prospector#211).
+**[Click here too see graph visualizations of StackExchange](https://github.com/stared/tag-graph-map-of-stackexchange)**.
+
+# Development
+
+I wrote scripts generating a map of topics from [StackExchange sites](http://stackexchange.com/sites) (e.g. [StackOverflow](http://stackoverflow.com)),
+in form of a graph of tags. Started as [an entry for StackExchange visualization competition at Kaggle](https://www.kaggle.com/c/predict-closed-questions-on-stack-overflow/prospector#211).
 
 If you like pictures, visit [wiki for this GitHub project](https://github.com/stared/tag-graph-map-of-stackexchange/wiki).
 However,  if you want to read the documentation - read below.
-
-
-Current state:
-
-* with queries from [SE Data Explorer](http://data.stackexchange.com) (but it works for any other csv tables for any other tags, as long as it is in the same form)
-* with API scrapers to get tags from beta sites and to make a map of the StackExchange network
 
 To do:
 
 * interactive d3js graphs
 * plots for Area51
 * automated plots
-* [any comments and suggestions are welcome!](https://github.com/stared/tag-graph-map-of-stackexchange/issues)
+
+Current state:
+
+* with queries from [SE Data Explorer](http://data.stackexchange.com) (but it works for any other csv tables for any other tags, as long as it is in the same form)
+* with API scrapers to get tags from beta sites and to make a map of the StackExchange network
+* **further development moved to [TagOverflow](http://stared.github.io/tagoverflow/)** - an interactive tag visualization in d3.js
 
 ==============================
 
-And example use:
+# Usage
 
 ## Mature SE sites
 
