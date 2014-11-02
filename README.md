@@ -1,7 +1,9 @@
 tag-graph-map-of-stackexchange
 ==============================
 
-**[Click here too see graph visualizations of StackExchange](https://github.com/stared/tag-graph-map-of-stackexchange)**.
+**[Click here too see graph visualizations of StackExchange](https://github.com/stared/tag-graph-map-of-stackexchange/wiki)**.
+
+See also: **[TagOverflow](http://stared.github.io/tagoverflow/)**.
 
 # Development
 
